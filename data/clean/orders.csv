@@ -1,0 +1,4956 @@
+order_id,customer_id,order_date,status,payment_method
+1001,164,2025-04-16,Delivered,bKash
+1002,38,2025-12-21,Delivered,Card
+1003,167,2025-12-16,Delivered,Cash on Delivery
+1004,3,2025-05-19,Delivered,bKash
+1005,344,2025-10-21,Delivered,Nagad
+1006,191,2025-05-26,Delivered,Card
+1007,25,2025-10-18,Delivered,Nagad
+1008,490,2025-12-28,Delivered,Cash on Delivery
+1009,413,2025-06-21,Cancelled,Card
+1010,453,2025-02-16,Delivered,bKash
+1011,499,2025-11-07,Pending,Cash on Delivery
+1012,8,2025-04-28,Delivered,bKash
+1013,388,2025-03-21,Cancelled,bKash
+1014,394,2025-03-12,Returned,Nagad
+1015,391,2025-12-25,Cancelled,Cash on Delivery
+1016,133,2025-02-07,Cancelled,Nagad
+1017,196,2025-10-19,Delivered,Cash on Delivery
+1018,465,2025-11-17,Delivered,Cash on Delivery
+1019,33,2025-01-12,Delivered,Cash on Delivery
+1020,321,2025-08-04,Delivered,Cash on Delivery
+1021,397,2025-07-30,Pending,Nagad
+1022,400,2025-05-11,Delivered,Cash on Delivery
+1023,299,2025-12-29,Delivered,Card
+1024,384,2025-12-04,Returned,Cash on Delivery
+1025,455,2025-06-10,Delivered,Card
+1026,383,2025-06-07,Delivered,Nagad
+1027,58,2025-10-20,Delivered,Cash on Delivery
+1028,123,2025-08-20,Delivered,bKash
+1029,153,2025-05-19,Cancelled,Card
+1030,172,2025-12-05,Delivered,bKash
+1031,181,2025-12-11,Delivered,bKash
+1032,110,2025-12-07,Delivered,Cash on Delivery
+1033,342,2025-09-24,Delivered,Cash on Delivery
+1034,56,2025-11-30,Delivered,bKash
+1035,394,2025-12-16,Pending,bKash
+1036,330,2025-11-05,Delivered,bKash
+1037,481,2025-04-09,Delivered,bKash
+1038,4,2025-06-14,Delivered,Cash on Delivery
+1039,148,2025-12-20,Delivered,Nagad
+1040,450,2025-07-27,Delivered,Cash on Delivery
+1041,247,2025-05-21,Delivered,bKash
+1042,281,2025-12-11,Delivered,Card
+1043,15,2025-04-17,Pending,Nagad
+1044,382,2025-11-04,Delivered,Nagad
+1045,127,2025-05-08,Delivered,Card
+1046,482,2025-07-22,Delivered,Cash on Delivery
+1047,188,2025-05-15,Delivered,bKash
+1048,95,2025-04-28,Delivered,Card
+1049,297,2025-12-21,Delivered,Nagad
+1050,239,2025-05-07,Delivered,Nagad
+1051,236,2025-01-26,Delivered,Nagad
+1052,475,2025-05-19,Delivered,Card
+1053,183,2025-07-14,Delivered,bKash
+1054,199,2025-11-11,Delivered,Nagad
+1055,313,2025-04-22,Delivered,Cash on Delivery
+1056,86,2025-03-02,Delivered,bKash
+1057,415,2025-07-02,Delivered,bKash
+1058,115,2025-09-21,Pending,Card
+1059,121,2025-12-20,Delivered,Cash on Delivery
+1060,6,2025-05-23,Delivered,Cash on Delivery
+1061,172,2025-11-12,Delivered,Card
+1062,292,2025-03-20,Delivered,Card
+1063,353,2025-10-12,Delivered,bKash
+1064,450,2025-07-25,Delivered,bKash
+1065,389,2025-10-04,Delivered,bKash
+1066,161,2025-10-03,Delivered,Card
+1067,413,2025-07-14,Delivered,Cash on Delivery
+1068,98,2025-12-01,Delivered,Card
+1069,105,2025-07-12,Delivered,Cash on Delivery
+1070,180,2025-10-29,Delivered,bKash
+1071,270,2025-12-21,Delivered,bKash
+1072,102,2025-12-05,Delivered,Cash on Delivery
+1073,451,2025-03-08,Delivered,Cash on Delivery
+1074,136,2025-08-07,Delivered,Cash on Delivery
+1075,196,2025-02-08,Delivered,bKash
+1076,303,2025-09-02,Delivered,bKash
+1077,215,2025-12-29,Delivered,bKash
+1078,202,2025-01-20,Delivered,bKash
+1079,493,2025-08-28,Delivered,bKash
+1080,218,2025-12-12,Delivered,bKash
+1081,57,2025-11-06,Delivered,Card
+1082,366,2025-05-24,Delivered,Cash on Delivery
+1083,353,2025-02-07,Delivered,Card
+1084,110,2025-12-04,Delivered,Nagad
+1085,426,2025-12-03,Delivered,Cash on Delivery
+1086,196,2025-07-31,Delivered,Card
+1087,76,2025-12-24,Delivered,Cash on Delivery
+1088,87,2025-01-02,Cancelled,bKash
+1089,358,2025-08-14,Pending,Nagad
+1090,109,2025-11-27,Delivered,Nagad
+1091,235,2025-12-08,Pending,Cash on Delivery
+1092,368,2025-11-10,Pending,bKash
+1093,427,2025-11-30,Delivered,Nagad
+1094,245,2025-07-25,Delivered,Cash on Delivery
+1095,454,2025-01-31,Delivered,Nagad
+1096,152,2025-01-10,Delivered,Card
+1097,437,2025-05-03,Delivered,Nagad
+1098,126,2025-09-29,Delivered,Cash on Delivery
+1099,33,2025-02-25,Cancelled,bKash
+1100,363,2025-11-08,Delivered,Nagad
+1101,379,2025-03-29,Cancelled,Cash on Delivery
+1102,464,2025-07-01,Delivered,Nagad
+1103,461,2025-12-18,Delivered,Card
+1104,52,2025-11-19,Delivered,bKash
+1105,311,2025-06-15,Delivered,Cash on Delivery
+1106,353,2025-01-02,Delivered,Card
+1107,301,2025-12-22,Delivered,Cash on Delivery
+1108,10,2025-10-15,Delivered,Cash on Delivery
+1109,23,2025-11-01,Delivered,bKash
+1110,336,2025-05-01,Delivered,Cash on Delivery
+1111,429,2025-11-18,Delivered,Card
+1112,90,2025-11-17,Delivered,Cash on Delivery
+1113,24,2025-12-27,Delivered,Cash on Delivery
+1114,203,2025-05-17,Cancelled,bKash
+1115,157,2025-11-07,Delivered,bKash
+1116,492,2025-11-15,Returned,bKash
+1117,463,2025-01-22,Delivered,bKash
+1118,280,2025-04-09,Delivered,Nagad
+1119,475,2025-09-03,Returned,bKash
+1120,115,2025-02-28,Cancelled,bKash
+1121,496,2025-11-18,Delivered,bKash
+1122,224,2025-10-10,Delivered,Cash on Delivery
+1123,239,2025-02-24,Delivered,Cash on Delivery
+1124,26,2025-07-01,Delivered,Card
+1125,89,2025-03-20,Delivered,bKash
+1126,98,2025-07-15,Delivered,Card
+1127,244,2025-03-29,Delivered,Card
+1128,95,2025-12-19,Delivered,bKash
+1129,52,2025-12-06,Delivered,Cash on Delivery
+1130,303,2025-12-18,Delivered,bKash
+1132,35,2025-11-09,Returned,Cash on Delivery
+1133,281,2025-11-07,Delivered,Cash on Delivery
+1134,481,2025-03-10,Delivered,bKash
+1135,203,2025-12-06,Delivered,Card
+1136,92,2025-08-05,Delivered,Cash on Delivery
+1137,40,2025-12-18,Delivered,Card
+1138,469,2025-11-17,Delivered,Cash on Delivery
+1139,203,2025-07-31,Pending,Cash on Delivery
+1140,53,2025-05-17,Pending,Nagad
+1141,434,2025-02-12,Cancelled,Card
+1142,402,2025-02-06,Cancelled,Card
+1143,352,2025-05-23,Delivered,Nagad
+1144,43,2025-10-24,Delivered,bKash
+1145,42,2025-07-04,Delivered,bKash
+1146,110,2025-06-25,Cancelled,Cash on Delivery
+1147,80,2025-03-31,Delivered,Card
+1148,266,2025-07-26,Delivered,Cash on Delivery
+1149,197,2025-08-21,Delivered,Nagad
+1150,383,2025-12-25,Delivered,Cash on Delivery
+1151,51,2025-09-24,Delivered,bKash
+1152,364,2025-08-10,Delivered,Nagad
+1153,468,2025-11-29,Delivered,Cash on Delivery
+1154,66,2025-06-05,Delivered,Card
+1155,327,2025-12-08,Cancelled,Cash on Delivery
+1156,255,2025-05-16,Delivered,Card
+1157,48,2025-02-16,Delivered,bKash
+1158,147,2025-06-02,Delivered,Cash on Delivery
+1159,395,2025-11-10,Delivered,Card
+1160,435,2025-02-13,Cancelled,Card
+1161,185,2025-11-18,Delivered,Cash on Delivery
+1162,54,2025-10-18,Pending,bKash
+1163,123,2025-03-22,Delivered,bKash
+1164,422,2025-12-05,Delivered,bKash
+1165,285,2025-01-26,Pending,Cash on Delivery
+1166,216,2025-04-14,Delivered,Nagad
+1167,7,2025-09-15,Cancelled,Card
+1168,392,2025-04-21,Delivered,Cash on Delivery
+1169,233,2025-09-24,Delivered,Card
+1170,273,2025-12-28,Delivered,bKash
+1171,422,2025-11-09,Delivered,bKash
+1172,282,2025-01-09,Cancelled,Card
+1173,465,2025-12-10,Delivered,Card
+1174,280,2025-07-09,Delivered,Cash on Delivery
+1175,172,2025-11-16,Delivered,Cash on Delivery
+1176,462,2025-06-19,Delivered,Nagad
+1177,322,2025-06-08,Delivered,Nagad
+1178,381,2025-11-29,Pending,bKash
+1180,336,2025-03-01,Delivered,Card
+1181,281,2025-08-17,Delivered,bKash
+1182,53,2025-09-01,Delivered,Cash on Delivery
+1183,128,2025-02-11,Delivered,bKash
+1184,456,2025-05-18,Delivered,Card
+1185,286,2025-12-14,Delivered,bKash
+1186,388,2025-08-14,Cancelled,Nagad
+1187,86,2025-02-19,Delivered,bKash
+1188,109,2025-01-15,Delivered,Cash on Delivery
+1189,471,2025-11-09,Returned,bKash
+1190,211,2025-06-18,Cancelled,bKash
+1191,444,2025-12-17,Returned,bKash
+1192,405,2025-11-14,Delivered,Cash on Delivery
+1193,169,2025-12-06,Pending,Cash on Delivery
+1194,475,2025-03-20,Cancelled,bKash
+1195,389,2025-06-13,Cancelled,bKash
+1196,64,2025-11-15,Delivered,Card
+1197,48,2025-07-29,Pending,Card
+1198,64,2025-12-07,Delivered,Card
+1199,371,2025-06-29,Delivered,Card
+1200,72,2025-11-05,Delivered,Cash on Delivery
+1201,142,2025-03-09,Delivered,Cash on Delivery
+1202,218,2025-12-10,Delivered,Cash on Delivery
+1203,68,2025-07-06,Delivered,Cash on Delivery
+1204,166,2025-12-12,Delivered,Nagad
+1205,340,2025-11-26,Delivered,Nagad
+1206,487,2025-05-28,Delivered,bKash
+1207,235,2025-11-20,Delivered,Card
+1208,374,2025-12-22,Cancelled,Card
+1209,266,2025-06-01,Cancelled,Nagad
+1210,234,2025-12-22,Delivered,Card
+1211,261,2025-12-20,Delivered,bKash
+1212,480,2025-01-30,Delivered,bKash
+1213,30,2025-08-01,Returned,Cash on Delivery
+1214,257,2025-08-26,Delivered,Cash on Delivery
+1215,26,2025-12-28,Returned,Cash on Delivery
+1216,438,2025-12-19,Pending,Cash on Delivery
+1217,301,2025-11-19,Delivered,Cash on Delivery
+1218,24,2025-08-20,Delivered,Card
+1219,312,2025-05-12,Delivered,Cash on Delivery
+1220,218,2025-06-06,Delivered,Cash on Delivery
+1221,24,2025-02-18,Delivered,Card
+1222,490,2025-06-07,Delivered,Nagad
+1223,190,2025-12-24,Delivered,Nagad
+1224,12,2025-01-14,Delivered,Cash on Delivery
+1225,307,2025-03-16,Delivered,Nagad
+1226,188,2025-11-15,Delivered,bKash
+1227,329,2025-12-22,Delivered,Card
+1228,82,2025-12-29,Delivered,Card
+1229,415,2025-06-24,Cancelled,Nagad
+1230,211,2025-12-16,Delivered,Cash on Delivery
+1231,211,2025-08-30,Delivered,Nagad
+1232,402,2025-01-15,Pending,Cash on Delivery
+1233,275,2025-03-16,Cancelled,Cash on Delivery
+1234,1,2025-09-15,Delivered,Card
+1235,290,2025-07-18,Delivered,Card
+1236,323,2025-04-21,Delivered,bKash
+1237,157,2025-07-10,Delivered,Cash on Delivery
+1238,91,2025-11-11,Delivered,Card
+1239,27,2025-11-20,Delivered,Nagad
+1240,424,2025-01-17,Delivered,Cash on Delivery
+1241,3,2025-04-24,Delivered,bKash
+1242,292,2025-12-04,Delivered,Nagad
+1243,419,2025-10-06,Delivered,Cash on Delivery
+1244,177,2025-12-15,Delivered,Cash on Delivery
+1245,101,2025-11-29,Delivered,bKash
+1246,358,2025-02-12,Delivered,bKash
+1247,316,2025-04-14,Delivered,Card
+1248,8,2025-01-22,Delivered,bKash
+1249,289,2025-12-05,Delivered,Cash on Delivery
+1250,1,2025-11-01,Delivered,Nagad
+1251,200,2025-12-08,Pending,Nagad
+1252,153,2025-02-26,Delivered,Card
+1253,417,2025-09-21,Delivered,Nagad
+1254,489,2025-07-15,Delivered,Card
+1255,350,2025-01-26,Delivered,Card
+1256,368,2025-12-01,Delivered,Cash on Delivery
+1257,12,2025-11-15,Delivered,Nagad
+1258,32,2025-07-27,Returned,Nagad
+1259,389,2025-09-16,Delivered,Cash on Delivery
+1260,215,2025-05-25,Delivered,Card
+1261,254,2025-10-17,Delivered,Card
+1262,346,2025-06-12,Delivered,Card
+1263,174,2025-12-28,Delivered,Cash on Delivery
+1264,341,2025-01-24,Delivered,bKash
+1265,364,2025-12-04,Delivered,Card
+1266,121,2025-12-20,Delivered,bKash
+1267,344,2025-04-16,Pending,bKash
+1268,85,2025-04-24,Delivered,Cash on Delivery
+1269,156,2025-10-16,Returned,bKash
+1270,391,2025-03-11,Delivered,bKash
+1271,492,2025-07-07,Cancelled,Cash on Delivery
+1272,33,2025-04-15,Delivered,Cash on Delivery
+1273,325,2025-11-23,Delivered,bKash
+1274,285,2025-12-18,Cancelled,Card
+1275,303,2025-03-14,Delivered,Nagad
+1276,394,2025-02-04,Delivered,Cash on Delivery
+1277,35,2025-09-03,Cancelled,Card
+1278,370,2025-11-13,Delivered,bKash
+1279,140,2025-02-16,Delivered,Cash on Delivery
+1280,78,2025-09-16,Delivered,Card
+1281,224,2025-07-17,Delivered,Card
+1282,14,2025-10-30,Pending,Nagad
+1283,316,2025-02-16,Delivered,bKash
+1284,283,2025-12-23,Delivered,Card
+1285,257,2025-08-14,Delivered,Cash on Delivery
+1286,16,2025-11-04,Returned,bKash
+1287,382,2025-05-13,Delivered,Cash on Delivery
+1288,18,2025-12-11,Delivered,bKash
+1289,132,2025-08-17,Pending,Card
+1290,198,2025-02-16,Delivered,Card
+1291,352,2025-12-03,Returned,Nagad
+1292,204,2025-10-18,Delivered,Cash on Delivery
+1293,409,2025-12-06,Delivered,Cash on Delivery
+1294,468,2025-07-19,Delivered,Card
+1295,383,2025-11-29,Pending,Cash on Delivery
+1296,20,2025-07-18,Returned,bKash
+1297,386,2025-12-19,Delivered,Cash on Delivery
+1298,104,2025-11-25,Delivered,bKash
+1299,445,2025-03-20,Delivered,Cash on Delivery
+1300,490,2025-12-21,Delivered,Card
+1301,43,2025-06-09,Delivered,Card
+1302,50,2025-09-15,Delivered,Cash on Delivery
+1303,349,2025-10-06,Delivered,Card
+1304,72,2025-11-29,Delivered,Card
+1305,485,2025-12-06,Returned,Nagad
+1306,271,2025-06-16,Delivered,bKash
+1307,287,2025-11-11,Delivered,Cash on Delivery
+1308,431,2025-05-22,Delivered,Cash on Delivery
+1309,109,2025-12-07,Delivered,Cash on Delivery
+1310,278,2025-05-12,Delivered,Card
+1311,500,2025-03-13,Delivered,bKash
+1312,12,2025-05-23,Delivered,bKash
+1313,88,2025-02-11,Delivered,bKash
+1314,74,2025-02-02,Cancelled,Cash on Delivery
+1315,168,2025-09-22,Delivered,Nagad
+1316,65,2025-01-29,Delivered,Card
+1317,87,2025-07-27,Delivered,Card
+1318,427,2025-10-12,Delivered,Cash on Delivery
+1319,233,2025-11-20,Delivered,bKash
+1320,180,2025-11-09,Cancelled,Cash on Delivery
+1321,210,2025-11-18,Returned,Card
+1322,486,2025-12-06,Delivered,Card
+1323,246,2025-11-01,Delivered,Cash on Delivery
+1324,235,2025-08-12,Delivered,Nagad
+1325,464,2025-02-01,Delivered,Card
+1326,19,2025-01-13,Delivered,Cash on Delivery
+1327,240,2025-04-26,Delivered,bKash
+1328,375,2025-02-27,Delivered,Card
+1329,258,2025-11-11,Delivered,bKash
+1330,435,2025-03-17,Delivered,bKash
+1331,444,2025-04-14,Delivered,Cash on Delivery
+1332,169,2025-12-23,Delivered,bKash
+1333,409,2025-10-26,Returned,bKash
+1334,122,2025-03-21,Delivered,Card
+1335,120,2025-05-20,Delivered,Cash on Delivery
+1336,489,2025-11-25,Returned,Nagad
+1337,7,2025-08-31,Delivered,bKash
+1338,177,2025-12-08,Delivered,bKash
+1339,315,2025-11-14,Delivered,Nagad
+1340,207,2025-12-23,Delivered,Card
+1341,423,2025-01-15,Delivered,Cash on Delivery
+1342,126,2025-03-28,Cancelled,bKash
+1343,277,2025-07-25,Delivered,Nagad
+1344,63,2025-01-18,Delivered,bKash
+1345,106,2025-05-10,Delivered,bKash
+1346,87,2025-02-26,Pending,bKash
+1347,371,2025-12-07,Delivered,Card
+1348,102,2025-01-24,Delivered,Card
+1349,335,2025-02-24,Delivered,Nagad
+1350,173,2025-03-13,Delivered,Card
+1351,283,2025-02-24,Delivered,Card
+1352,437,2025-07-27,Delivered,bKash
+1353,432,2025-05-13,Delivered,bKash
+1354,6,2025-11-30,Pending,bKash
+1355,393,2025-04-06,Delivered,Card
+1356,478,2025-11-10,Pending,Cash on Delivery
+1357,334,2025-08-29,Delivered,Cash on Delivery
+1358,94,2025-08-17,Delivered,Card
+1359,333,2025-10-18,Returned,Cash on Delivery
+1360,319,2025-03-15,Returned,bKash
+1361,332,2025-07-05,Delivered,bKash
+1362,215,2025-10-20,Delivered,Nagad
+1363,263,2025-11-12,Returned,Nagad
+1364,326,2025-08-14,Delivered,bKash
+1365,232,2025-08-26,Delivered,bKash
+1366,387,2025-11-11,Delivered,bKash
+1367,355,2025-08-17,Delivered,bKash
+1368,152,2025-12-13,Delivered,Cash on Delivery
+1369,306,2025-02-16,Delivered,Card
+1370,379,2025-05-07,Delivered,Nagad
+1371,245,2025-02-10,Delivered,Cash on Delivery
+1372,358,2025-02-03,Delivered,Card
+1373,64,2025-12-28,Delivered,Cash on Delivery
+1374,194,2025-03-24,Delivered,Cash on Delivery
+1375,351,2025-05-29,Delivered,bKash
+1376,448,2025-06-09,Delivered,bKash
+1377,323,2025-11-17,Cancelled,Cash on Delivery
+1378,332,2025-12-12,Delivered,Nagad
+1379,172,2025-11-07,Delivered,bKash
+1380,351,2025-05-19,Delivered,Cash on Delivery
+1381,179,2025-04-29,Delivered,Cash on Delivery
+1382,27,2025-10-09,Delivered,Nagad
+1383,124,2025-02-15,Delivered,Card
+1384,306,2025-07-17,Delivered,bKash
+1385,481,2025-06-04,Delivered,Nagad
+1386,248,2025-12-15,Delivered,Card
+1387,431,2025-08-14,Delivered,bKash
+1388,390,2025-11-08,Delivered,Cash on Delivery
+1389,281,2025-03-09,Delivered,bKash
+1390,403,2025-08-27,Delivered,Cash on Delivery
+1391,201,2025-03-05,Delivered,Card
+1392,222,2025-09-03,Delivered,Cash on Delivery
+1393,369,2025-03-01,Delivered,bKash
+1394,320,2025-06-08,Delivered,Cash on Delivery
+1395,264,2025-10-22,Delivered,bKash
+1396,217,2025-03-25,Delivered,Card
+1397,488,2025-12-29,Delivered,Nagad
+1398,33,2025-09-21,Delivered,Cash on Delivery
+1399,28,2025-11-26,Delivered,bKash
+1400,240,2025-03-03,Delivered,bKash
+1401,18,2025-09-19,Delivered,Cash on Delivery
+1402,171,2025-12-08,Pending,Nagad
+1403,285,2025-10-06,Pending,bKash
+1404,203,2025-03-10,Cancelled,Nagad
+1405,102,2025-10-28,Delivered,bKash
+1406,143,2025-02-09,Delivered,Cash on Delivery
+1407,303,2025-08-03,Delivered,bKash
+1408,476,2025-07-01,Returned,Card
+1409,391,2025-07-13,Delivered,Nagad
+1410,274,2025-07-09,Delivered,Card
+1411,70,2025-01-12,Delivered,Nagad
+1412,122,2025-11-13,Cancelled,Card
+1413,221,2025-12-08,Returned,bKash
+1414,124,2025-06-09,Delivered,Nagad
+1415,345,2025-04-12,Delivered,Cash on Delivery
+1416,184,2025-12-30,Delivered,Card
+1417,417,2025-11-24,Cancelled,Cash on Delivery
+1418,135,2025-12-17,Delivered,Card
+1419,249,2025-11-13,Delivered,Nagad
+1420,358,2025-06-24,Delivered,Card
+1421,104,2025-12-03,Cancelled,bKash
+1422,381,2025-06-03,Delivered,Card
+1423,293,2025-12-22,Delivered,Cash on Delivery
+1424,324,2025-01-25,Delivered,Nagad
+1425,228,2025-09-25,Delivered,Cash on Delivery
+1426,468,2025-08-05,Delivered,bKash
+1427,386,2025-12-18,Delivered,Card
+1428,97,2025-03-25,Delivered,Card
+1429,278,2025-11-02,Delivered,Nagad
+1430,452,2025-11-02,Returned,Card
+1431,140,2025-08-12,Cancelled,Cash on Delivery
+1432,269,2025-01-19,Delivered,bKash
+1433,378,2025-12-18,Delivered,Nagad
+1434,137,2025-12-25,Delivered,bKash
+1435,259,2025-01-07,Cancelled,bKash
+1436,277,2025-06-21,Delivered,Nagad
+1437,89,2025-06-30,Delivered,Nagad
+1438,89,2025-11-16,Pending,Cash on Delivery
+1439,282,2025-04-14,Delivered,Cash on Delivery
+1440,90,2025-06-23,Delivered,Cash on Delivery
+1441,475,2025-09-19,Delivered,bKash
+1442,262,2025-01-23,Delivered,Card
+1443,353,2025-10-20,Delivered,Cash on Delivery
+1444,199,2025-12-25,Delivered,Cash on Delivery
+1445,150,2025-09-20,Delivered,Card
+1446,244,2025-08-25,Pending,Card
+1447,356,2025-09-30,Delivered,Cash on Delivery
+1448,199,2025-12-26,Delivered,Card
+1449,142,2025-11-26,Delivered,Cash on Delivery
+1450,72,2025-06-06,Cancelled,Cash on Delivery
+1451,272,2025-06-16,Delivered,bKash
+1452,340,2025-12-23,Delivered,bKash
+1453,264,2025-03-12,Pending,bKash
+1454,128,2025-12-30,Delivered,bKash
+1455,124,2025-10-09,Delivered,Cash on Delivery
+1456,189,2025-08-19,Returned,Cash on Delivery
+1457,174,2025-04-21,Delivered,Cash on Delivery
+1458,102,2025-12-20,Delivered,Card
+1459,472,2025-06-08,Delivered,Cash on Delivery
+1460,165,2025-08-30,Cancelled,bKash
+1461,126,2025-10-11,Pending,Cash on Delivery
+1462,304,2025-11-24,Delivered,Card
+1463,401,2025-12-06,Delivered,bKash
+1464,233,2025-12-17,Delivered,bKash
+1465,334,2025-12-30,Delivered,bKash
+1466,48,2025-11-21,Delivered,Nagad
+1467,267,2025-08-07,Delivered,Card
+1468,34,2025-06-05,Delivered,Card
+1469,69,2025-08-18,Delivered,Cash on Delivery
+1470,296,2025-10-24,Delivered,bKash
+1471,103,2025-05-15,Delivered,bKash
+1472,19,2025-07-04,Delivered,bKash
+1473,90,2025-01-17,Delivered,Card
+1474,387,2025-09-26,Delivered,Cash on Delivery
+1475,294,2025-06-28,Delivered,bKash
+1476,191,2025-06-17,Delivered,Card
+1477,487,2025-07-14,Delivered,bKash
+1478,193,2025-12-06,Delivered,Nagad
+1479,439,2025-08-07,Cancelled,Nagad
+1480,173,2025-09-29,Delivered,Card
+1481,13,2025-05-08,Delivered,Cash on Delivery
+1482,56,2025-11-01,Returned,Card
+1483,137,2025-05-22,Delivered,Card
+1484,94,2025-03-14,Delivered,Cash on Delivery
+1485,79,2025-05-17,Delivered,Nagad
+1486,192,2025-12-28,Delivered,Card
+1487,488,2025-12-06,Delivered,Nagad
+1488,101,2025-09-30,Delivered,Cash on Delivery
+1489,118,2025-03-23,Cancelled,Cash on Delivery
+1490,498,2025-11-23,Delivered,Cash on Delivery
+1491,101,2025-09-25,Delivered,bKash
+1493,311,2025-07-25,Delivered,Card
+1494,464,2025-02-10,Delivered,bKash
+1495,279,2025-02-06,Delivered,bKash
+1496,297,2025-12-15,Delivered,Cash on Delivery
+1497,113,2025-10-20,Pending,Card
+1498,288,2025-02-26,Delivered,bKash
+1499,336,2025-04-14,Delivered,Cash on Delivery
+1500,494,2025-03-14,Delivered,bKash
+1501,49,2025-05-25,Delivered,Card
+1502,79,2025-04-17,Delivered,bKash
+1503,10,2025-04-30,Delivered,Cash on Delivery
+1504,396,2025-07-13,Delivered,bKash
+1505,42,2025-03-11,Delivered,bKash
+1506,458,2025-12-27,Delivered,bKash
+1507,183,2025-09-23,Returned,Nagad
+1508,145,2025-10-05,Delivered,Cash on Delivery
+1509,488,2025-03-03,Delivered,Card
+1510,361,2025-09-16,Returned,Nagad
+1511,274,2025-11-22,Delivered,Cash on Delivery
+1512,445,2025-03-05,Delivered,Cash on Delivery
+1513,378,2025-10-02,Returned,bKash
+1514,319,2025-11-19,Returned,Card
+1515,161,2025-10-15,Delivered,Cash on Delivery
+1516,494,2025-12-02,Delivered,bKash
+1517,360,2025-10-20,Pending,bKash
+1518,473,2025-02-23,Delivered,Card
+1519,484,2025-05-23,Delivered,Card
+1520,275,2025-04-10,Delivered,Cash on Delivery
+1521,179,2025-12-22,Delivered,Card
+1522,474,2025-12-03,Cancelled,Cash on Delivery
+1523,500,2025-12-18,Cancelled,Cash on Delivery
+1524,61,2025-02-16,Delivered,bKash
+1525,320,2025-09-16,Delivered,Card
+1526,302,2025-07-20,Delivered,Card
+1527,375,2025-10-30,Delivered,bKash
+1528,488,2025-09-15,Delivered,Cash on Delivery
+1529,127,2025-02-24,Delivered,Cash on Delivery
+1530,488,2025-01-26,Delivered,Cash on Delivery
+1531,322,2025-06-04,Delivered,Nagad
+1532,42,2025-06-25,Delivered,Card
+1533,256,2025-03-29,Delivered,Cash on Delivery
+1534,67,2025-10-13,Returned,bKash
+1535,479,2025-11-13,Delivered,bKash
+1536,382,2025-12-17,Delivered,bKash
+1537,453,2025-02-09,Delivered,bKash
+1538,302,2025-10-25,Delivered,Cash on Delivery
+1539,199,2025-03-17,Delivered,Cash on Delivery
+1540,215,2025-06-13,Delivered,bKash
+1541,474,2025-06-10,Delivered,Card
+1542,76,2025-10-27,Delivered,Cash on Delivery
+1543,443,2025-04-12,Delivered,Cash on Delivery
+1544,212,2025-03-29,Delivered,bKash
+1545,296,2025-12-14,Delivered,Card
+1546,334,2025-05-12,Delivered,bKash
+1547,42,2025-03-08,Delivered,Cash on Delivery
+1548,75,2025-03-06,Delivered,Cash on Delivery
+1549,81,2025-03-26,Cancelled,Card
+1550,390,2025-06-20,Delivered,bKash
+1551,39,2025-05-06,Delivered,bKash
+1552,306,2025-05-24,Delivered,Cash on Delivery
+1553,54,2025-09-20,Delivered,Card
+1554,384,2025-12-24,Delivered,Cash on Delivery
+1555,489,2025-11-29,Pending,Nagad
+1556,208,2025-10-02,Delivered,bKash
+1557,107,2025-11-04,Delivered,bKash
+1558,223,2025-04-25,Delivered,Card
+1559,346,2025-03-08,Delivered,Card
+1560,364,2025-04-10,Pending,Nagad
+1561,319,2025-11-24,Pending,Nagad
+1562,291,2025-02-17,Delivered,Card
+1563,316,2025-11-06,Delivered,Nagad
+1564,109,2025-06-10,Delivered,Card
+1565,104,2025-09-13,Delivered,bKash
+1566,466,2025-11-25,Delivered,Cash on Delivery
+1567,290,2025-12-16,Pending,bKash
+1568,431,2025-12-09,Delivered,bKash
+1569,313,2025-11-25,Delivered,Cash on Delivery
+1570,228,2025-03-28,Delivered,Card
+1571,286,2025-12-16,Delivered,Nagad
+1572,346,2025-12-15,Delivered,Card
+1573,94,2025-01-22,Delivered,Card
+1574,232,2025-12-06,Delivered,Nagad
+1575,362,2025-05-14,Pending,bKash
+1576,44,2025-07-01,Delivered,bKash
+1577,37,2025-08-18,Delivered,bKash
+1578,81,2025-08-23,Delivered,Card
+1579,296,2025-01-09,Delivered,bKash
+1580,120,2025-11-13,Delivered,bKash
+1581,219,2025-08-16,Returned,bKash
+1582,67,2025-12-30,Delivered,bKash
+1583,126,2025-06-22,Delivered,Nagad
+1584,9,2025-12-23,Delivered,Nagad
+1585,404,2025-06-10,Delivered,bKash
+1586,234,2025-11-21,Cancelled,Nagad
+1587,88,2025-10-31,Delivered,Cash on Delivery
+1588,264,2025-11-28,Delivered,Nagad
+1589,467,2025-07-04,Returned,Cash on Delivery
+1590,413,2025-10-16,Delivered,Card
+1591,443,2025-05-11,Delivered,Card
+1592,204,2025-06-18,Delivered,Nagad
+1593,181,2025-10-05,Delivered,bKash
+1594,159,2025-01-30,Delivered,Nagad
+1595,153,2025-09-17,Cancelled,Cash on Delivery
+1596,460,2025-12-06,Delivered,Card
+1597,69,2025-07-31,Delivered,bKash
+1598,426,2025-06-24,Cancelled,Nagad
+1599,459,2025-12-23,Delivered,Card
+1600,423,2025-06-30,Delivered,Cash on Delivery
+1601,314,2025-06-29,Delivered,Nagad
+1602,428,2025-11-03,Delivered,Card
+1603,16,2025-06-14,Delivered,bKash
+1604,409,2025-12-14,Delivered,bKash
+1605,256,2025-10-06,Delivered,Cash on Delivery
+1606,480,2025-12-02,Delivered,bKash
+1607,43,2025-08-23,Delivered,Card
+1608,466,2025-11-02,Delivered,Card
+1609,287,2025-12-28,Delivered,bKash
+1610,52,2025-12-28,Delivered,bKash
+1611,255,2025-09-18,Delivered,Card
+1612,19,2025-03-24,Delivered,Cash on Delivery
+1613,42,2025-03-13,Delivered,Card
+1614,266,2025-10-17,Delivered,Cash on Delivery
+1615,408,2025-01-26,Delivered,Nagad
+1616,55,2025-11-06,Delivered,Cash on Delivery
+1617,132,2025-10-09,Delivered,Cash on Delivery
+1618,196,2025-12-01,Delivered,Card
+1619,271,2025-09-01,Delivered,bKash
+1620,1,2025-11-15,Pending,bKash
+1621,320,2025-02-13,Delivered,Card
+1622,249,2025-11-21,Returned,Cash on Delivery
+1623,482,2025-02-28,Cancelled,Card
+1624,151,2025-04-25,Delivered,bKash
+1625,247,2025-02-16,Delivered,Cash on Delivery
+1626,41,2025-05-27,Delivered,bKash
+1627,459,2025-10-01,Returned,Card
+1628,417,2025-04-08,Delivered,Card
+1629,178,2025-11-11,Returned,bKash
+1631,429,2025-08-18,Delivered,bKash
+1632,148,2025-12-09,Delivered,Card
+1633,118,2025-12-14,Delivered,Cash on Delivery
+1634,121,2025-05-06,Delivered,Nagad
+1635,354,2025-12-30,Pending,Cash on Delivery
+1636,106,2025-07-23,Delivered,bKash
+1637,45,2025-08-13,Returned,Cash on Delivery
+1638,83,2025-04-19,Pending,Nagad
+1639,494,2025-03-20,Delivered,Nagad
+1640,437,2025-12-28,Delivered,Card
+1641,477,2025-03-23,Delivered,Card
+1642,139,2025-11-01,Delivered,Card
+1643,222,2025-09-30,Pending,Cash on Delivery
+1644,246,2025-11-04,Returned,Card
+1645,262,2025-08-18,Returned,Nagad
+1646,14,2025-12-13,Delivered,Card
+1647,299,2025-10-07,Delivered,Cash on Delivery
+1648,20,2025-12-10,Delivered,bKash
+1649,138,2025-12-04,Returned,bKash
+1650,147,2025-11-01,Delivered,bKash
+1651,338,2025-01-02,Delivered,Cash on Delivery
+1652,449,2025-09-06,Delivered,bKash
+1653,350,2025-09-02,Delivered,bKash
+1654,218,2025-03-12,Delivered,Cash on Delivery
+1655,263,2025-09-28,Delivered,Nagad
+1656,257,2025-03-06,Cancelled,Cash on Delivery
+1657,74,2025-03-24,Delivered,Cash on Delivery
+1658,479,2025-12-03,Delivered,bKash
+1659,460,2025-12-24,Cancelled,Nagad
+1660,121,2025-11-06,Delivered,bKash
+1661,58,2025-12-03,Delivered,Nagad
+1662,83,2025-11-30,Delivered,Cash on Delivery
+1663,315,2025-10-08,Delivered,Card
+1664,15,2025-02-21,Delivered,Card
+1665,52,2025-04-20,Delivered,Cash on Delivery
+1666,325,2025-09-05,Delivered,Cash on Delivery
+1667,74,2025-12-31,Delivered,Cash on Delivery
+1668,35,2025-10-25,Delivered,Nagad
+1669,11,2025-06-03,Delivered,bKash
+1670,353,2025-03-27,Delivered,bKash
+1671,182,2025-12-05,Delivered,bKash
+1672,143,2025-04-11,Delivered,Card
+1673,320,2025-05-05,Delivered,Cash on Delivery
+1674,86,2025-12-19,Delivered,Nagad
+1675,261,2025-12-05,Delivered,Card
+1676,242,2025-04-07,Delivered,Cash on Delivery
+1677,338,2025-01-02,Delivered,Cash on Delivery
+1678,312,2025-06-06,Delivered,Card
+1679,338,2025-12-26,Delivered,Cash on Delivery
+1680,107,2025-12-21,Cancelled,Cash on Delivery
+1681,71,2025-09-13,Delivered,bKash
+1682,267,2025-04-03,Delivered,Card
+1683,29,2025-10-11,Pending,bKash
+1684,228,2025-10-11,Delivered,Cash on Delivery
+1685,313,2025-08-11,Delivered,Card
+1686,411,2025-10-09,Delivered,bKash
+1687,327,2025-11-24,Delivered,Nagad
+1688,498,2025-05-19,Delivered,Cash on Delivery
+1689,279,2025-11-21,Delivered,Cash on Delivery
+1690,224,2025-11-01,Cancelled,Nagad
+1692,337,2025-03-19,Pending,Card
+1693,406,2025-09-04,Delivered,Cash on Delivery
+1694,161,2025-01-02,Pending,bKash
+1695,38,2025-11-05,Returned,Card
+1697,317,2025-12-09,Delivered,Card
+1698,332,2025-12-29,Delivered,bKash
+1699,61,2025-11-19,Delivered,bKash
+1700,12,2025-01-15,Delivered,Cash on Delivery
+1701,328,2025-03-18,Delivered,bKash
+1702,199,2025-03-17,Delivered,Card
+1703,209,2025-11-24,Delivered,Nagad
+1704,132,2025-11-17,Delivered,Nagad
+1705,360,2025-09-24,Delivered,bKash
+1706,373,2025-10-23,Returned,Card
+1707,27,2025-10-08,Pending,Cash on Delivery
+1708,45,2025-02-02,Delivered,bKash
+1709,278,2025-02-21,Delivered,Card
+1710,302,2025-05-25,Cancelled,Card
+1711,73,2025-05-04,Delivered,Card
+1712,80,2025-09-30,Pending,bKash
+1713,342,2025-02-27,Delivered,bKash
+1714,228,2025-05-16,Delivered,Cash on Delivery
+1715,60,2025-03-28,Delivered,bKash
+1716,305,2025-03-10,Delivered,bKash
+1717,37,2025-03-05,Delivered,Card
+1718,116,2025-12-14,Delivered,Nagad
+1719,357,2025-07-25,Cancelled,Card
+1720,112,2025-05-30,Delivered,Card
+1721,32,2025-06-08,Delivered,Cash on Delivery
+1722,480,2025-06-24,Delivered,Cash on Delivery
+1723,113,2025-09-28,Delivered,Cash on Delivery
+1724,258,2025-12-27,Delivered,bKash
+1725,413,2025-07-12,Delivered,bKash
+1726,495,2025-08-23,Delivered,bKash
+1727,405,2025-09-27,Cancelled,bKash
+1728,170,2025-09-09,Delivered,bKash
+1729,428,2025-02-19,Delivered,bKash
+1730,7,2025-12-25,Cancelled,Card
+1731,164,2025-11-11,Delivered,Nagad
+1732,100,2025-05-31,Delivered,Card
+1733,265,2025-08-27,Delivered,bKash
+1734,446,2025-05-28,Returned,Nagad
+1735,387,2025-12-05,Delivered,Cash on Delivery
+1736,500,2025-12-04,Delivered,Cash on Delivery
+1737,69,2025-01-27,Cancelled,Cash on Delivery
+1738,377,2025-03-31,Delivered,Card
+1739,363,2025-12-29,Cancelled,Cash on Delivery
+1740,229,2025-09-24,Delivered,bKash
+1741,49,2025-02-01,Delivered,Nagad
+1742,53,2025-10-03,Delivered,Card
+1743,457,2025-12-20,Cancelled,Cash on Delivery
+1744,148,2025-12-12,Delivered,bKash
+1745,319,2025-11-02,Delivered,Card
+1746,473,2025-06-20,Delivered,bKash
+1747,247,2025-02-17,Delivered,Cash on Delivery
+1748,105,2025-03-15,Delivered,Card
+1749,243,2025-03-05,Delivered,Nagad
+1750,115,2025-03-09,Delivered,bKash
+1751,91,2025-11-11,Delivered,Cash on Delivery
+1752,406,2025-06-19,Delivered,Cash on Delivery
+1753,173,2025-03-28,Delivered,bKash
+1754,343,2025-04-16,Delivered,Cash on Delivery
+1755,364,2025-03-12,Delivered,Cash on Delivery
+1756,275,2025-10-18,Delivered,Cash on Delivery
+1757,271,2025-03-19,Pending,bKash
+1758,91,2025-11-28,Delivered,Cash on Delivery
+1759,265,2025-07-16,Cancelled,bKash
+1760,376,2025-10-20,Delivered,Card
+1762,117,2025-04-08,Cancelled,Cash on Delivery
+1763,346,2025-08-08,Delivered,Nagad
+1764,491,2025-04-11,Delivered,Card
+1765,197,2025-02-13,Delivered,bKash
+1766,415,2025-11-24,Delivered,bKash
+1767,92,2025-04-11,Returned,bKash
+1768,285,2025-02-19,Delivered,Cash on Delivery
+1769,472,2025-11-09,Delivered,Cash on Delivery
+1770,221,2025-12-11,Delivered,Cash on Delivery
+1771,254,2025-11-22,Delivered,Cash on Delivery
+1772,78,2025-11-09,Cancelled,Card
+1773,265,2025-12-06,Delivered,bKash
+1774,293,2025-03-24,Returned,bKash
+1775,491,2025-05-28,Delivered,Nagad
+1776,101,2025-11-06,Delivered,Cash on Delivery
+1777,184,2025-08-19,Delivered,Card
+1778,324,2025-05-26,Delivered,Card
+1779,472,2025-04-04,Delivered,bKash
+1780,119,2025-01-13,Delivered,Nagad
+1781,348,2025-12-24,Delivered,Card
+1782,440,2025-03-01,Returned,bKash
+1783,317,2025-12-06,Delivered,bKash
+1784,214,2025-08-22,Delivered,Cash on Delivery
+1785,118,2025-06-08,Delivered,Cash on Delivery
+1786,145,2025-10-13,Delivered,Card
+1787,26,2025-02-28,Cancelled,Cash on Delivery
+1788,77,2025-03-18,Delivered,Card
+1789,219,2025-11-20,Delivered,Cash on Delivery
+1790,71,2025-12-01,Delivered,Card
+1791,6,2025-08-13,Delivered,Cash on Delivery
+1792,347,2025-11-07,Delivered,bKash
+1793,36,2025-04-01,Delivered,Cash on Delivery
+1794,71,2025-11-06,Delivered,bKash
+1795,298,2025-12-17,Delivered,bKash
+1796,461,2025-03-25,Delivered,Card
+1797,363,2025-07-10,Delivered,bKash
+1798,17,2025-11-02,Delivered,Cash on Delivery
+1799,84,2025-11-10,Delivered,bKash
+1800,371,2025-11-13,Delivered,bKash
+1801,367,2025-07-17,Pending,Cash on Delivery
+1802,196,2025-04-22,Delivered,bKash
+1803,475,2025-12-06,Delivered,Cash on Delivery
+1804,445,2025-08-14,Delivered,bKash
+1805,372,2025-07-16,Delivered,Nagad
+1806,375,2025-10-05,Delivered,Nagad
+1807,393,2025-08-08,Delivered,bKash
+1808,75,2025-12-12,Delivered,bKash
+1809,351,2025-02-14,Delivered,Cash on Delivery
+1810,470,2025-12-19,Delivered,Cash on Delivery
+1811,113,2025-02-28,Delivered,Card
+1812,8,2025-12-09,Delivered,Card
+1813,181,2025-02-08,Delivered,Card
+1814,135,2025-09-23,Pending,Cash on Delivery
+1815,475,2025-12-22,Delivered,Cash on Delivery
+1816,223,2025-06-11,Delivered,Card
+1817,331,2025-01-21,Cancelled,bKash
+1818,491,2025-11-16,Delivered,Cash on Delivery
+1819,395,2025-03-10,Delivered,Nagad
+1820,375,2025-07-12,Delivered,Card
+1821,485,2025-12-26,Delivered,bKash
+1822,345,2025-09-29,Delivered,bKash
+1823,116,2025-01-17,Delivered,Cash on Delivery
+1824,364,2025-10-27,Delivered,Card
+1825,161,2025-02-28,Cancelled,Card
+1826,166,2025-10-01,Delivered,Cash on Delivery
+1827,323,2025-08-15,Delivered,bKash
+1829,13,2025-06-04,Delivered,bKash
+1830,500,2025-02-13,Delivered,Card
+1831,286,2025-12-27,Delivered,bKash
+1832,336,2025-03-28,Delivered,bKash
+1833,405,2025-04-23,Pending,Card
+1834,318,2025-07-03,Delivered,Card
+1835,306,2025-09-03,Delivered,Nagad
+1836,396,2025-07-04,Delivered,Nagad
+1837,148,2025-07-04,Delivered,Card
+1838,415,2025-08-01,Delivered,Cash on Delivery
+1839,363,2025-11-14,Delivered,Card
+1840,92,2025-05-25,Delivered,Cash on Delivery
+1841,74,2025-10-31,Delivered,Nagad
+1842,440,2025-10-15,Pending,Cash on Delivery
+1843,448,2025-12-17,Delivered,Cash on Delivery
+1844,497,2025-11-30,Delivered,bKash
+1845,51,2025-10-19,Delivered,Card
+1846,448,2025-04-01,Delivered,bKash
+1847,432,2025-12-06,Pending,Card
+1848,384,2025-09-26,Delivered,Cash on Delivery
+1849,249,2025-04-16,Delivered,bKash
+1850,255,2025-09-05,Returned,Card
+1851,215,2025-04-03,Delivered,Cash on Delivery
+1852,15,2025-07-10,Delivered,Cash on Delivery
+1853,251,2025-10-18,Delivered,Cash on Delivery
+1854,119,2025-03-10,Delivered,bKash
+1855,101,2025-12-17,Delivered,Cash on Delivery
+1856,28,2025-10-18,Pending,Card
+1857,229,2025-06-15,Delivered,Cash on Delivery
+1858,24,2025-12-17,Delivered,bKash
+1859,425,2025-01-03,Delivered,Card
+1860,445,2025-09-21,Delivered,Nagad
+1861,401,2025-10-25,Delivered,bKash
+1862,151,2025-12-02,Delivered,bKash
+1863,82,2025-02-27,Delivered,Card
+1864,253,2025-12-26,Delivered,Nagad
+1865,337,2025-05-24,Delivered,Cash on Delivery
+1866,11,2025-12-18,Delivered,Card
+1867,429,2025-05-10,Delivered,bKash
+1868,220,2025-08-21,Delivered,Card
+1869,410,2025-11-11,Delivered,Cash on Delivery
+1870,39,2025-06-22,Returned,bKash
+1871,213,2025-01-26,Cancelled,Card
+1872,230,2025-12-29,Delivered,bKash
+1873,25,2025-03-23,Delivered,Nagad
+1874,354,2025-11-17,Delivered,bKash
+1875,466,2025-08-07,Pending,Card
+1876,271,2025-05-31,Delivered,Nagad
+1877,198,2025-08-13,Delivered,Card
+1878,319,2025-11-16,Delivered,bKash
+1879,181,2025-02-05,Delivered,bKash
+1880,180,2025-04-14,Returned,Card
+1881,380,2025-07-08,Returned,Card
+1882,296,2025-10-15,Delivered,Card
+1883,132,2025-11-24,Delivered,Card
+1884,204,2025-11-12,Delivered,bKash
+1885,418,2025-08-11,Delivered,Cash on Delivery
+1886,265,2025-12-24,Returned,Card
+1887,39,2025-06-25,Delivered,Cash on Delivery
+1888,429,2025-11-09,Cancelled,bKash
+1889,371,2025-10-12,Delivered,Card
+1890,134,2025-11-16,Delivered,bKash
+1891,483,2025-04-02,Delivered,bKash
+1892,476,2025-10-09,Delivered,Cash on Delivery
+1893,498,2025-03-17,Delivered,bKash
+1894,189,2025-11-09,Cancelled,Cash on Delivery
+1895,462,2025-03-27,Delivered,Nagad
+1896,404,2025-08-10,Delivered,Card
+1897,436,2025-04-18,Delivered,Nagad
+1898,274,2025-08-29,Pending,Card
+1899,140,2025-12-08,Delivered,Card
+1900,114,2025-10-30,Delivered,Card
+1901,484,2025-12-14,Delivered,Cash on Delivery
+1902,252,2025-01-09,Delivered,Cash on Delivery
+1903,464,2025-12-06,Pending,Nagad
+1904,278,2025-03-22,Delivered,Cash on Delivery
+1905,268,2025-12-02,Delivered,bKash
+1906,37,2025-11-24,Delivered,Nagad
+1907,202,2025-12-03,Delivered,Nagad
+1908,279,2025-12-07,Delivered,Cash on Delivery
+1909,55,2025-11-12,Delivered,bKash
+1910,82,2025-06-30,Delivered,Cash on Delivery
+1911,296,2025-06-23,Pending,Card
+1912,125,2025-11-18,Delivered,Nagad
+1913,351,2025-06-15,Delivered,Nagad
+1914,231,2025-05-08,Delivered,Cash on Delivery
+1915,202,2025-10-26,Delivered,Card
+1916,59,2025-11-12,Cancelled,Card
+1917,204,2025-10-01,Delivered,Nagad
+1918,272,2025-01-12,Delivered,Nagad
+1919,287,2025-11-04,Delivered,Cash on Delivery
+1920,136,2025-05-25,Delivered,Nagad
+1921,14,2025-06-01,Delivered,bKash
+1922,468,2025-12-11,Delivered,Nagad
+1923,479,2025-11-13,Delivered,Card
+1924,453,2025-01-19,Returned,Card
+1925,145,2025-05-12,Delivered,bKash
+1926,302,2025-10-01,Delivered,bKash
+1927,71,2025-07-16,Delivered,bKash
+1928,453,2025-04-05,Delivered,Cash on Delivery
+1929,3,2025-07-11,Delivered,Card
+1930,236,2025-11-13,Delivered,Cash on Delivery
+1931,429,2025-03-23,Delivered,Card
+1932,363,2025-09-30,Delivered,Cash on Delivery
+1933,432,2025-09-26,Delivered,Card
+1934,249,2025-11-20,Delivered,Cash on Delivery
+1935,48,2025-12-23,Delivered,Cash on Delivery
+1936,4,2025-03-20,Delivered,bKash
+1937,77,2025-11-01,Pending,bKash
+1938,29,2025-07-13,Delivered,Card
+1939,224,2025-12-28,Pending,bKash
+1940,26,2025-10-12,Delivered,Card
+1941,93,2025-10-19,Delivered,Card
+1942,210,2025-03-31,Delivered,Cash on Delivery
+1943,368,2025-10-18,Delivered,Card
+1944,338,2025-03-26,Delivered,Card
+1945,30,2025-05-29,Delivered,bKash
+1946,452,2025-01-10,Delivered,bKash
+1947,275,2025-05-05,Delivered,bKash
+1948,175,2025-12-16,Returned,Cash on Delivery
+1949,192,2025-06-11,Delivered,Cash on Delivery
+1950,425,2025-12-28,Returned,bKash
+1951,233,2025-02-09,Delivered,bKash
+1952,123,2025-08-20,Delivered,bKash
+1953,213,2025-05-16,Delivered,Cash on Delivery
+1954,35,2025-09-29,Delivered,bKash
+1955,77,2025-11-16,Delivered,Cash on Delivery
+1956,158,2025-07-14,Delivered,Cash on Delivery
+1957,111,2025-02-07,Delivered,Cash on Delivery
+1959,33,2025-02-14,Pending,Nagad
+1960,306,2025-06-14,Delivered,bKash
+1961,58,2025-01-23,Delivered,bKash
+1962,109,2025-08-22,Delivered,Nagad
+1963,489,2025-04-24,Delivered,Cash on Delivery
+1964,3,2025-03-15,Delivered,bKash
+1965,140,2025-01-07,Delivered,bKash
+1966,251,2025-11-21,Delivered,Card
+1967,154,2025-11-02,Delivered,Cash on Delivery
+1968,161,2025-11-20,Delivered,bKash
+1969,64,2025-11-13,Delivered,Card
+1970,212,2025-05-08,Delivered,Card
+1971,378,2025-12-21,Pending,Nagad
+1972,294,2025-07-31,Delivered,bKash
+1973,463,2025-02-16,Delivered,bKash
+1974,350,2025-02-21,Cancelled,Nagad
+1975,395,2025-12-04,Delivered,bKash
+1976,216,2025-11-13,Delivered,Cash on Delivery
+1977,307,2025-03-03,Delivered,Cash on Delivery
+1978,290,2025-11-26,Delivered,bKash
+1979,407,2025-09-05,Delivered,Cash on Delivery
+1980,251,2025-12-18,Delivered,Nagad
+1981,203,2025-10-29,Delivered,Card
+1982,36,2025-05-02,Delivered,Card
+1983,430,2025-10-30,Delivered,Cash on Delivery
+1984,218,2025-03-03,Cancelled,bKash
+1985,400,2025-04-17,Delivered,bKash
+1986,340,2025-03-19,Delivered,Card
+1987,1,2025-02-18,Delivered,Cash on Delivery
+1988,326,2025-02-02,Delivered,Cash on Delivery
+1989,244,2025-11-24,Delivered,Nagad
+1990,120,2025-02-13,Delivered,bKash
+1991,133,2025-05-19,Delivered,Nagad
+1992,319,2025-01-27,Delivered,bKash
+1993,44,2025-01-23,Delivered,Cash on Delivery
+1994,304,2025-12-28,Delivered,Cash on Delivery
+1995,424,2025-02-02,Delivered,bKash
+1996,44,2025-01-28,Delivered,bKash
+1997,4,2025-01-11,Delivered,Card
+1999,366,2025-07-12,Delivered,Cash on Delivery
+2000,424,2025-10-29,Delivered,Card
+2001,495,2025-09-26,Delivered,Cash on Delivery
+2002,15,2025-07-31,Pending,bKash
+2003,242,2025-12-29,Delivered,bKash
+2004,25,2025-10-10,Delivered,Cash on Delivery
+2005,186,2025-12-22,Returned,Card
+2006,154,2025-11-25,Delivered,Nagad
+2007,303,2025-05-30,Delivered,Nagad
+2008,455,2025-12-06,Delivered,bKash
+2009,403,2025-04-23,Pending,bKash
+2010,32,2025-08-22,Delivered,Card
+2011,121,2025-06-10,Delivered,Cash on Delivery
+2012,138,2025-07-10,Cancelled,Card
+2013,126,2025-12-09,Cancelled,Nagad
+2014,177,2025-09-18,Pending,Nagad
+2015,304,2025-06-01,Delivered,Card
+2016,370,2025-06-13,Pending,Cash on Delivery
+2017,470,2025-09-15,Delivered,bKash
+2018,352,2025-05-07,Delivered,bKash
+2019,150,2025-11-02,Returned,Card
+2020,93,2025-06-20,Delivered,Cash on Delivery
+2021,189,2025-01-25,Delivered,Card
+2022,400,2025-11-05,Delivered,Nagad
+2023,497,2025-06-03,Cancelled,bKash
+2024,197,2025-10-18,Delivered,Cash on Delivery
+2025,89,2025-10-13,Cancelled,Nagad
+2026,3,2025-04-06,Delivered,Cash on Delivery
+2027,39,2025-06-04,Delivered,bKash
+2028,319,2025-02-26,Delivered,bKash
+2029,295,2025-10-03,Returned,bKash
+2030,322,2025-03-31,Delivered,bKash
+2031,13,2025-10-19,Delivered,Nagad
+2032,219,2025-11-04,Delivered,bKash
+2033,91,2025-12-01,Returned,bKash
+2034,169,2025-05-01,Cancelled,Cash on Delivery
+2035,312,2025-12-14,Delivered,bKash
+2036,138,2025-09-08,Delivered,Nagad
+2037,330,2025-08-24,Delivered,Card
+2038,145,2025-11-09,Delivered,Card
+2039,256,2025-11-18,Cancelled,Cash on Delivery
+2040,230,2025-01-29,Delivered,bKash
+2041,192,2025-11-18,Delivered,Nagad
+2042,64,2025-10-07,Delivered,bKash
+2043,289,2025-03-17,Delivered,Card
+2044,496,2025-04-23,Delivered,bKash
+2045,322,2025-10-02,Delivered,bKash
+2046,373,2025-11-29,Delivered,Cash on Delivery
+2047,402,2025-06-15,Delivered,bKash
+2048,20,2025-09-09,Delivered,bKash
+2049,397,2025-08-26,Delivered,Nagad
+2050,122,2025-11-29,Delivered,bKash
+2051,333,2025-02-10,Delivered,Cash on Delivery
+2052,492,2025-04-18,Delivered,Card
+2053,448,2025-12-26,Delivered,Cash on Delivery
+2054,208,2025-07-27,Delivered,bKash
+2055,420,2025-04-01,Delivered,Cash on Delivery
+2056,310,2025-04-16,Delivered,bKash
+2057,67,2025-11-24,Delivered,Card
+2058,120,2025-07-22,Delivered,bKash
+2059,479,2025-04-14,Delivered,Card
+2060,458,2025-08-15,Delivered,Nagad
+2061,446,2025-06-12,Delivered,bKash
+2062,193,2025-08-11,Delivered,Nagad
+2063,161,2025-02-26,Delivered,bKash
+2064,404,2025-08-16,Delivered,Card
+2065,11,2025-12-04,Delivered,bKash
+2066,449,2025-02-19,Delivered,Card
+2067,302,2025-11-06,Delivered,Cash on Delivery
+2068,317,2025-12-21,Delivered,Card
+2069,220,2025-11-25,Delivered,Nagad
+2070,490,2025-11-29,Delivered,Card
+2071,375,2025-07-24,Delivered,bKash
+2072,27,2025-09-07,Delivered,Card
+2073,263,2025-08-11,Delivered,Cash on Delivery
+2074,430,2025-01-28,Delivered,bKash
+2075,39,2025-10-02,Returned,Nagad
+2076,369,2025-06-13,Delivered,bKash
+2077,123,2025-11-25,Delivered,Card
+2078,254,2025-05-30,Delivered,Cash on Delivery
+2079,442,2025-11-30,Pending,Cash on Delivery
+2080,247,2025-02-01,Delivered,Cash on Delivery
+2081,19,2025-12-30,Delivered,bKash
+2082,11,2025-03-23,Delivered,Cash on Delivery
+2083,369,2025-05-01,Delivered,Card
+2084,466,2025-12-09,Delivered,Nagad
+2085,146,2025-12-16,Returned,Card
+2086,468,2025-09-29,Returned,Cash on Delivery
+2087,227,2025-10-09,Pending,Card
+2088,30,2025-03-28,Delivered,Cash on Delivery
+2089,266,2025-12-03,Delivered,Cash on Delivery
+2090,487,2025-10-30,Delivered,Nagad
+2091,126,2025-06-19,Delivered,bKash
+2092,481,2025-07-19,Delivered,bKash
+2093,326,2025-01-14,Delivered,Cash on Delivery
+2094,199,2025-10-05,Delivered,Cash on Delivery
+2095,347,2025-12-17,Pending,Cash on Delivery
+2096,201,2025-11-10,Cancelled,Card
+2097,43,2025-07-17,Delivered,bKash
+2098,436,2025-07-02,Delivered,bKash
+2099,187,2025-01-31,Delivered,Cash on Delivery
+2100,283,2025-08-15,Delivered,Card
+2101,373,2025-09-21,Delivered,bKash
+2102,42,2025-12-05,Delivered,Cash on Delivery
+2103,361,2025-12-06,Delivered,bKash
+2104,183,2025-06-29,Cancelled,Nagad
+2105,273,2025-12-17,Returned,Card
+2106,229,2025-07-12,Delivered,bKash
+2107,389,2025-08-23,Delivered,bKash
+2108,94,2025-08-08,Delivered,bKash
+2109,54,2025-12-31,Delivered,Cash on Delivery
+2110,206,2025-09-27,Delivered,Card
+2111,60,2025-12-23,Delivered,bKash
+2112,122,2025-01-27,Delivered,Card
+2113,329,2025-05-30,Delivered,Cash on Delivery
+2114,410,2025-07-08,Delivered,Cash on Delivery
+2115,347,2025-09-02,Pending,Card
+2116,159,2025-06-25,Delivered,bKash
+2117,408,2025-11-18,Delivered,bKash
+2119,91,2025-05-03,Delivered,Card
+2120,379,2025-06-30,Delivered,bKash
+2121,259,2025-07-23,Returned,Cash on Delivery
+2122,186,2025-06-20,Delivered,bKash
+2123,331,2025-12-20,Delivered,Cash on Delivery
+2124,363,2025-12-18,Delivered,bKash
+2125,112,2025-07-07,Delivered,Nagad
+2126,59,2025-06-14,Cancelled,Card
+2127,259,2025-08-03,Delivered,Card
+2128,26,2025-03-08,Delivered,bKash
+2129,320,2025-06-05,Delivered,bKash
+2130,220,2025-03-21,Pending,Cash on Delivery
+2131,108,2025-02-22,Delivered,Card
+2132,300,2025-02-04,Delivered,Card
+2133,188,2025-11-01,Pending,Cash on Delivery
+2134,195,2025-01-01,Delivered,bKash
+2135,109,2025-08-24,Delivered,Cash on Delivery
+2136,339,2025-06-07,Delivered,Cash on Delivery
+2137,452,2025-05-14,Cancelled,Card
+2138,310,2025-11-03,Delivered,Cash on Delivery
+2139,119,2025-07-16,Delivered,Nagad
+2140,417,2025-09-25,Returned,Cash on Delivery
+2141,61,2025-12-17,Delivered,Card
+2142,145,2025-01-12,Delivered,bKash
+2143,18,2025-03-20,Delivered,Nagad
+2144,425,2025-07-28,Returned,Cash on Delivery
+2145,23,2025-12-23,Delivered,bKash
+2146,274,2025-02-26,Delivered,Card
+2147,96,2025-02-08,Delivered,Cash on Delivery
+2148,107,2025-12-10,Delivered,Cash on Delivery
+2149,305,2025-12-19,Returned,Nagad
+2150,402,2025-03-03,Delivered,Nagad
+2151,9,2025-05-27,Delivered,bKash
+2152,80,2025-11-24,Delivered,Cash on Delivery
+2153,144,2025-03-13,Delivered,Card
+2154,472,2025-04-30,Delivered,Card
+2155,30,2025-05-25,Cancelled,Card
+2156,90,2025-08-23,Delivered,Nagad
+2157,202,2025-04-23,Delivered,Card
+2158,163,2025-05-31,Delivered,bKash
+2159,25,2025-04-16,Delivered,bKash
+2160,271,2025-10-05,Delivered,bKash
+2161,304,2025-02-25,Delivered,bKash
+2162,89,2025-03-26,Cancelled,Card
+2163,345,2025-04-02,Returned,bKash
+2164,29,2025-11-27,Cancelled,bKash
+2165,366,2025-12-11,Delivered,Cash on Delivery
+2166,130,2025-11-02,Delivered,Cash on Delivery
+2167,113,2025-02-27,Returned,Cash on Delivery
+2168,99,2025-10-03,Delivered,bKash
+2169,435,2025-06-29,Delivered,Card
+2170,252,2025-11-07,Cancelled,bKash
+2171,346,2025-05-12,Delivered,Nagad
+2172,102,2025-12-19,Delivered,Card
+2173,29,2025-10-22,Delivered,Card
+2174,20,2025-03-23,Delivered,Nagad
+2175,221,2025-09-22,Delivered,Nagad
+2176,164,2025-04-15,Delivered,Card
+2177,384,2025-05-08,Cancelled,Cash on Delivery
+2178,395,2025-04-02,Delivered,bKash
+2179,156,2025-09-07,Delivered,bKash
+2180,217,2025-04-06,Delivered,bKash
+2181,191,2025-08-22,Cancelled,Nagad
+2182,338,2025-08-01,Pending,Card
+2183,315,2025-10-02,Delivered,Cash on Delivery
+2184,326,2025-12-29,Returned,Card
+2185,28,2025-01-04,Delivered,Cash on Delivery
+2186,169,2025-12-28,Delivered,Cash on Delivery
+2187,484,2025-02-09,Delivered,Cash on Delivery
+2188,171,2025-07-12,Delivered,Nagad
+2189,88,2025-05-05,Delivered,Cash on Delivery
+2190,100,2025-08-22,Delivered,Cash on Delivery
+2191,14,2025-11-19,Delivered,bKash
+2192,391,2025-12-29,Returned,Nagad
+2193,3,2025-05-27,Delivered,bKash
+2194,299,2025-12-07,Pending,bKash
+2195,200,2025-04-28,Delivered,bKash
+2196,48,2025-12-23,Cancelled,bKash
+2197,443,2025-05-19,Delivered,Cash on Delivery
+2198,371,2025-07-12,Delivered,bKash
+2199,410,2025-11-03,Delivered,Card
+2200,469,2025-10-31,Returned,Nagad
+2201,457,2025-03-24,Delivered,Nagad
+2202,351,2025-12-12,Delivered,bKash
+2203,267,2025-12-09,Pending,Nagad
+2204,349,2025-06-10,Delivered,bKash
+2205,225,2025-03-30,Delivered,bKash
+2206,91,2025-12-26,Delivered,Nagad
+2207,193,2025-06-13,Delivered,Cash on Delivery
+2208,234,2025-12-26,Delivered,Cash on Delivery
+2209,24,2025-12-02,Delivered,bKash
+2210,424,2025-11-27,Delivered,bKash
+2211,455,2025-08-01,Delivered,Card
+2212,210,2025-10-19,Delivered,Nagad
+2213,249,2025-12-17,Pending,Card
+2214,421,2025-12-07,Delivered,bKash
+2215,228,2025-01-14,Delivered,Card
+2216,345,2025-04-28,Delivered,Cash on Delivery
+2217,258,2025-08-21,Delivered,bKash
+2218,136,2025-07-19,Delivered,Cash on Delivery
+2219,398,2025-01-30,Delivered,bKash
+2220,97,2025-11-11,Delivered,Card
+2221,113,2025-11-21,Delivered,Card
+2222,346,2025-07-04,Cancelled,Card
+2223,355,2025-07-30,Delivered,Cash on Delivery
+2224,478,2025-08-21,Delivered,Cash on Delivery
+2225,356,2025-05-31,Delivered,bKash
+2226,13,2025-05-30,Delivered,bKash
+2227,425,2025-11-30,Delivered,Card
+2228,207,2025-10-01,Cancelled,Nagad
+2229,5,2025-10-22,Delivered,Nagad
+2230,290,2025-05-02,Delivered,Cash on Delivery
+2231,86,2025-06-04,Delivered,Card
+2232,208,2025-05-01,Delivered,bKash
+2233,236,2025-07-12,Returned,Nagad
+2234,38,2025-11-09,Delivered,Card
+2235,426,2025-12-14,Delivered,Cash on Delivery
+2236,256,2025-03-10,Delivered,Nagad
+2237,483,2025-07-14,Pending,Cash on Delivery
+2238,233,2025-11-07,Cancelled,Cash on Delivery
+2239,298,2025-12-26,Delivered,bKash
+2240,407,2025-06-12,Delivered,Nagad
+2241,107,2025-01-21,Cancelled,bKash
+2242,455,2025-03-25,Delivered,Nagad
+2243,93,2025-02-08,Delivered,bKash
+2244,498,2025-10-05,Delivered,Cash on Delivery
+2245,320,2025-12-26,Delivered,Nagad
+2246,260,2025-07-22,Delivered,bKash
+2247,106,2025-03-06,Delivered,bKash
+2248,285,2025-01-08,Delivered,Card
+2249,277,2025-12-23,Delivered,Cash on Delivery
+2250,492,2025-04-26,Delivered,Cash on Delivery
+2251,418,2025-02-10,Cancelled,bKash
+2252,242,2025-03-06,Cancelled,Nagad
+2253,195,2025-04-04,Delivered,Nagad
+2254,194,2025-08-28,Delivered,Nagad
+2255,190,2025-11-22,Delivered,Cash on Delivery
+2256,7,2025-04-11,Delivered,Nagad
+2257,19,2025-09-08,Delivered,Nagad
+2258,376,2025-01-24,Cancelled,Card
+2259,128,2025-01-04,Delivered,Nagad
+2260,206,2025-11-17,Delivered,bKash
+2261,350,2025-12-27,Delivered,Nagad
+2262,304,2025-08-01,Delivered,Cash on Delivery
+2263,181,2025-12-19,Delivered,Cash on Delivery
+2264,377,2025-01-08,Delivered,bKash
+2265,80,2025-01-09,Returned,Card
+2266,237,2025-11-06,Delivered,bKash
+2267,53,2025-02-07,Delivered,Cash on Delivery
+2268,266,2025-02-26,Delivered,Cash on Delivery
+2269,48,2025-07-09,Delivered,Card
+2270,471,2025-08-10,Delivered,Card
+2271,330,2025-03-25,Delivered,Cash on Delivery
+2272,123,2025-12-09,Delivered,bKash
+2273,307,2025-09-04,Cancelled,Card
+2274,175,2025-06-11,Delivered,Card
+2275,260,2025-05-20,Returned,Cash on Delivery
+2276,84,2025-01-27,Delivered,Cash on Delivery
+2277,251,2025-06-14,Cancelled,Cash on Delivery
+2278,54,2025-10-21,Delivered,bKash
+2279,77,2025-11-08,Delivered,Card
+2280,293,2025-11-22,Delivered,Cash on Delivery
+2281,251,2025-02-16,Cancelled,Nagad
+2282,147,2025-01-05,Delivered,bKash
+2283,30,2025-07-20,Delivered,Cash on Delivery
+2284,212,2025-11-02,Delivered,Cash on Delivery
+2285,463,2025-08-05,Delivered,Nagad
+2286,355,2025-11-26,Delivered,bKash
+2287,30,2025-05-04,Delivered,Card
+2288,469,2025-07-20,Delivered,Card
+2289,212,2025-09-06,Delivered,Cash on Delivery
+2290,288,2025-11-09,Delivered,Cash on Delivery
+2291,1,2025-11-30,Pending,bKash
+2292,156,2025-12-17,Delivered,Card
+2293,394,2025-10-23,Delivered,Card
+2294,166,2025-11-10,Delivered,Cash on Delivery
+2295,84,2025-02-21,Delivered,Nagad
+2296,46,2025-09-22,Delivered,bKash
+2297,463,2025-03-13,Delivered,Cash on Delivery
+2298,407,2025-08-07,Delivered,bKash
+2299,22,2025-12-17,Returned,Nagad
+2300,463,2025-12-14,Delivered,Cash on Delivery
+2301,411,2025-11-15,Delivered,Card
+2302,180,2025-06-30,Delivered,Cash on Delivery
+2303,329,2025-07-24,Delivered,Cash on Delivery
+2305,125,2025-12-03,Delivered,Cash on Delivery
+2306,358,2025-06-24,Delivered,Card
+2307,102,2025-10-09,Delivered,bKash
+2308,178,2025-12-13,Delivered,Cash on Delivery
+2309,179,2025-09-28,Delivered,bKash
+2310,76,2025-03-23,Delivered,Nagad
+2311,415,2025-11-03,Delivered,Card
+2312,337,2025-01-17,Delivered,Nagad
+2313,431,2025-02-08,Delivered,bKash
+2314,262,2025-11-16,Delivered,Card
+2315,88,2025-06-25,Pending,bKash
+2316,140,2025-09-17,Delivered,Cash on Delivery
+2317,177,2025-05-12,Delivered,Cash on Delivery
+2318,471,2025-01-07,Pending,bKash
+2319,119,2025-04-29,Pending,Card
+2320,347,2025-06-10,Delivered,Nagad
+2321,62,2025-07-18,Delivered,bKash
+2323,324,2025-04-01,Pending,Nagad
+2324,216,2025-08-11,Delivered,Card
+2325,173,2025-08-19,Delivered,Card
+2326,178,2025-10-11,Delivered,bKash
+2327,113,2025-07-10,Pending,Cash on Delivery
+2328,300,2025-10-23,Delivered,bKash
+2329,433,2025-03-22,Delivered,Nagad
+2330,121,2025-09-17,Cancelled,bKash
+2331,375,2025-01-17,Delivered,Nagad
+2332,284,2025-02-07,Delivered,Card
+2333,387,2025-12-06,Delivered,Card
+2334,385,2025-06-23,Delivered,Card
+2335,20,2025-08-15,Delivered,Card
+2336,11,2025-08-09,Delivered,bKash
+2337,458,2025-12-20,Delivered,Cash on Delivery
+2338,78,2025-03-31,Delivered,Cash on Delivery
+2339,288,2025-03-07,Delivered,Cash on Delivery
+2340,377,2025-01-16,Pending,Card
+2341,252,2025-12-17,Delivered,Cash on Delivery
+2342,4,2025-03-23,Pending,bKash
+2343,6,2025-07-29,Delivered,Cash on Delivery
+2345,449,2025-12-02,Cancelled,Card
+2347,272,2025-01-31,Delivered,Nagad
+2348,467,2025-03-06,Delivered,bKash
+2349,413,2025-11-03,Delivered,Cash on Delivery
+2350,271,2025-10-28,Delivered,Nagad
+2351,328,2025-07-27,Delivered,bKash
+2352,481,2025-12-04,Delivered,bKash
+2353,399,2025-06-09,Delivered,bKash
+2354,208,2025-03-15,Cancelled,Cash on Delivery
+2355,347,2025-08-11,Delivered,bKash
+2356,165,2025-11-18,Cancelled,bKash
+2357,461,2025-07-14,Delivered,Card
+2358,47,2025-01-07,Pending,Nagad
+2359,113,2025-04-21,Delivered,Nagad
+2360,174,2025-12-04,Delivered,Cash on Delivery
+2361,102,2025-07-09,Delivered,Nagad
+2362,298,2025-12-18,Delivered,Cash on Delivery
+2363,357,2025-07-05,Delivered,Nagad
+2364,446,2025-01-05,Delivered,Card
+2365,251,2025-11-15,Delivered,Card
+2366,311,2025-10-06,Delivered,Nagad
+2367,300,2025-11-05,Cancelled,bKash
+2368,2,2025-12-13,Cancelled,bKash
+2369,355,2025-03-13,Delivered,Cash on Delivery
+2370,12,2025-11-27,Delivered,Cash on Delivery
+2371,274,2025-03-26,Delivered,bKash
+2372,500,2025-12-21,Delivered,bKash
+2373,394,2025-03-11,Delivered,bKash
+2374,254,2025-07-20,Delivered,Card
+2375,160,2025-10-16,Delivered,Card
+2376,419,2025-01-29,Delivered,bKash
+2377,430,2025-01-25,Cancelled,Cash on Delivery
+2378,185,2025-11-07,Delivered,bKash
+2379,54,2025-01-23,Delivered,bKash
+2380,292,2025-08-13,Delivered,Cash on Delivery
+2381,318,2025-12-09,Delivered,Card
+2382,468,2025-12-13,Delivered,bKash
+2383,446,2025-06-25,Delivered,Card
+2384,115,2025-06-02,Delivered,Cash on Delivery
+2385,127,2025-12-16,Cancelled,Card
+2386,499,2025-11-14,Delivered,bKash
+2387,164,2025-07-03,Cancelled,Cash on Delivery
+2388,230,2025-02-26,Delivered,Cash on Delivery
+2389,153,2025-08-30,Delivered,Cash on Delivery
+2390,197,2025-09-28,Delivered,Nagad
+2391,283,2025-09-16,Delivered,Cash on Delivery
+2392,147,2025-01-28,Delivered,bKash
+2393,207,2025-11-15,Delivered,Card
+2394,177,2025-09-24,Cancelled,Card
+2395,54,2025-03-08,Delivered,bKash
+2396,394,2025-11-06,Pending,Card
+2397,446,2025-07-11,Delivered,bKash
+2398,247,2025-06-22,Delivered,Cash on Delivery
+2399,103,2025-11-12,Delivered,Cash on Delivery
+2400,322,2025-07-06,Delivered,bKash
+2401,268,2025-07-18,Delivered,bKash
+2402,276,2025-04-24,Pending,Card
+2403,298,2025-12-05,Pending,bKash
+2404,359,2025-11-24,Delivered,bKash
+2405,21,2025-12-02,Delivered,bKash
+2406,50,2025-11-08,Delivered,bKash
+2407,48,2025-01-09,Delivered,Nagad
+2408,78,2025-12-05,Delivered,bKash
+2409,486,2025-12-21,Delivered,bKash
+2410,366,2025-03-05,Cancelled,Card
+2411,333,2025-05-18,Delivered,Card
+2412,350,2025-03-22,Delivered,bKash
+2413,17,2025-11-15,Delivered,Nagad
+2414,107,2025-06-19,Pending,Card
+2415,398,2025-12-04,Delivered,bKash
+2416,232,2025-12-11,Delivered,Nagad
+2417,255,2025-11-19,Delivered,bKash
+2418,376,2025-09-25,Cancelled,bKash
+2419,38,2025-02-05,Delivered,Cash on Delivery
+2420,400,2025-03-20,Delivered,bKash
+2421,341,2025-12-12,Delivered,Nagad
+2422,202,2025-11-10,Delivered,Card
+2423,250,2025-12-28,Delivered,Cash on Delivery
+2424,38,2025-05-19,Delivered,bKash
+2425,103,2025-03-14,Pending,Cash on Delivery
+2426,124,2025-11-07,Delivered,Cash on Delivery
+2427,439,2025-10-14,Delivered,Cash on Delivery
+2428,57,2025-03-30,Delivered,Cash on Delivery
+2429,146,2025-08-04,Delivered,Cash on Delivery
+2430,66,2025-08-14,Delivered,Card
+2431,143,2025-06-24,Delivered,Card
+2432,6,2025-11-20,Delivered,bKash
+2433,137,2025-12-23,Returned,bKash
+2434,362,2025-04-05,Cancelled,bKash
+2435,384,2025-11-11,Delivered,Cash on Delivery
+2436,190,2025-11-06,Delivered,Cash on Delivery
+2437,354,2025-11-12,Returned,Nagad
+2438,310,2025-12-27,Delivered,bKash
+2439,452,2025-11-26,Delivered,Cash on Delivery
+2440,403,2025-12-25,Delivered,Cash on Delivery
+2441,115,2025-06-14,Cancelled,Nagad
+2442,295,2025-02-02,Delivered,Cash on Delivery
+2443,394,2025-09-02,Delivered,bKash
+2444,153,2025-09-04,Delivered,Card
+2445,287,2025-11-10,Delivered,Nagad
+2446,201,2025-05-05,Delivered,Cash on Delivery
+2447,155,2025-04-24,Delivered,Cash on Delivery
+2448,100,2025-11-11,Delivered,Cash on Delivery
+2449,18,2025-06-01,Pending,Cash on Delivery
+2450,375,2025-12-18,Delivered,Cash on Delivery
+2451,410,2025-12-12,Cancelled,Nagad
+2452,326,2025-10-03,Delivered,Nagad
+2453,121,2025-11-21,Delivered,bKash
+2454,10,2025-11-21,Delivered,Card
+2455,316,2025-07-06,Delivered,Card
+2456,100,2025-05-03,Delivered,bKash
+2457,275,2025-12-27,Delivered,Cash on Delivery
+2458,486,2025-12-13,Pending,Cash on Delivery
+2459,3,2025-09-24,Delivered,bKash
+2460,289,2025-07-09,Returned,bKash
+2461,498,2025-04-26,Delivered,bKash
+2462,168,2025-11-04,Delivered,Cash on Delivery
+2463,408,2025-01-13,Delivered,Cash on Delivery
+2464,415,2025-06-12,Delivered,Card
+2465,244,2025-10-20,Delivered,bKash
+2466,154,2025-12-14,Delivered,bKash
+2467,341,2025-04-02,Delivered,bKash
+2468,310,2025-11-15,Delivered,Cash on Delivery
+2469,239,2025-03-11,Delivered,Nagad
+2470,97,2025-02-12,Pending,Card
+2471,373,2025-12-25,Delivered,Card
+2472,106,2025-11-20,Delivered,bKash
+2473,68,2025-09-09,Delivered,bKash
+2474,34,2025-06-28,Delivered,bKash
+2475,224,2025-04-14,Returned,Card
+2476,61,2025-02-21,Cancelled,Card
+2477,168,2025-04-09,Delivered,Cash on Delivery
+2478,121,2025-02-25,Delivered,Card
+2479,230,2025-11-25,Cancelled,Cash on Delivery
+2480,389,2025-09-08,Delivered,bKash
+2481,226,2025-02-18,Delivered,bKash
+2482,279,2025-11-05,Delivered,Card
+2483,72,2025-07-17,Delivered,Card
+2484,57,2025-04-15,Delivered,bKash
+2485,489,2025-06-15,Delivered,Cash on Delivery
+2486,310,2025-02-21,Returned,Nagad
+2487,8,2025-03-18,Delivered,Card
+2488,283,2025-06-10,Returned,Card
+2489,6,2025-09-09,Delivered,Card
+2490,39,2025-06-01,Delivered,Cash on Delivery
+2491,187,2025-07-17,Delivered,Card
+2492,329,2025-07-10,Delivered,Card
+2493,311,2025-12-19,Cancelled,Nagad
+2494,396,2025-04-13,Delivered,Nagad
+2495,90,2025-06-05,Pending,Cash on Delivery
+2496,96,2025-12-23,Delivered,Card
+2497,267,2025-09-08,Delivered,bKash
+2498,435,2025-08-13,Delivered,Card
+2499,362,2025-04-22,Delivered,Cash on Delivery
+2500,335,2025-05-17,Delivered,Cash on Delivery
+2501,48,2025-04-30,Delivered,Card
+2502,440,2025-08-26,Delivered,Nagad
+2503,493,2025-10-05,Delivered,bKash
+2504,292,2025-02-09,Delivered,Cash on Delivery
+2505,169,2025-05-31,Delivered,Card
+2506,332,2025-01-06,Delivered,bKash
+2507,322,2025-06-15,Delivered,Card
+2508,465,2025-04-01,Delivered,Cash on Delivery
+2509,56,2025-11-27,Delivered,Card
+2510,258,2025-06-16,Delivered,bKash
+2511,355,2025-04-29,Delivered,Cash on Delivery
+2512,175,2025-05-24,Delivered,Cash on Delivery
+2513,421,2025-10-07,Delivered,Cash on Delivery
+2514,33,2025-10-23,Delivered,Cash on Delivery
+2515,53,2025-01-03,Delivered,Cash on Delivery
+2516,396,2025-12-13,Delivered,Cash on Delivery
+2517,63,2025-11-06,Delivered,bKash
+2518,210,2025-07-13,Delivered,Card
+2519,141,2025-03-16,Delivered,bKash
+2520,345,2025-08-05,Delivered,Card
+2521,6,2025-02-22,Pending,bKash
+2522,179,2025-01-08,Delivered,bKash
+2523,494,2025-08-19,Delivered,Card
+2524,185,2025-07-08,Returned,Cash on Delivery
+2525,300,2025-10-04,Pending,Cash on Delivery
+2526,495,2025-05-06,Delivered,bKash
+2527,304,2025-11-08,Returned,Nagad
+2528,378,2025-06-03,Delivered,bKash
+2529,480,2025-09-27,Delivered,bKash
+2530,309,2025-11-15,Delivered,Card
+2531,417,2025-02-05,Delivered,bKash
+2532,255,2025-10-13,Delivered,Card
+2533,408,2025-11-01,Delivered,Cash on Delivery
+2534,321,2025-12-10,Delivered,bKash
+2535,170,2025-12-22,Delivered,bKash
+2536,280,2025-01-09,Delivered,bKash
+2537,168,2025-12-24,Delivered,bKash
+2538,199,2025-08-08,Returned,Cash on Delivery
+2539,146,2025-04-01,Delivered,Cash on Delivery
+2540,246,2025-10-06,Delivered,Cash on Delivery
+2541,174,2025-11-26,Delivered,Cash on Delivery
+2542,314,2025-04-14,Delivered,bKash
+2543,185,2025-10-08,Delivered,bKash
+2544,246,2025-10-15,Delivered,Cash on Delivery
+2545,71,2025-07-03,Delivered,bKash
+2546,194,2025-08-19,Delivered,bKash
+2547,178,2025-11-23,Delivered,Card
+2548,481,2025-12-06,Cancelled,Cash on Delivery
+2549,224,2025-12-25,Delivered,Card
+2550,11,2025-12-25,Delivered,Nagad
+2551,155,2025-11-17,Returned,Card
+2552,365,2025-01-16,Delivered,bKash
+2553,83,2025-05-14,Delivered,Card
+2554,82,2025-12-01,Pending,bKash
+2555,187,2025-11-17,Delivered,bKash
+2556,179,2025-12-08,Pending,Cash on Delivery
+2557,241,2025-07-15,Delivered,Card
+2558,18,2025-02-23,Delivered,bKash
+2559,361,2025-10-17,Delivered,Card
+2560,107,2025-05-03,Delivered,bKash
+2561,356,2025-02-03,Pending,Nagad
+2562,283,2025-12-27,Delivered,bKash
+2563,102,2025-03-11,Pending,Cash on Delivery
+2564,235,2025-12-15,Delivered,bKash
+2565,19,2025-01-29,Returned,bKash
+2566,351,2025-06-15,Pending,Cash on Delivery
+2567,152,2025-02-07,Delivered,Card
+2568,192,2025-11-04,Pending,Cash on Delivery
+2569,79,2025-07-07,Delivered,bKash
+2570,183,2025-04-29,Delivered,bKash
+2571,198,2025-01-02,Delivered,Nagad
+2572,113,2025-11-25,Delivered,bKash
+2573,490,2025-02-25,Delivered,Nagad
+2574,140,2025-12-23,Delivered,Nagad
+2575,91,2025-04-17,Delivered,bKash
+2576,275,2025-12-18,Delivered,bKash
+2577,160,2025-01-07,Delivered,Cash on Delivery
+2578,227,2025-02-17,Delivered,Card
+2579,363,2025-03-17,Delivered,Cash on Delivery
+2580,40,2025-01-19,Returned,Card
+2581,255,2025-09-22,Pending,Card
+2582,11,2025-12-12,Returned,bKash
+2583,22,2025-12-26,Delivered,Cash on Delivery
+2584,47,2025-04-08,Delivered,Cash on Delivery
+2585,81,2025-10-15,Pending,Cash on Delivery
+2586,175,2025-07-03,Delivered,bKash
+2587,468,2025-01-17,Delivered,bKash
+2588,454,2025-02-03,Delivered,Card
+2589,52,2025-07-19,Delivered,bKash
+2590,496,2025-06-04,Delivered,bKash
+2591,318,2025-01-04,Delivered,Cash on Delivery
+2592,277,2025-11-26,Delivered,Card
+2593,397,2025-12-29,Delivered,Card
+2594,243,2025-07-03,Delivered,Cash on Delivery
+2595,133,2025-12-27,Delivered,Card
+2596,265,2025-12-21,Delivered,Nagad
+2597,363,2025-12-22,Delivered,bKash
+2598,342,2025-04-05,Delivered,Card
+2599,85,2025-11-18,Delivered,Nagad
+2600,470,2025-07-04,Delivered,Cash on Delivery
+2601,143,2025-11-16,Delivered,Cash on Delivery
+2602,410,2025-11-10,Pending,bKash
+2603,156,2025-12-13,Delivered,bKash
+2604,32,2025-06-13,Delivered,Cash on Delivery
+2605,499,2025-02-17,Returned,bKash
+2606,295,2025-04-13,Delivered,bKash
+2607,108,2025-05-31,Delivered,bKash
+2608,1,2025-11-09,Delivered,bKash
+2609,65,2025-11-11,Delivered,Card
+2610,85,2025-05-23,Delivered,Cash on Delivery
+2611,463,2025-05-01,Delivered,bKash
+2612,89,2025-07-13,Delivered,Nagad
+2613,81,2025-11-29,Delivered,bKash
+2614,419,2025-12-23,Delivered,bKash
+2615,440,2025-03-24,Delivered,bKash
+2616,105,2025-03-10,Cancelled,Cash on Delivery
+2617,326,2025-12-03,Delivered,Cash on Delivery
+2618,268,2025-04-21,Delivered,bKash
+2619,289,2025-03-14,Delivered,bKash
+2620,156,2025-01-12,Delivered,Cash on Delivery
+2621,376,2025-05-28,Delivered,Card
+2622,441,2025-05-24,Delivered,Cash on Delivery
+2623,363,2025-07-25,Delivered,Cash on Delivery
+2624,452,2025-03-15,Cancelled,bKash
+2625,56,2025-09-18,Cancelled,Cash on Delivery
+2626,329,2025-09-06,Cancelled,Cash on Delivery
+2627,500,2025-06-18,Delivered,Card
+2628,268,2025-03-08,Delivered,bKash
+2629,471,2025-07-05,Delivered,bKash
+2630,175,2025-12-27,Returned,Cash on Delivery
+2631,449,2025-05-17,Delivered,bKash
+2632,470,2025-04-07,Delivered,bKash
+2633,312,2025-07-04,Cancelled,bKash
+2634,353,2025-11-14,Delivered,Card
+2635,262,2025-05-27,Delivered,Card
+2636,159,2025-05-08,Delivered,Card
+2637,269,2025-04-21,Delivered,Card
+2638,482,2025-11-12,Delivered,Card
+2639,8,2025-06-17,Delivered,Cash on Delivery
+2640,103,2025-06-20,Delivered,Cash on Delivery
+2641,250,2025-08-27,Delivered,Card
+2642,170,2025-05-12,Pending,Cash on Delivery
+2643,312,2025-02-06,Delivered,Card
+2644,181,2025-11-08,Delivered,bKash
+2645,330,2025-01-21,Delivered,Nagad
+2646,54,2025-07-28,Delivered,bKash
+2647,167,2025-12-23,Delivered,Card
+2648,347,2025-03-20,Delivered,bKash
+2649,236,2025-12-25,Delivered,Cash on Delivery
+2650,357,2025-11-25,Delivered,Card
+2651,319,2025-06-06,Delivered,Nagad
+2652,165,2025-05-06,Delivered,bKash
+2653,215,2025-09-28,Pending,Card
+2654,483,2025-12-15,Returned,bKash
+2655,482,2025-07-26,Delivered,Cash on Delivery
+2656,18,2025-06-30,Delivered,bKash
+2657,353,2025-07-22,Cancelled,Nagad
+2658,246,2025-02-15,Cancelled,Nagad
+2659,1,2025-12-14,Delivered,Card
+2660,318,2025-03-29,Delivered,Card
+2661,12,2025-09-05,Delivered,bKash
+2662,160,2025-09-30,Delivered,Cash on Delivery
+2663,346,2025-05-06,Delivered,Cash on Delivery
+2664,407,2025-02-17,Delivered,bKash
+2665,207,2025-04-19,Delivered,Nagad
+2666,405,2025-11-29,Cancelled,bKash
+2667,420,2025-11-27,Delivered,Cash on Delivery
+2668,224,2025-12-08,Pending,Cash on Delivery
+2669,87,2025-03-24,Cancelled,Card
+2670,330,2025-11-25,Cancelled,Card
+2671,7,2025-12-10,Delivered,Card
+2672,447,2025-09-17,Delivered,Nagad
+2673,195,2025-06-01,Delivered,bKash
+2674,381,2025-09-18,Returned,Cash on Delivery
+2675,369,2025-09-08,Delivered,bKash
+2676,237,2025-12-29,Delivered,bKash
+2677,486,2025-06-28,Delivered,Nagad
+2678,399,2025-05-05,Delivered,bKash
+2679,442,2025-07-12,Delivered,Cash on Delivery
+2680,47,2025-03-01,Delivered,bKash
+2681,243,2025-12-15,Delivered,Card
+2682,476,2025-07-09,Delivered,Card
+2683,407,2025-10-29,Delivered,Card
+2684,228,2025-11-17,Delivered,Cash on Delivery
+2685,36,2025-10-13,Delivered,bKash
+2686,142,2025-03-06,Delivered,bKash
+2687,287,2025-11-01,Delivered,Card
+2688,321,2025-08-12,Delivered,Cash on Delivery
+2689,463,2025-05-07,Cancelled,Cash on Delivery
+2690,47,2025-11-05,Delivered,Cash on Delivery
+2691,199,2025-01-27,Delivered,Nagad
+2692,137,2025-11-21,Delivered,Card
+2693,481,2025-12-11,Delivered,Card
+2694,84,2025-04-07,Delivered,bKash
+2695,111,2025-11-27,Returned,bKash
+2696,149,2025-01-15,Delivered,Cash on Delivery
+2697,53,2025-12-11,Delivered,Cash on Delivery
+2698,322,2025-12-08,Delivered,Card
+2699,263,2025-10-05,Delivered,Nagad
+2700,279,2025-11-29,Cancelled,Card
+2701,454,2025-05-03,Pending,Cash on Delivery
+2702,217,2025-11-16,Delivered,bKash
+2703,156,2025-10-28,Delivered,Cash on Delivery
+2704,188,2025-01-12,Delivered,Card
+2705,401,2025-05-09,Pending,Nagad
+2706,265,2025-12-15,Delivered,Nagad
+2707,85,2025-04-10,Delivered,bKash
+2708,345,2025-03-12,Pending,bKash
+2709,373,2025-11-30,Pending,Cash on Delivery
+2710,125,2025-05-19,Delivered,Cash on Delivery
+2711,279,2025-12-14,Delivered,bKash
+2712,282,2025-12-28,Delivered,Cash on Delivery
+2713,88,2025-12-24,Cancelled,Cash on Delivery
+2714,5,2025-05-04,Delivered,Cash on Delivery
+2715,360,2025-05-05,Delivered,Card
+2716,308,2025-04-30,Delivered,Nagad
+2717,357,2025-04-30,Delivered,Card
+2718,189,2025-12-20,Delivered,Card
+2719,258,2025-08-09,Delivered,Nagad
+2720,491,2025-01-10,Delivered,Card
+2721,113,2025-03-24,Delivered,Card
+2722,327,2025-03-15,Cancelled,bKash
+2723,67,2025-04-17,Delivered,Cash on Delivery
+2724,33,2025-10-04,Delivered,Card
+2725,479,2025-08-07,Pending,bKash
+2726,65,2025-12-28,Delivered,Card
+2727,328,2025-05-09,Returned,bKash
+2728,258,2025-12-05,Delivered,bKash
+2729,405,2025-11-23,Delivered,Card
+2730,274,2025-07-04,Delivered,Nagad
+2731,349,2025-12-13,Delivered,Cash on Delivery
+2732,448,2025-07-14,Delivered,Cash on Delivery
+2733,415,2025-11-22,Delivered,Nagad
+2734,361,2025-04-25,Delivered,Nagad
+2735,82,2025-01-13,Delivered,Cash on Delivery
+2736,85,2025-10-10,Cancelled,bKash
+2737,249,2025-12-23,Delivered,Cash on Delivery
+2738,330,2025-10-07,Delivered,bKash
+2739,334,2025-09-25,Delivered,bKash
+2740,394,2025-11-05,Delivered,bKash
+2741,52,2025-12-07,Delivered,bKash
+2742,87,2025-11-23,Delivered,bKash
+2743,75,2025-03-03,Delivered,Cash on Delivery
+2744,271,2025-06-08,Delivered,bKash
+2745,317,2025-12-21,Delivered,bKash
+2746,58,2025-10-07,Delivered,Card
+2747,435,2025-11-17,Delivered,Cash on Delivery
+2748,152,2025-10-22,Delivered,bKash
+2749,331,2025-11-01,Delivered,bKash
+2750,376,2025-04-23,Delivered,Cash on Delivery
+2751,19,2025-01-25,Delivered,Cash on Delivery
+2752,433,2025-12-06,Delivered,bKash
+2753,486,2025-06-29,Delivered,Cash on Delivery
+2754,480,2025-02-04,Delivered,Card
+2755,70,2025-12-05,Delivered,Nagad
+2756,197,2025-12-29,Delivered,bKash
+2757,117,2025-06-12,Delivered,Cash on Delivery
+2758,226,2025-10-09,Pending,Card
+2759,488,2025-01-14,Delivered,Cash on Delivery
+2760,382,2025-02-04,Delivered,bKash
+2761,386,2025-04-11,Delivered,bKash
+2762,211,2025-08-28,Delivered,Cash on Delivery
+2763,469,2025-02-18,Delivered,Cash on Delivery
+2764,461,2025-01-13,Returned,bKash
+2765,404,2025-09-02,Delivered,Nagad
+2766,408,2025-10-09,Delivered,Card
+2767,326,2025-09-27,Delivered,bKash
+2768,48,2025-10-19,Pending,Card
+2769,143,2025-10-21,Delivered,bKash
+2770,385,2025-11-09,Delivered,Nagad
+2771,164,2025-07-09,Cancelled,Card
+2772,87,2025-11-09,Delivered,Nagad
+2773,474,2025-05-08,Delivered,bKash
+2774,245,2025-02-05,Delivered,Cash on Delivery
+2775,431,2025-10-02,Delivered,Card
+2776,143,2025-04-11,Delivered,Cash on Delivery
+2777,180,2025-12-24,Delivered,Nagad
+2778,172,2025-06-01,Delivered,bKash
+2779,187,2025-11-07,Cancelled,bKash
+2780,219,2025-01-16,Delivered,Cash on Delivery
+2781,149,2025-08-29,Delivered,Cash on Delivery
+2782,408,2025-12-02,Delivered,Card
+2783,164,2025-06-18,Delivered,Cash on Delivery
+2784,221,2025-12-28,Delivered,Cash on Delivery
+2785,431,2025-12-21,Delivered,Cash on Delivery
+2786,219,2025-05-24,Cancelled,bKash
+2787,6,2025-11-07,Delivered,bKash
+2788,1,2025-06-05,Cancelled,Nagad
+2789,219,2025-01-18,Delivered,Cash on Delivery
+2790,325,2025-12-08,Delivered,bKash
+2791,472,2025-03-09,Delivered,Nagad
+2792,66,2025-04-09,Delivered,Card
+2793,272,2025-12-19,Delivered,bKash
+2794,145,2025-11-29,Cancelled,Cash on Delivery
+2795,226,2025-12-01,Delivered,Cash on Delivery
+2796,222,2025-06-05,Delivered,Nagad
+2797,157,2025-10-04,Delivered,Cash on Delivery
+2798,10,2025-12-28,Delivered,bKash
+2799,37,2025-09-28,Delivered,bKash
+2800,262,2025-07-03,Cancelled,Card
+2801,113,2025-12-27,Delivered,Nagad
+2802,164,2025-11-14,Delivered,Card
+2803,46,2025-06-20,Delivered,bKash
+2804,25,2025-04-04,Delivered,bKash
+2805,64,2025-05-17,Delivered,Card
+2806,189,2025-12-22,Delivered,bKash
+2807,82,2025-01-19,Delivered,Cash on Delivery
+2808,116,2025-02-25,Delivered,Card
+2809,152,2025-10-07,Cancelled,Nagad
+2810,146,2025-05-09,Delivered,Nagad
+2811,6,2025-08-11,Delivered,Card
+2812,59,2025-07-26,Returned,Cash on Delivery
+2813,476,2025-07-21,Delivered,bKash
+2814,334,2025-05-31,Delivered,Card
+2815,62,2025-06-26,Delivered,bKash
+2816,142,2025-10-28,Returned,Cash on Delivery
+2817,192,2025-12-19,Delivered,Cash on Delivery
+2818,453,2025-04-04,Returned,Card
+2819,440,2025-09-02,Delivered,Cash on Delivery
+2820,386,2025-12-20,Pending,Cash on Delivery
+2821,54,2025-01-03,Delivered,Cash on Delivery
+2822,246,2025-10-14,Delivered,bKash
+2823,242,2025-07-01,Delivered,Cash on Delivery
+2824,319,2025-11-02,Cancelled,Cash on Delivery
+2825,423,2025-07-31,Pending,Card
+2826,161,2025-11-02,Delivered,Cash on Delivery
+2827,279,2025-03-02,Delivered,bKash
+2828,132,2025-02-21,Delivered,Cash on Delivery
+2829,106,2025-12-05,Delivered,Cash on Delivery
+2830,157,2025-07-12,Cancelled,bKash
+2831,368,2025-07-23,Delivered,Card
+2832,219,2025-12-06,Pending,Cash on Delivery
+2834,346,2025-10-26,Delivered,Cash on Delivery
+2835,182,2025-04-21,Delivered,Cash on Delivery
+2836,478,2025-08-02,Pending,Card
+2837,24,2025-11-27,Cancelled,bKash
+2838,449,2025-04-07,Delivered,Cash on Delivery
+2839,4,2025-03-02,Delivered,bKash
+2840,192,2025-12-06,Delivered,Cash on Delivery
+2841,413,2025-11-19,Cancelled,bKash
+2842,343,2025-02-12,Delivered,Card
+2843,161,2025-05-09,Delivered,Cash on Delivery
+2844,443,2025-07-25,Delivered,Cash on Delivery
+2845,69,2025-05-20,Delivered,Cash on Delivery
+2846,336,2025-09-21,Delivered,bKash
+2847,260,2025-04-05,Delivered,Cash on Delivery
+2848,104,2025-01-22,Returned,bKash
+2849,461,2025-05-03,Delivered,Cash on Delivery
+2850,383,2025-12-27,Delivered,Cash on Delivery
+2851,5,2025-03-07,Pending,bKash
+2852,44,2025-10-25,Delivered,Cash on Delivery
+2853,29,2025-01-05,Delivered,Cash on Delivery
+2854,208,2025-01-25,Cancelled,bKash
+2855,209,2025-12-10,Delivered,Cash on Delivery
+2856,362,2025-07-06,Pending,Card
+2857,338,2025-04-18,Cancelled,Nagad
+2858,8,2025-04-05,Delivered,bKash
+2859,239,2025-11-09,Delivered,Card
+2860,393,2025-08-30,Delivered,Cash on Delivery
+2861,449,2025-05-19,Delivered,Card
+2862,147,2025-11-09,Delivered,Nagad
+2863,23,2025-05-26,Delivered,bKash
+2864,77,2025-11-08,Pending,bKash
+2865,171,2025-11-19,Delivered,Card
+2866,222,2025-11-23,Cancelled,Card
+2867,176,2025-04-05,Delivered,Card
+2868,46,2025-03-09,Delivered,Card
+2869,171,2025-11-05,Delivered,bKash
+2870,145,2025-04-28,Delivered,bKash
+2871,244,2025-02-14,Delivered,bKash
+2872,40,2025-08-03,Delivered,Card
+2873,396,2025-05-02,Cancelled,Card
+2875,159,2025-06-29,Delivered,Card
+2876,454,2025-06-11,Cancelled,bKash
+2877,373,2025-06-21,Delivered,Card
+2878,69,2025-11-16,Delivered,bKash
+2879,74,2025-09-18,Delivered,Nagad
+2880,2,2025-02-08,Delivered,bKash
+2881,281,2025-09-21,Delivered,Card
+2882,178,2025-12-31,Delivered,Cash on Delivery
+2883,188,2025-10-06,Delivered,bKash
+2884,255,2025-06-16,Delivered,Card
+2885,270,2025-04-25,Delivered,Cash on Delivery
+2886,1,2025-11-15,Pending,Cash on Delivery
+2887,54,2025-04-04,Delivered,Nagad
+2888,395,2025-06-26,Delivered,Nagad
+2889,477,2025-12-16,Returned,Cash on Delivery
+2890,419,2025-12-03,Delivered,Cash on Delivery
+2891,454,2025-12-03,Delivered,bKash
+2892,232,2025-12-23,Delivered,Nagad
+2893,414,2025-11-24,Returned,bKash
+2894,442,2025-12-18,Delivered,bKash
+2895,447,2025-08-02,Delivered,Card
+2896,75,2025-12-06,Pending,Cash on Delivery
+2897,74,2025-08-28,Delivered,bKash
+2898,202,2025-12-12,Delivered,Cash on Delivery
+2899,252,2025-05-06,Delivered,Card
+2900,480,2025-04-25,Delivered,Cash on Delivery
+2901,159,2025-04-30,Cancelled,Card
+2902,416,2025-05-10,Pending,Cash on Delivery
+2903,444,2025-09-07,Delivered,bKash
+2904,483,2025-06-15,Delivered,bKash
+2905,95,2025-09-27,Delivered,bKash
+2906,121,2025-06-01,Delivered,Card
+2907,110,2025-11-30,Returned,Card
+2908,368,2025-03-11,Delivered,Cash on Delivery
+2909,344,2025-07-21,Delivered,Card
+2910,204,2025-11-24,Cancelled,Cash on Delivery
+2911,45,2025-11-10,Pending,Cash on Delivery
+2912,261,2025-04-03,Delivered,Card
+2913,367,2025-12-12,Delivered,Nagad
+2914,238,2025-09-15,Delivered,Cash on Delivery
+2915,135,2025-08-12,Delivered,Cash on Delivery
+2916,297,2025-12-27,Delivered,Cash on Delivery
+2917,331,2025-11-04,Cancelled,Cash on Delivery
+2918,296,2025-01-15,Delivered,Nagad
+2919,437,2025-02-12,Delivered,Card
+2920,157,2025-08-27,Delivered,Card
+2921,305,2025-02-07,Delivered,Cash on Delivery
+2922,428,2025-12-25,Delivered,bKash
+2923,107,2025-08-03,Delivered,Cash on Delivery
+2924,141,2025-08-28,Cancelled,bKash
+2925,25,2025-06-12,Delivered,bKash
+2926,188,2025-02-04,Delivered,Nagad
+2927,23,2025-12-14,Delivered,Card
+2928,374,2025-12-13,Delivered,Card
+2929,45,2025-11-21,Cancelled,Cash on Delivery
+2930,347,2025-11-24,Delivered,Cash on Delivery
+2931,290,2025-05-27,Delivered,Cash on Delivery
+2932,494,2025-11-27,Delivered,Card
+2933,175,2025-11-27,Delivered,Nagad
+2934,173,2025-02-19,Delivered,Cash on Delivery
+2935,122,2025-11-07,Pending,Cash on Delivery
+2936,269,2025-04-27,Delivered,Card
+2937,110,2025-12-09,Delivered,bKash
+2938,57,2025-05-15,Delivered,bKash
+2939,475,2025-11-10,Delivered,Cash on Delivery
+2940,340,2025-07-16,Delivered,Card
+2941,60,2025-06-20,Pending,bKash
+2942,310,2025-04-19,Delivered,Cash on Delivery
+2943,153,2025-11-02,Cancelled,bKash
+2944,91,2025-01-23,Delivered,bKash
+2945,236,2025-11-14,Delivered,bKash
+2946,394,2025-05-15,Returned,Nagad
+2947,1,2025-07-18,Delivered,Cash on Delivery
+2948,178,2025-04-03,Delivered,bKash
+2949,461,2025-11-18,Returned,Nagad
+2950,198,2025-11-01,Returned,Cash on Delivery
+2951,50,2025-03-10,Delivered,bKash
+2952,215,2025-12-01,Delivered,Cash on Delivery
+2953,342,2025-11-29,Delivered,Nagad
+2954,499,2025-04-06,Pending,Card
+2955,315,2025-04-23,Delivered,Cash on Delivery
+2956,26,2025-08-17,Delivered,Card
+2957,405,2025-05-01,Delivered,Cash on Delivery
+2958,391,2025-05-22,Delivered,Cash on Delivery
+2959,326,2025-03-31,Delivered,Nagad
+2960,449,2025-05-07,Delivered,Cash on Delivery
+2961,385,2025-09-10,Delivered,Card
+2962,117,2025-07-14,Delivered,bKash
+2963,211,2025-12-31,Delivered,Nagad
+2964,254,2025-10-09,Delivered,Card
+2965,245,2025-11-20,Delivered,Card
+2966,320,2025-05-19,Delivered,Cash on Delivery
+2967,351,2025-04-16,Delivered,bKash
+2968,52,2025-08-03,Delivered,Card
+2969,285,2025-04-07,Delivered,bKash
+2970,20,2025-12-19,Delivered,bKash
+2971,256,2025-04-20,Delivered,Cash on Delivery
+2972,212,2025-07-10,Delivered,bKash
+2973,103,2025-02-14,Delivered,bKash
+2974,496,2025-11-29,Delivered,Cash on Delivery
+2975,130,2025-11-29,Delivered,bKash
+2976,29,2025-11-11,Delivered,Cash on Delivery
+2977,180,2025-05-09,Delivered,bKash
+2978,379,2025-01-22,Delivered,bKash
+2979,5,2025-09-17,Returned,bKash
+2980,247,2025-06-06,Delivered,Cash on Delivery
+2981,209,2025-12-29,Delivered,Nagad
+2982,433,2025-09-12,Delivered,bKash
+2983,2,2025-07-16,Delivered,Card
+2984,9,2025-12-27,Delivered,bKash
+2985,283,2025-12-11,Delivered,bKash
+2986,90,2025-06-17,Delivered,Card
+2987,353,2025-11-29,Pending,Nagad
+2988,140,2025-02-03,Delivered,Cash on Delivery
+2989,282,2025-06-11,Delivered,bKash
+2990,19,2025-12-14,Delivered,bKash
+2991,347,2025-11-23,Pending,Card
+2992,260,2025-02-16,Delivered,bKash
+2993,1,2025-09-15,Delivered,Cash on Delivery
+2994,133,2025-10-02,Delivered,Nagad
+2995,30,2025-01-11,Delivered,bKash
+2996,23,2025-07-05,Delivered,Card
+2997,350,2025-01-30,Delivered,Card
+2998,214,2025-09-22,Delivered,Card
+2999,402,2025-11-01,Delivered,Nagad
+3000,129,2025-11-14,Delivered,Cash on Delivery
+3001,359,2025-08-07,Delivered,Cash on Delivery
+3002,308,2025-08-18,Delivered,Cash on Delivery
+3003,332,2025-12-05,Cancelled,Card
+3004,415,2025-08-12,Pending,Cash on Delivery
+3005,354,2025-06-12,Delivered,Cash on Delivery
+3006,373,2025-11-13,Delivered,Card
+3007,370,2025-08-04,Delivered,bKash
+3008,224,2025-11-04,Returned,Cash on Delivery
+3009,363,2025-07-11,Delivered,Nagad
+3010,422,2025-12-11,Delivered,Card
+3011,370,2025-01-17,Delivered,Nagad
+3012,304,2025-01-14,Delivered,Nagad
+3013,38,2025-02-06,Cancelled,Nagad
+3014,219,2025-07-23,Cancelled,Card
+3015,32,2025-09-16,Delivered,Card
+3016,52,2025-03-20,Delivered,Cash on Delivery
+3017,181,2025-02-26,Pending,bKash
+3018,233,2025-11-11,Delivered,Card
+3019,264,2025-10-01,Delivered,Cash on Delivery
+3020,451,2025-08-25,Delivered,Card
+3021,382,2025-06-28,Delivered,bKash
+3022,212,2025-06-03,Delivered,Nagad
+3023,168,2025-12-17,Delivered,bKash
+3024,357,2025-12-10,Returned,Nagad
+3025,138,2025-11-24,Cancelled,bKash
+3026,442,2025-05-04,Delivered,bKash
+3027,391,2025-09-15,Delivered,Card
+3028,342,2025-09-14,Delivered,bKash
+3029,125,2025-04-23,Delivered,bKash
+3030,311,2025-03-16,Delivered,Cash on Delivery
+3031,411,2025-09-10,Returned,Nagad
+3032,36,2025-02-04,Delivered,Card
+3033,89,2025-06-30,Delivered,Card
+3034,258,2025-11-21,Cancelled,Cash on Delivery
+3035,180,2025-09-17,Pending,bKash
+3036,355,2025-10-06,Delivered,bKash
+3037,201,2025-01-31,Delivered,bKash
+3038,499,2025-03-14,Delivered,Card
+3039,150,2025-12-04,Delivered,bKash
+3040,181,2025-04-17,Delivered,Card
+3041,2,2025-03-12,Delivered,Cash on Delivery
+3042,124,2025-11-01,Delivered,bKash
+3043,118,2025-03-02,Delivered,bKash
+3044,382,2025-09-16,Delivered,bKash
+3045,169,2025-08-03,Delivered,Card
+3046,102,2025-08-11,Delivered,Nagad
+3047,157,2025-03-20,Delivered,Cash on Delivery
+3048,282,2025-04-23,Delivered,Nagad
+3049,393,2025-08-10,Pending,bKash
+3050,490,2025-04-20,Delivered,bKash
+3051,24,2025-09-11,Delivered,Card
+3052,421,2025-01-15,Delivered,bKash
+3053,195,2025-01-27,Returned,Cash on Delivery
+3054,405,2025-12-09,Delivered,bKash
+3055,19,2025-08-14,Delivered,Card
+3056,314,2025-12-08,Cancelled,bKash
+3057,466,2025-11-25,Delivered,Card
+3058,20,2025-01-02,Delivered,bKash
+3059,396,2025-12-15,Delivered,Cash on Delivery
+3060,58,2025-09-24,Pending,Nagad
+3061,492,2025-12-27,Delivered,Card
+3062,373,2025-12-13,Delivered,Card
+3063,456,2025-04-25,Cancelled,bKash
+3065,158,2025-03-18,Delivered,Cash on Delivery
+3066,208,2025-11-25,Delivered,Card
+3067,346,2025-03-29,Delivered,Nagad
+3068,88,2025-06-27,Delivered,Cash on Delivery
+3069,154,2025-11-15,Delivered,bKash
+3070,50,2025-06-09,Cancelled,Nagad
+3071,445,2025-02-03,Delivered,Cash on Delivery
+3072,124,2025-04-29,Delivered,Nagad
+3073,206,2025-10-15,Delivered,bKash
+3074,227,2025-07-10,Delivered,Nagad
+3075,188,2025-07-24,Delivered,Card
+3076,389,2025-06-07,Delivered,bKash
+3077,458,2025-04-17,Delivered,Nagad
+3078,287,2025-08-07,Delivered,bKash
+3079,419,2025-11-15,Delivered,Card
+3080,56,2025-11-24,Delivered,Card
+3081,484,2025-08-14,Delivered,Card
+3082,58,2025-12-30,Delivered,bKash
+3083,34,2025-12-29,Delivered,bKash
+3084,12,2025-01-29,Delivered,bKash
+3086,419,2025-05-21,Delivered,Card
+3087,151,2025-01-02,Delivered,Cash on Delivery
+3088,396,2025-03-07,Pending,Cash on Delivery
+3089,213,2025-10-06,Delivered,Cash on Delivery
+3090,52,2025-05-09,Delivered,Cash on Delivery
+3091,237,2025-02-23,Delivered,Nagad
+3092,117,2025-11-17,Delivered,Card
+3093,146,2025-04-11,Delivered,Cash on Delivery
+3095,396,2025-02-06,Delivered,Cash on Delivery
+3096,294,2025-10-06,Cancelled,Card
+3097,112,2025-10-28,Delivered,Cash on Delivery
+3098,359,2025-07-01,Cancelled,Cash on Delivery
+3099,349,2025-12-13,Pending,bKash
+3100,119,2025-12-02,Returned,Cash on Delivery
+3101,426,2025-11-04,Delivered,Cash on Delivery
+3102,422,2025-01-12,Cancelled,bKash
+3103,302,2025-11-29,Delivered,Card
+3104,149,2025-12-04,Delivered,bKash
+3105,178,2025-12-09,Delivered,Cash on Delivery
+3106,220,2025-05-28,Delivered,bKash
+3107,94,2025-09-30,Delivered,Cash on Delivery
+3108,153,2025-11-23,Delivered,bKash
+3109,68,2025-04-17,Delivered,Nagad
+3110,78,2025-04-06,Delivered,Cash on Delivery
+3111,373,2025-05-26,Delivered,Cash on Delivery
+3112,65,2025-12-26,Cancelled,bKash
+3113,235,2025-05-01,Delivered,Card
+3114,215,2025-03-18,Cancelled,Cash on Delivery
+3115,24,2025-02-14,Cancelled,Card
+3116,416,2025-11-10,Delivered,bKash
+3117,492,2025-02-18,Delivered,Card
+3118,320,2025-11-11,Delivered,bKash
+3119,336,2025-06-03,Delivered,Cash on Delivery
+3120,117,2025-12-27,Delivered,bKash
+3121,423,2025-10-31,Delivered,bKash
+3122,393,2025-07-31,Delivered,Card
+3123,220,2025-02-26,Delivered,bKash
+3124,353,2025-05-18,Delivered,bKash
+3125,478,2025-12-01,Delivered,Cash on Delivery
+3126,302,2025-10-29,Delivered,Nagad
+3127,100,2025-11-26,Returned,Nagad
+3128,166,2025-02-20,Delivered,Card
+3129,93,2025-09-26,Delivered,bKash
+3130,166,2025-11-20,Delivered,bKash
+3131,446,2025-02-04,Delivered,Cash on Delivery
+3132,95,2025-12-14,Delivered,Cash on Delivery
+3133,446,2025-12-25,Delivered,Cash on Delivery
+3134,143,2025-11-13,Delivered,bKash
+3135,250,2025-10-31,Returned,bKash
+3136,265,2025-05-15,Delivered,Nagad
+3137,63,2025-07-22,Delivered,Card
+3138,93,2025-07-27,Cancelled,Cash on Delivery
+3139,153,2025-08-27,Delivered,Cash on Delivery
+3140,30,2025-12-17,Cancelled,Card
+3141,378,2025-04-29,Delivered,Nagad
+3142,274,2025-12-03,Delivered,Cash on Delivery
+3143,423,2025-09-12,Delivered,Cash on Delivery
+3144,432,2025-01-26,Delivered,Card
+3145,174,2025-07-08,Delivered,Card
+3146,409,2025-09-23,Cancelled,Cash on Delivery
+3147,31,2025-12-13,Delivered,Card
+3148,215,2025-04-16,Returned,Card
+3149,333,2025-01-03,Delivered,bKash
+3150,234,2025-09-22,Delivered,Card
+3151,370,2025-01-01,Returned,Cash on Delivery
+3152,430,2025-11-29,Returned,bKash
+3153,213,2025-12-28,Delivered,Card
+3154,138,2025-11-11,Delivered,bKash
+3155,292,2025-09-16,Delivered,Card
+3156,435,2025-12-22,Delivered,Card
+3157,494,2025-01-28,Cancelled,bKash
+3158,408,2025-02-02,Delivered,bKash
+3159,123,2025-04-20,Delivered,bKash
+3160,103,2025-12-22,Delivered,Cash on Delivery
+3161,287,2025-11-21,Delivered,bKash
+3162,202,2025-01-21,Delivered,Cash on Delivery
+3163,306,2025-07-18,Delivered,bKash
+3164,462,2025-11-08,Delivered,Cash on Delivery
+3165,275,2025-09-26,Pending,Cash on Delivery
+3166,178,2025-03-27,Returned,Card
+3167,435,2025-06-21,Delivered,Cash on Delivery
+3168,220,2025-07-20,Delivered,Cash on Delivery
+3169,303,2025-10-08,Returned,Card
+3170,68,2025-06-05,Returned,Cash on Delivery
+3171,254,2025-04-15,Returned,Cash on Delivery
+3172,214,2025-10-18,Delivered,Card
+3173,62,2025-11-24,Delivered,Nagad
+3174,106,2025-06-28,Delivered,bKash
+3175,352,2025-12-28,Delivered,Cash on Delivery
+3176,91,2025-07-02,Delivered,Nagad
+3177,67,2025-12-20,Delivered,Nagad
+3178,29,2025-12-28,Delivered,Cash on Delivery
+3179,14,2025-05-27,Delivered,Cash on Delivery
+3180,218,2025-02-24,Delivered,bKash
+3181,245,2025-07-28,Delivered,bKash
+3182,313,2025-10-31,Delivered,Cash on Delivery
+3183,287,2025-12-11,Delivered,bKash
+3184,269,2025-12-21,Pending,Cash on Delivery
+3185,500,2025-04-17,Delivered,Card
+3186,125,2025-06-24,Delivered,Card
+3187,357,2025-02-05,Delivered,Card
+3188,40,2025-11-04,Delivered,bKash
+3189,425,2025-02-10,Delivered,Card
+3190,182,2025-08-31,Delivered,bKash
+3191,174,2025-11-08,Returned,Nagad
+3192,68,2025-11-18,Delivered,Cash on Delivery
+3193,255,2025-10-06,Pending,Cash on Delivery
+3194,200,2025-04-07,Delivered,Card
+3195,488,2025-10-30,Delivered,bKash
+3196,90,2025-06-02,Delivered,Cash on Delivery
+3197,209,2025-01-23,Delivered,Card
+3198,451,2025-05-14,Pending,bKash
+3199,404,2025-05-08,Delivered,Nagad
+3200,383,2025-07-10,Delivered,Card
+3201,263,2025-04-07,Delivered,Nagad
+3202,437,2025-12-16,Pending,Card
+3203,112,2025-06-06,Delivered,Card
+3204,405,2025-04-30,Delivered,Card
+3205,291,2025-09-12,Delivered,Nagad
+3206,175,2025-04-22,Delivered,Cash on Delivery
+3207,110,2025-10-07,Delivered,Cash on Delivery
+3208,261,2025-04-02,Delivered,bKash
+3209,2,2025-11-05,Cancelled,Nagad
+3210,358,2025-05-14,Delivered,Cash on Delivery
+3211,118,2025-01-15,Delivered,Cash on Delivery
+3212,195,2025-02-24,Delivered,Cash on Delivery
+3213,97,2025-10-22,Delivered,Cash on Delivery
+3214,233,2025-11-15,Delivered,Cash on Delivery
+3215,186,2025-03-19,Cancelled,Card
+3216,94,2025-08-08,Delivered,Cash on Delivery
+3217,445,2025-11-05,Delivered,bKash
+3218,380,2025-02-18,Returned,Nagad
+3219,194,2025-06-14,Delivered,bKash
+3220,29,2025-09-11,Delivered,Card
+3221,423,2025-11-02,Delivered,bKash
+3222,349,2025-11-06,Delivered,Cash on Delivery
+3223,278,2025-02-05,Delivered,bKash
+3224,303,2025-03-28,Cancelled,Cash on Delivery
+3225,4,2025-06-09,Cancelled,Cash on Delivery
+3226,237,2025-02-24,Delivered,Card
+3227,95,2025-07-28,Pending,bKash
+3228,326,2025-01-04,Delivered,Cash on Delivery
+3229,466,2025-02-11,Returned,Nagad
+3230,266,2025-01-18,Cancelled,bKash
+3231,303,2025-04-18,Returned,Nagad
+3232,334,2025-11-12,Cancelled,Card
+3233,465,2025-03-06,Pending,Cash on Delivery
+3234,20,2025-12-26,Delivered,Cash on Delivery
+3235,156,2025-12-14,Delivered,bKash
+3236,135,2025-01-17,Delivered,Card
+3237,359,2025-05-03,Delivered,Cash on Delivery
+3238,224,2025-10-01,Delivered,bKash
+3239,387,2025-02-08,Returned,Card
+3240,237,2025-01-27,Delivered,Card
+3241,488,2025-11-07,Returned,Cash on Delivery
+3242,384,2025-08-05,Delivered,Card
+3243,10,2025-12-14,Cancelled,bKash
+3244,495,2025-10-03,Pending,Nagad
+3245,477,2025-11-18,Delivered,Cash on Delivery
+3246,22,2025-12-08,Delivered,bKash
+3247,196,2025-12-17,Delivered,bKash
+3248,486,2025-01-04,Cancelled,Card
+3249,419,2025-04-22,Cancelled,bKash
+3250,235,2025-08-06,Delivered,Card
+3251,273,2025-03-13,Delivered,Card
+3252,15,2025-12-28,Delivered,Card
+3253,283,2025-12-02,Delivered,Cash on Delivery
+3254,334,2025-04-05,Cancelled,Card
+3255,180,2025-05-25,Delivered,Card
+3256,154,2025-03-11,Pending,Cash on Delivery
+3257,415,2025-12-22,Pending,Card
+3258,225,2025-12-05,Returned,Cash on Delivery
+3259,133,2025-05-23,Delivered,bKash
+3260,188,2025-11-20,Delivered,Cash on Delivery
+3261,247,2025-08-12,Cancelled,Card
+3262,130,2025-08-06,Delivered,Card
+3263,281,2025-12-09,Pending,Cash on Delivery
+3264,431,2025-12-27,Delivered,bKash
+3265,372,2025-09-10,Delivered,Card
+3266,116,2025-10-02,Pending,bKash
+3267,236,2025-06-20,Cancelled,bKash
+3268,272,2025-11-22,Delivered,Card
+3269,341,2025-05-23,Delivered,bKash
+3270,379,2025-10-22,Delivered,bKash
+3271,243,2025-03-16,Delivered,Cash on Delivery
+3272,158,2025-12-20,Delivered,Cash on Delivery
+3273,330,2025-07-12,Delivered,bKash
+3274,63,2025-07-22,Delivered,Nagad
+3275,338,2025-09-30,Delivered,bKash
+3276,449,2025-04-19,Delivered,bKash
+3277,355,2025-11-15,Delivered,Cash on Delivery
+3278,217,2025-11-30,Delivered,Cash on Delivery
+3280,267,2025-12-07,Delivered,Nagad
+3281,271,2025-07-16,Delivered,Nagad
+3282,427,2025-09-06,Delivered,bKash
+3283,97,2025-11-28,Delivered,bKash
+3284,390,2025-12-22,Cancelled,Cash on Delivery
+3285,340,2025-12-06,Returned,Nagad
+3286,265,2025-12-29,Pending,Cash on Delivery
+3287,39,2025-12-15,Pending,Card
+3288,383,2025-07-16,Delivered,Cash on Delivery
+3289,110,2025-12-02,Returned,Card
+3290,448,2025-06-27,Delivered,Cash on Delivery
+3291,397,2025-05-08,Cancelled,Cash on Delivery
+3292,182,2025-02-09,Pending,Cash on Delivery
+3293,218,2025-12-01,Cancelled,Card
+3294,13,2025-03-28,Delivered,bKash
+3295,250,2025-12-23,Delivered,Cash on Delivery
+3296,29,2025-07-12,Delivered,bKash
+3297,494,2025-02-20,Delivered,Card
+3298,321,2025-01-25,Cancelled,Card
+3299,118,2025-11-07,Delivered,Cash on Delivery
+3300,402,2025-11-17,Delivered,bKash
+3301,10,2025-10-06,Delivered,Cash on Delivery
+3302,275,2025-12-25,Delivered,bKash
+3303,56,2025-12-29,Delivered,Cash on Delivery
+3304,28,2025-03-14,Delivered,bKash
+3305,123,2025-10-02,Delivered,Card
+3306,148,2025-10-07,Delivered,Card
+3307,363,2025-11-02,Delivered,Card
+3308,446,2025-02-05,Delivered,Cash on Delivery
+3309,388,2025-11-05,Delivered,Cash on Delivery
+3310,370,2025-11-25,Delivered,Cash on Delivery
+3311,283,2025-12-05,Delivered,Cash on Delivery
+3312,186,2025-11-02,Delivered,Cash on Delivery
+3313,128,2025-02-08,Delivered,Nagad
+3314,473,2025-11-07,Delivered,Cash on Delivery
+3315,261,2025-11-24,Returned,bKash
+3316,283,2025-09-10,Delivered,Card
+3317,8,2025-11-05,Cancelled,Cash on Delivery
+3318,229,2025-08-19,Delivered,Cash on Delivery
+3319,341,2025-04-06,Delivered,bKash
+3320,248,2025-10-04,Cancelled,bKash
+3321,308,2025-11-10,Delivered,Cash on Delivery
+3322,405,2025-12-23,Cancelled,bKash
+3323,11,2025-11-22,Cancelled,bKash
+3324,453,2025-09-20,Delivered,Cash on Delivery
+3325,409,2025-11-17,Pending,Cash on Delivery
+3326,210,2025-08-02,Pending,bKash
+3327,382,2025-12-25,Delivered,bKash
+3328,34,2025-04-28,Delivered,Cash on Delivery
+3329,155,2025-12-03,Delivered,bKash
+3330,54,2025-11-11,Cancelled,Card
+3331,318,2025-03-11,Pending,Cash on Delivery
+3332,429,2025-12-16,Cancelled,Cash on Delivery
+3333,301,2025-01-22,Delivered,Card
+3334,356,2025-08-03,Delivered,bKash
+3335,72,2025-03-11,Delivered,Cash on Delivery
+3336,468,2025-08-31,Delivered,bKash
+3337,97,2025-05-31,Delivered,bKash
+3338,264,2025-12-20,Delivered,bKash
+3339,342,2025-09-03,Delivered,bKash
+3340,429,2025-10-03,Delivered,Cash on Delivery
+3341,467,2025-11-09,Delivered,bKash
+3342,300,2025-12-31,Delivered,Nagad
+3343,289,2025-07-01,Delivered,bKash
+3344,209,2025-02-28,Delivered,Cash on Delivery
+3345,284,2025-01-03,Pending,bKash
+3346,338,2025-03-15,Delivered,Cash on Delivery
+3347,324,2025-09-10,Delivered,Nagad
+3348,297,2025-12-18,Delivered,bKash
+3349,221,2025-05-04,Delivered,bKash
+3350,98,2025-11-22,Delivered,Nagad
+3351,28,2025-11-03,Delivered,Nagad
+3352,211,2025-07-28,Delivered,Nagad
+3353,199,2025-01-22,Delivered,Card
+3354,305,2025-01-18,Delivered,Card
+3355,451,2025-11-26,Delivered,bKash
+3356,351,2025-05-28,Delivered,Cash on Delivery
+3357,403,2025-11-07,Delivered,Card
+3358,290,2025-12-20,Delivered,bKash
+3359,464,2025-10-04,Delivered,Cash on Delivery
+3360,470,2025-12-27,Delivered,Card
+3361,77,2025-05-07,Delivered,Cash on Delivery
+3362,320,2025-08-28,Delivered,Card
+3363,253,2025-08-15,Delivered,Cash on Delivery
+3364,487,2025-09-20,Delivered,bKash
+3365,293,2025-03-11,Delivered,Cash on Delivery
+3366,8,2025-08-23,Delivered,bKash
+3367,105,2025-04-15,Delivered,bKash
+3368,65,2025-10-16,Delivered,bKash
+3369,101,2025-10-19,Delivered,Cash on Delivery
+3370,48,2025-08-17,Delivered,bKash
+3371,392,2025-12-12,Pending,Card
+3372,248,2025-11-08,Delivered,Cash on Delivery
+3373,336,2025-12-21,Delivered,Card
+3374,500,2025-08-10,Delivered,bKash
+3375,324,2025-10-11,Cancelled,bKash
+3376,240,2025-02-06,Delivered,bKash
+3377,134,2025-02-08,Returned,Card
+3378,378,2025-04-10,Delivered,bKash
+3379,254,2025-11-05,Delivered,Card
+3380,379,2025-07-12,Delivered,bKash
+3381,12,2025-12-23,Returned,Cash on Delivery
+3382,82,2025-11-15,Pending,Cash on Delivery
+3383,65,2025-07-22,Cancelled,Card
+3384,341,2025-09-05,Delivered,Card
+3385,260,2025-05-01,Delivered,Cash on Delivery
+3386,159,2025-11-18,Delivered,bKash
+3387,155,2025-05-26,Delivered,Cash on Delivery
+3388,304,2025-11-28,Delivered,Card
+3389,483,2025-11-07,Pending,Card
+3390,498,2025-03-22,Delivered,bKash
+3391,236,2025-01-06,Delivered,Cash on Delivery
+3392,336,2025-09-25,Delivered,bKash
+3393,42,2025-11-25,Delivered,Card
+3394,473,2025-10-30,Delivered,Card
+3395,9,2025-05-19,Cancelled,Cash on Delivery
+3396,172,2025-08-05,Delivered,bKash
+3397,363,2025-12-17,Delivered,Cash on Delivery
+3398,485,2025-08-04,Delivered,bKash
+3399,86,2025-04-18,Delivered,bKash
+3400,331,2025-05-04,Delivered,Card
+3401,94,2025-09-23,Delivered,Nagad
+3402,26,2025-06-12,Delivered,Card
+3403,212,2025-11-02,Delivered,Card
+3404,289,2025-11-12,Pending,Cash on Delivery
+3405,133,2025-01-14,Delivered,Card
+3406,487,2025-09-22,Delivered,bKash
+3407,309,2025-05-16,Returned,bKash
+3408,220,2025-07-09,Delivered,Cash on Delivery
+3409,243,2025-04-07,Cancelled,bKash
+3410,233,2025-05-15,Pending,Cash on Delivery
+3411,56,2025-12-29,Cancelled,Cash on Delivery
+3412,304,2025-01-19,Delivered,bKash
+3413,393,2025-10-13,Delivered,Card
+3414,211,2025-02-22,Delivered,Cash on Delivery
+3415,213,2025-05-18,Delivered,Cash on Delivery
+3416,456,2025-03-12,Pending,Cash on Delivery
+3417,306,2025-02-28,Delivered,Card
+3418,149,2025-05-17,Cancelled,Cash on Delivery
+3419,2,2025-12-02,Delivered,Cash on Delivery
+3420,412,2025-12-11,Delivered,Nagad
+3422,314,2025-12-18,Cancelled,Cash on Delivery
+3423,142,2025-12-26,Delivered,Cash on Delivery
+3424,94,2025-03-27,Cancelled,Nagad
+3425,248,2025-12-09,Delivered,Cash on Delivery
+3426,379,2025-02-08,Returned,Cash on Delivery
+3427,149,2025-03-24,Delivered,bKash
+3428,264,2025-12-14,Cancelled,Card
+3429,499,2025-01-14,Delivered,bKash
+3430,110,2025-10-25,Delivered,Cash on Delivery
+3431,116,2025-11-09,Returned,Card
+3432,118,2025-05-20,Delivered,Cash on Delivery
+3433,457,2025-11-02,Delivered,Nagad
+3434,265,2025-10-09,Cancelled,Nagad
+3435,459,2025-12-23,Delivered,Cash on Delivery
+3436,474,2025-10-20,Cancelled,Cash on Delivery
+3437,211,2025-07-29,Delivered,Card
+3438,28,2025-02-10,Pending,bKash
+3439,153,2025-11-09,Delivered,bKash
+3440,272,2025-08-11,Delivered,Cash on Delivery
+3441,191,2025-11-15,Cancelled,bKash
+3442,2,2025-12-17,Delivered,Card
+3443,495,2025-03-10,Delivered,Cash on Delivery
+3444,152,2025-05-27,Delivered,bKash
+3445,310,2025-03-12,Delivered,Cash on Delivery
+3446,474,2025-11-03,Delivered,bKash
+3447,273,2025-12-19,Delivered,Cash on Delivery
+3448,348,2025-12-04,Delivered,bKash
+3449,18,2025-12-07,Cancelled,Cash on Delivery
+3450,349,2025-11-19,Delivered,Cash on Delivery
+3451,424,2025-08-25,Delivered,bKash
+3452,460,2025-07-10,Delivered,bKash
+3453,42,2025-12-28,Delivered,Nagad
+3454,115,2025-11-30,Delivered,Card
+3455,24,2025-08-23,Delivered,Cash on Delivery
+3456,459,2025-11-30,Cancelled,Card
+3457,138,2025-09-30,Delivered,Cash on Delivery
+3458,266,2025-10-27,Delivered,Card
+3459,238,2025-09-05,Delivered,Cash on Delivery
+3460,345,2025-07-01,Cancelled,bKash
+3461,448,2025-03-14,Delivered,Card
+3462,162,2025-01-13,Delivered,bKash
+3463,396,2025-08-17,Returned,Nagad
+3464,146,2025-09-07,Delivered,Cash on Delivery
+3465,99,2025-10-10,Delivered,Nagad
+3466,54,2025-11-02,Delivered,Cash on Delivery
+3467,187,2025-07-01,Delivered,Cash on Delivery
+3468,281,2025-10-30,Cancelled,bKash
+3469,391,2025-09-19,Delivered,Nagad
+3470,425,2025-04-12,Cancelled,bKash
+3471,264,2025-11-05,Delivered,bKash
+3472,205,2025-12-10,Returned,Cash on Delivery
+3473,88,2025-11-01,Returned,Nagad
+3474,458,2025-12-10,Delivered,bKash
+3475,199,2025-12-18,Delivered,Card
+3476,383,2025-12-13,Delivered,Cash on Delivery
+3477,313,2025-01-21,Pending,Cash on Delivery
+3478,466,2025-07-14,Delivered,bKash
+3479,487,2025-10-12,Delivered,Cash on Delivery
+3480,354,2025-08-23,Returned,bKash
+3482,69,2025-06-18,Delivered,Cash on Delivery
+3483,9,2025-09-07,Returned,bKash
+3484,274,2025-06-03,Delivered,Cash on Delivery
+3485,353,2025-11-15,Delivered,Card
+3486,374,2025-02-13,Pending,Cash on Delivery
+3487,126,2025-04-03,Delivered,bKash
+3488,252,2025-12-19,Delivered,Nagad
+3489,432,2025-09-14,Cancelled,Cash on Delivery
+3490,48,2025-03-26,Delivered,Card
+3491,192,2025-04-26,Delivered,Nagad
+3492,473,2025-11-08,Delivered,bKash
+3493,100,2025-12-23,Delivered,bKash
+3494,159,2025-02-23,Delivered,Nagad
+3495,234,2025-01-08,Returned,Nagad
+3496,345,2025-03-24,Delivered,Cash on Delivery
+3497,128,2025-12-03,Delivered,Nagad
+3498,397,2025-07-20,Delivered,bKash
+3499,118,2025-12-22,Delivered,Card
+3500,185,2025-12-12,Delivered,Card
+3501,287,2025-05-09,Cancelled,bKash
+3502,7,2025-03-01,Pending,Cash on Delivery
+3503,384,2025-05-26,Delivered,bKash
+3504,335,2025-12-10,Pending,Cash on Delivery
+3505,418,2025-11-02,Delivered,Card
+3506,138,2025-05-15,Delivered,bKash
+3507,199,2025-10-09,Delivered,Cash on Delivery
+3508,450,2025-08-17,Delivered,Card
+3509,34,2025-04-17,Returned,Cash on Delivery
+3510,246,2025-12-12,Delivered,Cash on Delivery
+3511,242,2025-06-08,Cancelled,bKash
+3512,224,2025-02-25,Delivered,Nagad
+3513,217,2025-12-18,Delivered,Nagad
+3514,374,2025-11-27,Delivered,Card
+3515,99,2025-01-19,Pending,Cash on Delivery
+3516,446,2025-11-26,Delivered,Card
+3517,449,2025-12-12,Delivered,bKash
+3518,90,2025-10-30,Delivered,Cash on Delivery
+3519,488,2025-04-04,Delivered,Cash on Delivery
+3520,132,2025-08-19,Delivered,Cash on Delivery
+3521,26,2025-07-16,Cancelled,Cash on Delivery
+3522,200,2025-08-15,Delivered,Cash on Delivery
+3523,398,2025-08-14,Delivered,Cash on Delivery
+3524,423,2025-08-22,Delivered,Card
+3525,323,2025-12-21,Delivered,Card
+3526,406,2025-09-10,Delivered,bKash
+3527,131,2025-07-12,Delivered,Cash on Delivery
+3528,440,2025-01-07,Delivered,Card
+3529,318,2025-01-13,Delivered,bKash
+3530,67,2025-12-16,Delivered,bKash
+3531,65,2025-11-28,Delivered,bKash
+3532,134,2025-08-02,Delivered,bKash
+3533,35,2025-03-05,Returned,Card
+3534,142,2025-12-12,Pending,Card
+3535,497,2025-02-22,Delivered,bKash
+3536,121,2025-11-05,Delivered,bKash
+3537,319,2025-05-01,Delivered,Nagad
+3538,489,2025-01-05,Cancelled,Card
+3539,127,2025-10-22,Delivered,bKash
+3540,349,2025-07-06,Delivered,bKash
+3541,226,2025-12-24,Delivered,Cash on Delivery
+3542,143,2025-07-05,Delivered,bKash
+3543,476,2025-01-01,Delivered,Card
+3544,329,2025-11-04,Delivered,Nagad
+3545,220,2025-07-09,Cancelled,Nagad
+3546,407,2025-05-04,Cancelled,bKash
+3547,451,2025-10-31,Delivered,Cash on Delivery
+3548,391,2025-04-02,Delivered,Card
+3549,435,2025-02-20,Returned,Card
+3550,162,2025-07-12,Cancelled,Card
+3551,173,2025-11-20,Returned,Cash on Delivery
+3552,117,2025-05-17,Pending,Card
+3553,349,2025-01-18,Delivered,Card
+3554,402,2025-11-18,Delivered,Card
+3555,331,2025-06-12,Delivered,Card
+3556,300,2025-03-05,Delivered,bKash
+3557,386,2025-08-13,Delivered,bKash
+3558,91,2025-04-27,Delivered,Cash on Delivery
+3559,183,2025-12-09,Delivered,bKash
+3560,354,2025-04-18,Delivered,bKash
+3561,27,2025-07-20,Delivered,Cash on Delivery
+3562,456,2025-07-18,Delivered,bKash
+3563,86,2025-03-30,Delivered,Card
+3564,394,2025-07-02,Delivered,Cash on Delivery
+3565,309,2025-02-09,Delivered,Cash on Delivery
+3566,424,2025-08-23,Delivered,bKash
+3567,388,2025-10-04,Delivered,bKash
+3568,258,2025-12-13,Delivered,Card
+3569,379,2025-11-14,Returned,Card
+3570,174,2025-04-15,Delivered,Cash on Delivery
+3571,292,2025-07-20,Delivered,Cash on Delivery
+3572,458,2025-09-10,Returned,Card
+3573,43,2025-12-29,Delivered,Card
+3574,178,2025-01-10,Returned,bKash
+3575,9,2025-03-28,Delivered,bKash
+3576,268,2025-04-06,Delivered,bKash
+3577,392,2025-04-04,Delivered,bKash
+3578,20,2025-06-19,Delivered,Nagad
+3579,275,2025-11-15,Pending,Cash on Delivery
+3580,208,2025-01-12,Delivered,Nagad
+3581,392,2025-10-25,Delivered,Cash on Delivery
+3582,111,2025-08-14,Delivered,Nagad
+3583,82,2025-08-13,Pending,Nagad
+3584,48,2025-09-05,Delivered,bKash
+3585,204,2025-02-12,Delivered,Card
+3586,244,2025-09-30,Pending,Card
+3587,460,2025-04-01,Delivered,Cash on Delivery
+3588,233,2025-07-08,Delivered,Cash on Delivery
+3589,86,2025-09-05,Delivered,Card
+3590,350,2025-08-09,Delivered,Cash on Delivery
+3591,31,2025-04-28,Cancelled,Cash on Delivery
+3592,173,2025-05-25,Delivered,Cash on Delivery
+3593,327,2025-06-23,Pending,bKash
+3594,127,2025-12-29,Delivered,Card
+3595,298,2025-09-23,Delivered,bKash
+3596,227,2025-02-06,Delivered,Card
+3597,477,2025-06-17,Delivered,Cash on Delivery
+3598,144,2025-08-28,Delivered,bKash
+3599,454,2025-01-30,Delivered,Card
+3600,313,2025-12-30,Delivered,bKash
+3601,375,2025-05-18,Cancelled,Cash on Delivery
+3602,85,2025-11-10,Delivered,bKash
+3603,10,2025-08-29,Delivered,Nagad
+3604,366,2025-07-23,Delivered,Card
+3605,241,2025-08-22,Delivered,Nagad
+3606,155,2025-10-02,Delivered,Card
+3607,449,2025-06-23,Pending,Card
+3608,164,2025-10-29,Delivered,Nagad
+3609,217,2025-05-16,Delivered,Cash on Delivery
+3610,363,2025-07-18,Delivered,Cash on Delivery
+3611,482,2025-02-27,Delivered,Cash on Delivery
+3612,450,2025-08-15,Delivered,bKash
+3613,327,2025-04-06,Delivered,Cash on Delivery
+3614,56,2025-09-12,Delivered,Card
+3615,55,2025-12-21,Delivered,Cash on Delivery
+3616,347,2025-11-10,Cancelled,Nagad
+3617,255,2025-12-06,Delivered,Cash on Delivery
+3618,67,2025-11-14,Delivered,Cash on Delivery
+3619,348,2025-02-20,Delivered,Cash on Delivery
+3620,472,2025-12-05,Delivered,bKash
+3621,33,2025-12-10,Delivered,bKash
+3622,413,2025-01-10,Delivered,Cash on Delivery
+3623,173,2025-04-15,Delivered,Cash on Delivery
+3624,199,2025-11-06,Delivered,bKash
+3625,359,2025-05-10,Delivered,Cash on Delivery
+3626,124,2025-01-29,Returned,Card
+3627,79,2025-09-21,Pending,Cash on Delivery
+3628,482,2025-11-24,Cancelled,Cash on Delivery
+3629,175,2025-05-09,Delivered,Card
+3630,85,2025-01-02,Delivered,Card
+3631,345,2025-12-08,Delivered,Cash on Delivery
+3632,109,2025-06-12,Delivered,Card
+3633,388,2025-12-13,Pending,Nagad
+3634,36,2025-05-03,Delivered,Card
+3635,260,2025-03-16,Delivered,Card
+3636,202,2025-03-02,Pending,Card
+3637,479,2025-03-15,Delivered,Cash on Delivery
+3638,261,2025-06-14,Delivered,Cash on Delivery
+3639,463,2025-02-01,Delivered,Cash on Delivery
+3640,125,2025-05-27,Delivered,Nagad
+3641,237,2025-12-23,Pending,Cash on Delivery
+3642,407,2025-10-08,Delivered,Card
+3643,81,2025-08-21,Delivered,Card
+3644,464,2025-11-22,Delivered,Cash on Delivery
+3645,387,2025-10-12,Returned,Card
+3646,339,2025-12-19,Returned,Nagad
+3647,122,2025-11-12,Pending,Nagad
+3648,410,2025-02-15,Returned,Cash on Delivery
+3649,422,2025-10-26,Delivered,Cash on Delivery
+3650,147,2025-04-18,Delivered,Nagad
+3651,294,2025-09-25,Returned,Cash on Delivery
+3652,31,2025-11-30,Delivered,Cash on Delivery
+3653,198,2025-07-01,Delivered,bKash
+3654,76,2025-02-02,Delivered,bKash
+3655,279,2025-12-02,Delivered,bKash
+3656,275,2025-11-19,Delivered,Nagad
+3657,267,2025-11-16,Returned,Cash on Delivery
+3658,339,2025-12-11,Delivered,Cash on Delivery
+3659,463,2025-07-27,Delivered,Card
+3660,99,2025-12-30,Delivered,Cash on Delivery
+3661,108,2025-06-09,Delivered,bKash
+3662,108,2025-05-31,Delivered,Cash on Delivery
+3663,465,2025-12-07,Delivered,Card
+3664,47,2025-09-01,Delivered,Nagad
+3665,16,2025-07-10,Delivered,Cash on Delivery
+3666,81,2025-06-16,Delivered,bKash
+3667,385,2025-09-15,Delivered,bKash
+3668,290,2025-10-03,Delivered,bKash
+3670,103,2025-01-12,Delivered,Card
+3671,198,2025-02-07,Delivered,bKash
+3672,278,2025-02-22,Returned,bKash
+3673,37,2025-06-18,Delivered,bKash
+3674,460,2025-08-13,Delivered,Cash on Delivery
+3675,403,2025-10-21,Delivered,bKash
+3676,72,2025-12-25,Delivered,Card
+3677,422,2025-10-15,Delivered,Cash on Delivery
+3678,225,2025-09-01,Delivered,bKash
+3679,169,2025-01-19,Delivered,Cash on Delivery
+3680,474,2025-05-09,Delivered,Nagad
+3681,260,2025-04-21,Returned,Cash on Delivery
+3682,114,2025-11-20,Delivered,bKash
+3683,405,2025-12-03,Returned,bKash
+3684,358,2025-10-27,Returned,Cash on Delivery
+3685,97,2025-07-12,Delivered,Cash on Delivery
+3686,339,2025-06-29,Delivered,Card
+3687,315,2025-04-24,Delivered,Cash on Delivery
+3688,138,2025-10-10,Delivered,Cash on Delivery
+3689,216,2025-02-01,Delivered,Cash on Delivery
+3690,420,2025-04-09,Delivered,Card
+3691,88,2025-02-19,Delivered,bKash
+3692,362,2025-06-30,Delivered,bKash
+3693,416,2025-04-20,Delivered,bKash
+3694,469,2025-03-14,Delivered,Cash on Delivery
+3695,163,2025-05-18,Cancelled,bKash
+3696,134,2025-11-11,Delivered,bKash
+3697,468,2025-07-23,Delivered,bKash
+3698,232,2025-10-28,Delivered,Cash on Delivery
+3699,285,2025-11-30,Returned,Cash on Delivery
+3700,257,2025-11-26,Delivered,Cash on Delivery
+3701,258,2025-05-09,Delivered,Nagad
+3702,313,2025-11-17,Pending,Nagad
+3703,212,2025-11-28,Delivered,bKash
+3704,197,2025-12-17,Delivered,Card
+3705,201,2025-11-27,Delivered,Cash on Delivery
+3706,329,2025-11-30,Delivered,Cash on Delivery
+3707,409,2025-08-02,Delivered,bKash
+3708,278,2025-12-07,Delivered,Nagad
+3709,339,2025-11-25,Delivered,bKash
+3710,207,2025-07-28,Delivered,Nagad
+3711,387,2025-02-24,Cancelled,Cash on Delivery
+3712,197,2025-06-04,Returned,Card
+3713,211,2025-09-18,Delivered,Cash on Delivery
+3714,28,2025-07-24,Delivered,Cash on Delivery
+3715,131,2025-05-07,Delivered,Cash on Delivery
+3716,370,2025-05-06,Delivered,Cash on Delivery
+3717,44,2025-01-22,Delivered,Card
+3718,112,2025-04-16,Delivered,Card
+3719,389,2025-12-20,Delivered,Card
+3720,437,2025-03-30,Delivered,Card
+3721,208,2025-12-29,Delivered,bKash
+3722,204,2025-01-31,Delivered,bKash
+3723,255,2025-08-03,Delivered,Card
+3724,386,2025-12-14,Delivered,bKash
+3725,235,2025-11-01,Delivered,bKash
+3726,87,2025-11-13,Delivered,bKash
+3727,216,2025-07-18,Delivered,Nagad
+3728,128,2025-08-19,Delivered,Nagad
+3729,342,2025-09-13,Cancelled,Cash on Delivery
+3731,305,2025-03-09,Delivered,Cash on Delivery
+3732,65,2025-06-06,Delivered,Card
+3733,487,2025-03-30,Delivered,bKash
+3734,321,2025-06-19,Delivered,Nagad
+3735,70,2025-08-13,Delivered,bKash
+3736,480,2025-12-02,Delivered,Nagad
+3737,287,2025-04-02,Delivered,Cash on Delivery
+3738,304,2025-11-13,Delivered,bKash
+3739,32,2025-05-18,Delivered,Card
+3740,94,2025-03-14,Delivered,Cash on Delivery
+3741,404,2025-09-18,Delivered,bKash
+3742,234,2025-12-16,Delivered,Card
+3743,309,2025-11-02,Delivered,Card
+3744,494,2025-10-05,Delivered,Nagad
+3745,215,2025-12-20,Delivered,Card
+3746,191,2025-07-29,Delivered,Nagad
+3747,402,2025-04-15,Delivered,Cash on Delivery
+3748,34,2025-11-11,Pending,bKash
+3749,228,2025-04-07,Delivered,bKash
+3750,428,2025-04-17,Delivered,Cash on Delivery
+3751,114,2025-10-30,Delivered,bKash
+3752,153,2025-11-18,Delivered,Card
+3753,237,2025-12-26,Delivered,Card
+3754,38,2025-09-24,Cancelled,Cash on Delivery
+3755,36,2025-12-03,Delivered,Cash on Delivery
+3756,126,2025-10-19,Cancelled,bKash
+3757,449,2025-01-02,Delivered,Card
+3758,111,2025-11-02,Delivered,bKash
+3759,366,2025-03-04,Cancelled,Cash on Delivery
+3760,214,2025-12-08,Delivered,Card
+3761,381,2025-01-25,Cancelled,Nagad
+3762,166,2025-12-29,Delivered,Cash on Delivery
+3763,438,2025-03-06,Delivered,bKash
+3764,186,2025-11-05,Delivered,Nagad
+3765,396,2025-03-27,Delivered,Cash on Delivery
+3766,416,2025-11-22,Cancelled,Cash on Delivery
+3767,216,2025-11-21,Delivered,Card
+3768,334,2025-09-29,Delivered,Nagad
+3769,60,2025-01-25,Delivered,bKash
+3770,249,2025-06-15,Delivered,Cash on Delivery
+3771,187,2025-11-29,Returned,bKash
+3772,478,2025-12-05,Returned,bKash
+3773,468,2025-03-18,Delivered,Nagad
+3774,392,2025-05-24,Delivered,bKash
+3775,475,2025-05-30,Pending,Card
+3776,488,2025-07-26,Delivered,Cash on Delivery
+3777,384,2025-12-02,Delivered,Card
+3778,297,2025-02-08,Returned,Nagad
+3779,103,2025-10-06,Delivered,Nagad
+3780,408,2025-03-24,Returned,Card
+3781,98,2025-04-25,Delivered,Cash on Delivery
+3782,93,2025-11-03,Returned,Nagad
+3783,440,2025-09-09,Delivered,Nagad
+3784,58,2025-12-26,Delivered,bKash
+3785,71,2025-11-28,Delivered,Cash on Delivery
+3786,256,2025-05-24,Delivered,Cash on Delivery
+3787,293,2025-07-26,Delivered,Card
+3788,23,2025-11-24,Returned,Cash on Delivery
+3789,190,2025-03-08,Pending,bKash
+3790,113,2025-06-29,Pending,bKash
+3791,152,2025-07-25,Delivered,bKash
+3792,91,2025-10-22,Delivered,Cash on Delivery
+3793,339,2025-11-06,Delivered,Card
+3794,237,2025-11-23,Delivered,bKash
+3795,480,2025-08-10,Delivered,Card
+3796,5,2025-01-26,Delivered,Card
+3797,389,2025-09-27,Delivered,Nagad
+3798,455,2025-07-29,Delivered,bKash
+3799,244,2025-05-23,Delivered,Card
+3800,350,2025-06-20,Delivered,Nagad
+3801,221,2025-04-21,Delivered,Card
+3802,298,2025-08-13,Cancelled,bKash
+3803,454,2025-07-26,Pending,Cash on Delivery
+3804,266,2025-06-13,Delivered,Cash on Delivery
+3805,290,2025-04-15,Pending,Card
+3806,494,2025-05-26,Returned,Cash on Delivery
+3807,249,2025-07-01,Delivered,Cash on Delivery
+3808,87,2025-06-22,Delivered,Cash on Delivery
+3809,342,2025-04-23,Delivered,bKash
+3810,347,2025-08-01,Delivered,Cash on Delivery
+3811,119,2025-03-24,Delivered,bKash
+3812,365,2025-07-02,Delivered,Cash on Delivery
+3813,32,2025-02-14,Returned,Nagad
+3814,161,2025-12-24,Delivered,Cash on Delivery
+3815,428,2025-10-14,Delivered,Cash on Delivery
+3816,309,2025-10-26,Pending,bKash
+3817,304,2025-11-19,Pending,Card
+3818,311,2025-09-30,Delivered,Cash on Delivery
+3819,83,2025-01-25,Cancelled,Card
+3820,481,2025-05-05,Pending,Cash on Delivery
+3821,150,2025-08-27,Delivered,Cash on Delivery
+3822,394,2025-10-20,Returned,bKash
+3823,495,2025-08-01,Delivered,Card
+3824,121,2025-11-08,Delivered,Nagad
+3825,318,2025-04-10,Delivered,Cash on Delivery
+3826,22,2025-02-26,Delivered,bKash
+3827,319,2025-02-01,Delivered,bKash
+3828,221,2025-08-01,Delivered,Card
+3829,37,2025-11-28,Delivered,Cash on Delivery
+3830,337,2025-04-15,Delivered,Card
+3831,485,2025-11-06,Delivered,Cash on Delivery
+3832,42,2025-11-18,Cancelled,Card
+3833,447,2025-05-12,Delivered,Card
+3834,422,2025-12-04,Delivered,Card
+3835,274,2025-09-28,Delivered,Card
+3836,451,2025-12-25,Cancelled,Nagad
+3837,155,2025-03-04,Delivered,Cash on Delivery
+3838,361,2025-04-04,Delivered,Card
+3839,350,2025-11-20,Delivered,Card
+3840,291,2025-12-04,Returned,Cash on Delivery
+3841,417,2025-03-02,Pending,Card
+3842,439,2025-12-13,Cancelled,bKash
+3843,394,2025-05-22,Delivered,Card
+3844,295,2025-12-23,Delivered,Cash on Delivery
+3845,489,2025-01-23,Delivered,Nagad
+3846,278,2025-11-22,Delivered,Card
+3847,319,2025-03-27,Delivered,Nagad
+3848,95,2025-12-27,Pending,Cash on Delivery
+3849,161,2025-07-01,Pending,Nagad
+3850,453,2025-11-16,Delivered,Cash on Delivery
+3851,249,2025-03-07,Delivered,Cash on Delivery
+3852,256,2025-03-02,Delivered,Cash on Delivery
+3853,409,2025-11-18,Delivered,Cash on Delivery
+3854,164,2025-10-27,Delivered,Card
+3855,133,2025-11-03,Delivered,Cash on Delivery
+3856,5,2025-01-12,Delivered,Cash on Delivery
+3857,116,2025-12-11,Delivered,Card
+3858,257,2025-05-24,Delivered,bKash
+3859,363,2025-12-08,Delivered,Card
+3860,165,2025-11-14,Delivered,bKash
+3861,223,2025-11-07,Delivered,Card
+3862,111,2025-12-25,Delivered,bKash
+3863,409,2025-09-03,Cancelled,bKash
+3864,263,2025-07-14,Delivered,Cash on Delivery
+3865,72,2025-01-10,Delivered,Card
+3866,305,2025-05-22,Delivered,Card
+3867,168,2025-11-07,Delivered,bKash
+3868,433,2025-10-24,Delivered,bKash
+3869,135,2025-07-24,Returned,Card
+3870,433,2025-09-16,Pending,Nagad
+3871,349,2025-11-13,Delivered,bKash
+3872,68,2025-06-20,Returned,bKash
+3873,380,2025-07-05,Delivered,bKash
+3874,361,2025-11-22,Delivered,Cash on Delivery
+3875,229,2025-04-24,Delivered,bKash
+3876,81,2025-11-09,Delivered,Card
+3877,240,2025-12-13,Delivered,bKash
+3878,305,2025-11-22,Delivered,bKash
+3879,67,2025-07-23,Delivered,bKash
+3880,171,2025-08-23,Cancelled,Nagad
+3881,351,2025-10-20,Delivered,Nagad
+3882,277,2025-12-21,Returned,bKash
+3883,497,2025-01-27,Returned,Card
+3884,109,2025-04-01,Cancelled,bKash
+3885,389,2025-04-20,Delivered,Nagad
+3886,213,2025-04-02,Delivered,Nagad
+3887,112,2025-10-29,Delivered,Card
+3888,476,2025-02-20,Pending,Card
+3889,312,2025-01-11,Delivered,Card
+3890,268,2025-11-11,Delivered,Cash on Delivery
+3891,148,2025-12-17,Delivered,bKash
+3892,441,2025-03-24,Delivered,bKash
+3893,16,2025-12-13,Cancelled,bKash
+3894,58,2025-07-03,Delivered,bKash
+3895,90,2025-07-11,Delivered,Nagad
+3896,327,2025-12-28,Delivered,bKash
+3897,52,2025-05-28,Delivered,Card
+3898,399,2025-01-05,Delivered,Cash on Delivery
+3899,98,2025-06-04,Delivered,Cash on Delivery
+3900,339,2025-07-23,Delivered,Cash on Delivery
+3901,398,2025-07-08,Pending,Cash on Delivery
+3903,147,2025-12-03,Pending,Card
+3904,38,2025-10-22,Delivered,Card
+3905,379,2025-04-02,Delivered,Cash on Delivery
+3906,225,2025-12-07,Delivered,Nagad
+3907,475,2025-09-01,Delivered,bKash
+3908,95,2025-05-30,Delivered,Cash on Delivery
+3909,288,2025-11-01,Delivered,Cash on Delivery
+3910,60,2025-03-03,Delivered,Nagad
+3911,243,2025-04-03,Cancelled,bKash
+3912,1,2025-09-28,Cancelled,Card
+3913,376,2025-11-04,Delivered,Cash on Delivery
+3914,303,2025-10-14,Delivered,Cash on Delivery
+3915,49,2025-04-23,Delivered,Cash on Delivery
+3916,250,2025-02-19,Delivered,Cash on Delivery
+3917,215,2025-02-28,Delivered,bKash
+3918,337,2025-05-24,Returned,Cash on Delivery
+3919,250,2025-07-08,Delivered,bKash
+3920,230,2025-11-22,Delivered,bKash
+3921,416,2025-11-25,Delivered,Card
+3922,260,2025-11-19,Delivered,Card
+3923,408,2025-09-16,Delivered,Card
+3924,443,2025-04-20,Returned,Cash on Delivery
+3925,425,2025-03-14,Delivered,Nagad
+3926,478,2025-07-22,Cancelled,bKash
+3927,349,2025-01-13,Returned,bKash
+3928,281,2025-11-01,Delivered,Card
+3929,266,2025-07-21,Delivered,bKash
+3930,103,2025-04-10,Delivered,bKash
+3931,414,2025-08-05,Delivered,Cash on Delivery
+3932,347,2025-06-17,Delivered,Nagad
+3933,437,2025-10-19,Delivered,bKash
+3934,351,2025-11-04,Delivered,Cash on Delivery
+3935,241,2025-01-21,Pending,Cash on Delivery
+3936,148,2025-07-13,Delivered,Card
+3937,493,2025-11-29,Delivered,bKash
+3938,367,2025-09-15,Delivered,Card
+3939,438,2025-02-04,Delivered,bKash
+3940,293,2025-11-16,Delivered,Nagad
+3941,256,2025-11-06,Cancelled,bKash
+3942,18,2025-02-03,Delivered,bKash
+3943,35,2025-04-21,Delivered,Card
+3944,354,2025-11-05,Delivered,bKash
+3945,113,2025-07-14,Delivered,Nagad
+3946,42,2025-03-05,Cancelled,bKash
+3947,389,2025-03-19,Delivered,Cash on Delivery
+3948,311,2025-10-07,Delivered,Card
+3949,56,2025-11-11,Delivered,Card
+3950,250,2025-05-12,Delivered,bKash
+3951,235,2025-06-22,Delivered,Nagad
+3952,2,2025-10-13,Delivered,Card
+3953,303,2025-03-06,Pending,Cash on Delivery
+3954,199,2025-11-25,Delivered,Card
+3955,440,2025-10-10,Delivered,Cash on Delivery
+3956,58,2025-03-10,Delivered,Cash on Delivery
+3957,424,2025-11-28,Delivered,Cash on Delivery
+3958,4,2025-07-01,Delivered,bKash
+3959,383,2025-12-28,Cancelled,Card
+3960,392,2025-01-13,Cancelled,Nagad
+3961,204,2025-12-12,Pending,bKash
+3962,141,2025-03-24,Delivered,Card
+3963,72,2025-01-13,Delivered,bKash
+3964,170,2025-09-22,Returned,Card
+3965,335,2025-12-30,Delivered,bKash
+3966,363,2025-11-02,Delivered,bKash
+3967,91,2025-12-10,Delivered,Card
+3968,6,2025-01-30,Returned,bKash
+3969,281,2025-07-27,Returned,Cash on Delivery
+3970,291,2025-11-18,Delivered,Nagad
+3971,491,2025-05-29,Delivered,Cash on Delivery
+3972,381,2025-10-19,Delivered,bKash
+3973,276,2025-11-24,Delivered,Cash on Delivery
+3974,296,2025-11-29,Delivered,bKash
+3975,323,2025-11-06,Delivered,Cash on Delivery
+3976,226,2025-11-24,Cancelled,Card
+3977,339,2025-07-11,Delivered,Card
+3978,98,2025-09-04,Delivered,Cash on Delivery
+3979,416,2025-07-26,Pending,Card
+3980,431,2025-07-11,Delivered,Cash on Delivery
+3981,218,2025-12-05,Delivered,Cash on Delivery
+3982,229,2025-08-27,Delivered,Card
+3983,249,2025-10-02,Delivered,bKash
+3984,409,2025-12-02,Delivered,Cash on Delivery
+3985,88,2025-08-12,Delivered,Cash on Delivery
+3986,171,2025-11-02,Delivered,Cash on Delivery
+3987,308,2025-08-03,Delivered,bKash
+3988,347,2025-04-26,Delivered,Cash on Delivery
+3989,148,2025-01-10,Delivered,bKash
+3990,59,2025-01-27,Delivered,Card
+3991,254,2025-12-26,Returned,Cash on Delivery
+3992,320,2025-12-11,Delivered,Card
+3993,384,2025-07-04,Delivered,Card
+3994,2,2025-06-12,Delivered,bKash
+3995,9,2025-02-02,Delivered,Cash on Delivery
+3996,194,2025-09-04,Delivered,Nagad
+3997,282,2025-01-21,Delivered,Nagad
+3999,87,2025-10-25,Returned,bKash
+4000,210,2025-12-28,Delivered,Cash on Delivery
+4001,140,2025-04-14,Delivered,bKash
+4002,356,2025-03-01,Delivered,bKash
+4003,18,2025-04-20,Delivered,Card
+4004,445,2025-10-19,Delivered,Cash on Delivery
+4005,85,2025-03-21,Delivered,Cash on Delivery
+4006,221,2025-11-20,Delivered,bKash
+4007,494,2025-02-26,Pending,Card
+4008,332,2025-01-18,Delivered,Cash on Delivery
+4009,500,2025-03-22,Delivered,Cash on Delivery
+4010,10,2025-10-03,Delivered,Card
+4011,360,2025-08-08,Delivered,bKash
+4012,38,2025-05-10,Delivered,Nagad
+4013,306,2025-08-28,Delivered,Cash on Delivery
+4014,163,2025-12-01,Delivered,Cash on Delivery
+4015,389,2025-07-22,Delivered,Cash on Delivery
+4016,63,2025-07-07,Delivered,Nagad
+4017,449,2025-02-07,Delivered,bKash
+4018,241,2025-04-05,Cancelled,bKash
+4019,260,2025-07-12,Delivered,bKash
+4020,286,2025-02-19,Delivered,Cash on Delivery
+4021,18,2025-06-23,Delivered,Card
+4022,156,2025-02-12,Delivered,Card
+4023,355,2025-10-15,Pending,Card
+4024,481,2025-02-07,Cancelled,Cash on Delivery
+4025,493,2025-02-03,Delivered,Cash on Delivery
+4026,268,2025-08-21,Delivered,bKash
+4027,130,2025-03-22,Pending,bKash
+4028,239,2025-05-09,Returned,Cash on Delivery
+4029,232,2025-04-25,Delivered,Card
+4030,199,2025-12-18,Delivered,Cash on Delivery
+4031,181,2025-10-06,Delivered,Card
+4032,435,2025-09-10,Returned,Nagad
+4033,196,2025-03-29,Returned,bKash
+4034,15,2025-09-08,Cancelled,Cash on Delivery
+4035,361,2025-09-18,Delivered,Card
+4036,333,2025-07-16,Returned,bKash
+4037,190,2025-07-31,Delivered,Cash on Delivery
+4038,315,2025-12-08,Delivered,bKash
+4039,471,2025-06-15,Delivered,Cash on Delivery
+4040,463,2025-05-21,Delivered,bKash
+4041,395,2025-11-17,Delivered,bKash
+4042,292,2025-11-02,Delivered,Cash on Delivery
+4043,14,2025-09-16,Delivered,bKash
+4044,257,2025-12-21,Cancelled,Nagad
+4045,410,2025-06-17,Delivered,bKash
+4046,423,2025-09-28,Delivered,bKash
+4047,387,2025-03-23,Delivered,Cash on Delivery
+4048,494,2025-12-27,Delivered,Card
+4049,259,2025-11-23,Delivered,Card
+4050,55,2025-11-06,Delivered,Card
+4051,249,2025-01-30,Delivered,bKash
+4052,160,2025-07-31,Delivered,Cash on Delivery
+4053,418,2025-07-12,Cancelled,Card
+4054,389,2025-12-26,Delivered,Card
+4055,213,2025-11-07,Delivered,bKash
+4056,195,2025-05-09,Delivered,bKash
+4057,80,2025-12-02,Returned,Card
+4058,22,2025-09-06,Delivered,Card
+4059,157,2025-10-02,Delivered,Cash on Delivery
+4060,121,2025-10-09,Delivered,Cash on Delivery
+4061,133,2025-05-03,Delivered,bKash
+4062,500,2025-12-31,Cancelled,bKash
+4063,341,2025-01-04,Delivered,Card
+4064,276,2025-06-29,Delivered,bKash
+4065,90,2025-08-11,Cancelled,bKash
+4066,421,2025-12-09,Returned,Nagad
+4067,323,2025-11-13,Delivered,Cash on Delivery
+4068,258,2025-08-06,Delivered,bKash
+4069,233,2025-08-10,Delivered,Card
+4070,277,2025-02-13,Delivered,Cash on Delivery
+4071,420,2025-04-12,Returned,Nagad
+4072,361,2025-03-31,Cancelled,Card
+4073,243,2025-08-22,Delivered,Cash on Delivery
+4074,334,2025-05-01,Delivered,Card
+4075,465,2025-07-28,Delivered,Cash on Delivery
+4076,164,2025-12-30,Delivered,Card
+4077,451,2025-10-19,Cancelled,Cash on Delivery
+4078,304,2025-03-09,Delivered,Card
+4079,93,2025-11-26,Delivered,bKash
+4080,484,2025-03-02,Delivered,Cash on Delivery
+4081,344,2025-01-08,Delivered,Cash on Delivery
+4082,193,2025-01-17,Delivered,Cash on Delivery
+4083,108,2025-03-15,Delivered,Card
+4084,458,2025-11-15,Delivered,Cash on Delivery
+4085,412,2025-11-12,Delivered,Card
+4086,23,2025-09-11,Delivered,Cash on Delivery
+4087,318,2025-06-02,Delivered,Card
+4088,58,2025-01-15,Delivered,bKash
+4089,148,2025-06-12,Returned,bKash
+4090,285,2025-11-02,Delivered,Nagad
+4091,125,2025-06-23,Returned,Cash on Delivery
+4092,257,2025-07-23,Delivered,Card
+4093,215,2025-11-27,Delivered,Cash on Delivery
+4094,291,2025-04-14,Delivered,Card
+4095,401,2025-10-07,Delivered,bKash
+4096,78,2025-08-06,Pending,bKash
+4097,399,2025-04-03,Delivered,Cash on Delivery
+4098,112,2025-12-21,Delivered,Nagad
+4099,17,2025-02-09,Delivered,Nagad
+4100,224,2025-12-04,Delivered,Card
+4101,152,2025-10-02,Delivered,Card
+4102,93,2025-04-16,Returned,Cash on Delivery
+4103,212,2025-09-04,Delivered,bKash
+4104,435,2025-09-05,Delivered,Cash on Delivery
+4105,293,2025-08-11,Cancelled,Nagad
+4106,364,2025-01-20,Delivered,Card
+4107,75,2025-12-26,Delivered,bKash
+4108,38,2025-12-15,Returned,Cash on Delivery
+4109,168,2025-12-22,Delivered,Cash on Delivery
+4110,388,2025-12-22,Delivered,Nagad
+4111,443,2025-12-04,Returned,Cash on Delivery
+4112,51,2025-09-27,Delivered,bKash
+4113,239,2025-01-21,Returned,Cash on Delivery
+4114,199,2025-06-19,Delivered,Cash on Delivery
+4115,373,2025-03-31,Delivered,Nagad
+4116,103,2025-03-22,Delivered,bKash
+4117,243,2025-10-31,Delivered,bKash
+4118,425,2025-10-24,Delivered,bKash
+4119,233,2025-07-10,Delivered,bKash
+4120,391,2025-09-26,Delivered,Nagad
+4121,311,2025-02-17,Delivered,Nagad
+4122,299,2025-03-23,Delivered,bKash
+4123,130,2025-12-26,Delivered,Nagad
+4124,497,2025-06-14,Delivered,bKash
+4125,125,2025-11-30,Delivered,Cash on Delivery
+4126,466,2025-11-29,Delivered,Cash on Delivery
+4127,495,2025-03-15,Delivered,Cash on Delivery
+4128,256,2025-11-11,Delivered,Cash on Delivery
+4129,435,2025-10-04,Delivered,Cash on Delivery
+4130,358,2025-09-07,Delivered,Cash on Delivery
+4131,369,2025-05-09,Delivered,bKash
+4132,35,2025-08-23,Delivered,Cash on Delivery
+4133,69,2025-12-14,Cancelled,Card
+4134,35,2025-08-26,Delivered,Card
+4135,16,2025-06-30,Delivered,Cash on Delivery
+4136,418,2025-04-09,Delivered,Cash on Delivery
+4137,88,2025-07-10,Delivered,Nagad
+4138,4,2025-05-16,Delivered,bKash
+4139,469,2025-08-12,Delivered,Card
+4140,140,2025-01-17,Delivered,bKash
+4141,409,2025-03-11,Delivered,Nagad
+4142,481,2025-10-15,Delivered,Nagad
+4143,262,2025-05-19,Delivered,Cash on Delivery
+4144,464,2025-06-08,Delivered,bKash
+4145,485,2025-07-18,Delivered,Cash on Delivery
+4146,73,2025-06-09,Delivered,Card
+4147,74,2025-10-04,Delivered,Nagad
+4148,185,2025-03-31,Delivered,bKash
+4149,280,2025-10-04,Delivered,bKash
+4150,394,2025-03-18,Pending,Cash on Delivery
+4151,92,2025-05-16,Cancelled,Cash on Delivery
+4152,97,2025-08-03,Delivered,Card
+4153,154,2025-11-20,Delivered,Card
+4154,136,2025-03-26,Delivered,Cash on Delivery
+4155,471,2025-08-03,Returned,Nagad
+4156,198,2025-12-18,Delivered,Cash on Delivery
+4157,435,2025-01-28,Delivered,Card
+4158,28,2025-10-08,Delivered,Cash on Delivery
+4159,51,2025-09-20,Delivered,Card
+4160,402,2025-05-18,Delivered,bKash
+4161,125,2025-08-16,Delivered,Card
+4162,42,2025-05-19,Delivered,bKash
+4163,298,2025-04-12,Cancelled,bKash
+4164,74,2025-06-07,Delivered,Card
+4165,31,2025-04-24,Delivered,bKash
+4166,204,2025-10-25,Cancelled,Cash on Delivery
+4167,276,2025-05-31,Cancelled,bKash
+4168,264,2025-04-28,Delivered,Card
+4169,293,2025-11-19,Pending,bKash
+4170,12,2025-10-04,Delivered,Cash on Delivery
+4171,146,2025-04-10,Delivered,Cash on Delivery
+4172,172,2025-12-09,Cancelled,bKash
+4173,147,2025-06-19,Delivered,Cash on Delivery
+4174,280,2025-08-30,Returned,Cash on Delivery
+4175,115,2025-12-16,Delivered,Cash on Delivery
+4176,316,2025-06-07,Delivered,bKash
+4178,331,2025-09-30,Delivered,bKash
+4179,195,2025-01-03,Cancelled,bKash
+4180,218,2025-06-17,Delivered,bKash
+4181,293,2025-12-24,Delivered,Nagad
+4182,362,2025-06-01,Delivered,Card
+4183,151,2025-11-12,Delivered,bKash
+4184,20,2025-07-11,Delivered,Nagad
+4185,352,2025-03-20,Delivered,Cash on Delivery
+4186,331,2025-04-26,Delivered,Card
+4187,51,2025-07-11,Delivered,Nagad
+4188,314,2025-02-08,Delivered,bKash
+4189,36,2025-06-01,Delivered,Card
+4190,322,2025-06-01,Delivered,bKash
+4191,373,2025-11-01,Delivered,Card
+4192,8,2025-11-23,Delivered,Cash on Delivery
+4193,364,2025-11-04,Delivered,Card
+4194,61,2025-05-30,Delivered,Cash on Delivery
+4195,133,2025-12-07,Delivered,Card
+4196,353,2025-07-23,Delivered,Nagad
+4197,178,2025-04-20,Cancelled,Card
+4198,489,2025-11-17,Delivered,Nagad
+4200,494,2025-01-14,Delivered,Nagad
+4201,53,2025-10-01,Delivered,Cash on Delivery
+4202,89,2025-08-15,Delivered,Cash on Delivery
+4203,92,2025-11-22,Delivered,Card
+4204,293,2025-06-17,Delivered,Cash on Delivery
+4205,216,2025-01-07,Delivered,Cash on Delivery
+4206,373,2025-11-22,Cancelled,bKash
+4207,142,2025-06-08,Delivered,Cash on Delivery
+4208,100,2025-04-02,Delivered,Nagad
+4209,325,2025-12-03,Delivered,Nagad
+4210,309,2025-02-13,Delivered,bKash
+4211,346,2025-11-18,Cancelled,Card
+4212,157,2025-03-21,Delivered,Card
+4213,264,2025-02-13,Returned,Cash on Delivery
+4214,465,2025-04-11,Delivered,Nagad
+4215,306,2025-02-22,Delivered,bKash
+4216,467,2025-05-27,Delivered,Card
+4217,217,2025-05-01,Delivered,bKash
+4218,23,2025-11-20,Delivered,bKash
+4219,381,2025-12-06,Delivered,Nagad
+4220,231,2025-12-13,Returned,Cash on Delivery
+4221,22,2025-12-11,Delivered,Card
+4222,70,2025-03-01,Delivered,bKash
+4223,157,2025-03-13,Cancelled,Card
+4224,96,2025-02-04,Delivered,Cash on Delivery
+4225,343,2025-04-25,Delivered,Cash on Delivery
+4226,306,2025-07-20,Delivered,Card
+4228,43,2025-05-01,Delivered,Nagad
+4229,40,2025-06-21,Delivered,Cash on Delivery
+4230,473,2025-07-20,Delivered,Cash on Delivery
+4231,173,2025-05-01,Delivered,bKash
+4232,54,2025-03-22,Delivered,Nagad
+4233,356,2025-05-30,Delivered,Cash on Delivery
+4234,435,2025-01-09,Delivered,Nagad
+4235,61,2025-06-29,Delivered,Card
+4236,473,2025-12-10,Delivered,Card
+4237,363,2025-05-26,Returned,Card
+4238,127,2025-11-09,Delivered,Cash on Delivery
+4239,388,2025-11-21,Delivered,Cash on Delivery
+4240,210,2025-02-16,Delivered,Card
+4241,318,2025-12-09,Delivered,Nagad
+4242,64,2025-02-23,Pending,Nagad
+4243,123,2025-11-13,Delivered,Card
+4244,387,2025-12-25,Delivered,Cash on Delivery
+4245,403,2025-07-27,Delivered,Cash on Delivery
+4246,6,2025-08-14,Delivered,Card
+4247,108,2025-08-24,Cancelled,Cash on Delivery
+4248,304,2025-11-05,Pending,Card
+4249,453,2025-11-20,Delivered,Nagad
+4250,338,2025-12-27,Delivered,Cash on Delivery
+4251,354,2025-09-25,Delivered,Nagad
+4252,195,2025-02-02,Cancelled,Cash on Delivery
+4253,28,2025-05-24,Delivered,Card
+4254,383,2025-12-22,Delivered,bKash
+4255,400,2025-12-11,Delivered,Cash on Delivery
+4256,222,2025-03-16,Delivered,bKash
+4257,254,2025-11-13,Returned,Cash on Delivery
+4258,118,2025-08-16,Delivered,bKash
+4259,227,2025-07-25,Delivered,Card
+4260,121,2025-06-03,Delivered,bKash
+4261,211,2025-12-10,Returned,Cash on Delivery
+4262,68,2025-05-21,Delivered,bKash
+4263,304,2025-06-09,Cancelled,Cash on Delivery
+4264,124,2025-11-08,Cancelled,bKash
+4265,363,2025-12-11,Cancelled,Cash on Delivery
+4266,259,2025-02-24,Delivered,Cash on Delivery
+4267,448,2025-11-12,Delivered,Cash on Delivery
+4268,111,2025-12-30,Cancelled,bKash
+4269,137,2025-06-26,Returned,bKash
+4270,122,2025-05-19,Delivered,Card
+4271,316,2025-09-01,Delivered,Cash on Delivery
+4272,54,2025-08-25,Delivered,Card
+4273,344,2025-12-15,Delivered,Cash on Delivery
+4274,410,2025-12-20,Returned,Cash on Delivery
+4275,338,2025-08-05,Delivered,bKash
+4276,68,2025-01-22,Delivered,Cash on Delivery
+4277,247,2025-05-29,Delivered,Cash on Delivery
+4278,267,2025-12-03,Cancelled,Card
+4279,196,2025-05-24,Delivered,Cash on Delivery
+4280,234,2025-07-27,Delivered,Nagad
+4281,382,2025-08-12,Delivered,Card
+4282,418,2025-09-15,Cancelled,Card
+4283,151,2025-11-15,Delivered,Cash on Delivery
+4284,165,2025-02-24,Delivered,bKash
+4285,105,2025-12-04,Delivered,Cash on Delivery
+4286,201,2025-07-14,Pending,Cash on Delivery
+4287,273,2025-02-25,Delivered,Cash on Delivery
+4288,357,2025-11-08,Delivered,Card
+4289,134,2025-02-13,Delivered,bKash
+4290,109,2025-06-16,Delivered,Cash on Delivery
+4291,17,2025-11-22,Cancelled,bKash
+4292,47,2025-12-20,Cancelled,bKash
+4293,26,2025-10-28,Delivered,Card
+4294,104,2025-11-26,Returned,Card
+4295,348,2025-04-04,Delivered,bKash
+4296,388,2025-11-08,Cancelled,bKash
+4297,487,2025-11-17,Delivered,Cash on Delivery
+4298,273,2025-01-13,Delivered,Cash on Delivery
+4299,228,2025-04-12,Cancelled,Nagad
+4300,450,2025-09-16,Returned,Cash on Delivery
+4301,74,2025-10-12,Delivered,Card
+4302,316,2025-12-31,Delivered,Card
+4303,410,2025-07-22,Cancelled,Cash on Delivery
+4304,252,2025-01-03,Delivered,bKash
+4305,131,2025-11-15,Delivered,bKash
+4306,311,2025-02-28,Delivered,Card
+4307,498,2025-02-14,Delivered,Cash on Delivery
+4308,118,2025-09-04,Delivered,bKash
+4309,282,2025-12-12,Returned,Card
+4310,26,2025-01-22,Delivered,bKash
+4311,117,2025-03-03,Delivered,Cash on Delivery
+4312,384,2025-08-04,Delivered,bKash
+4313,249,2025-04-04,Cancelled,Cash on Delivery
+4314,100,2025-09-07,Delivered,bKash
+4315,168,2025-05-31,Cancelled,bKash
+4316,61,2025-08-03,Delivered,bKash
+4317,390,2025-06-23,Delivered,Card
+4318,472,2025-05-14,Cancelled,bKash
+4319,53,2025-05-05,Delivered,Nagad
+4320,119,2025-09-12,Cancelled,Card
+4321,429,2025-07-07,Delivered,Nagad
+4322,440,2025-08-05,Delivered,Card
+4323,384,2025-07-30,Delivered,bKash
+4324,358,2025-03-17,Returned,Cash on Delivery
+4325,431,2025-11-30,Delivered,Cash on Delivery
+4326,187,2025-07-25,Delivered,Card
+4327,448,2025-09-20,Delivered,Card
+4328,444,2025-11-18,Pending,Cash on Delivery
+4329,115,2025-12-04,Cancelled,bKash
+4330,37,2025-12-15,Cancelled,Cash on Delivery
+4331,261,2025-10-15,Delivered,Cash on Delivery
+4332,380,2025-06-22,Delivered,Card
+4333,425,2025-09-27,Cancelled,Cash on Delivery
+4334,72,2025-11-02,Cancelled,Card
+4335,189,2025-09-17,Cancelled,Nagad
+4336,384,2025-12-26,Cancelled,Nagad
+4337,31,2025-11-30,Returned,Cash on Delivery
+4338,362,2025-03-31,Delivered,Nagad
+4339,146,2025-08-28,Delivered,Cash on Delivery
+4340,12,2025-11-21,Pending,Card
+4341,121,2025-02-26,Delivered,Card
+4342,371,2025-12-27,Delivered,Card
+4343,436,2025-11-01,Delivered,bKash
+4344,41,2025-03-23,Delivered,Cash on Delivery
+4345,232,2025-02-17,Cancelled,bKash
+4346,101,2025-10-25,Cancelled,Cash on Delivery
+4347,342,2025-12-28,Delivered,bKash
+4348,391,2025-03-03,Delivered,Card
+4349,482,2025-08-31,Delivered,Card
+4350,178,2025-04-14,Returned,Nagad
+4351,150,2025-09-29,Delivered,bKash
+4352,155,2025-12-18,Delivered,bKash
+4353,381,2025-02-15,Delivered,Card
+4354,223,2025-04-29,Delivered,Nagad
+4355,12,2025-07-16,Delivered,Card
+4356,474,2025-10-19,Delivered,Cash on Delivery
+4357,53,2025-01-08,Delivered,Card
+4358,465,2025-12-16,Delivered,Card
+4359,81,2025-08-26,Delivered,Cash on Delivery
+4360,270,2025-11-16,Delivered,Cash on Delivery
+4361,157,2025-12-06,Delivered,Cash on Delivery
+4362,344,2025-02-26,Delivered,Card
+4363,202,2025-11-29,Delivered,Nagad
+4364,184,2025-10-11,Cancelled,bKash
+4365,239,2025-03-10,Delivered,Nagad
+4366,486,2025-02-24,Delivered,Card
+4367,123,2025-12-05,Delivered,bKash
+4368,110,2025-11-30,Delivered,bKash
+4369,34,2025-10-18,Delivered,Cash on Delivery
+4370,370,2025-11-22,Delivered,Cash on Delivery
+4371,339,2025-03-13,Delivered,bKash
+4372,305,2025-05-03,Cancelled,Card
+4373,12,2025-09-09,Delivered,Card
+4374,396,2025-12-22,Pending,Card
+4375,405,2025-07-11,Delivered,Cash on Delivery
+4376,473,2025-01-05,Delivered,bKash
+4377,465,2025-04-29,Cancelled,Card
+4378,132,2025-04-01,Delivered,bKash
+4379,356,2025-09-06,Delivered,Card
+4380,202,2025-11-30,Delivered,Nagad
+4381,298,2025-02-23,Delivered,bKash
+4382,167,2025-10-19,Delivered,Nagad
+4383,329,2025-08-28,Delivered,Cash on Delivery
+4384,477,2025-12-20,Delivered,bKash
+4385,327,2025-11-29,Delivered,bKash
+4386,461,2025-02-06,Delivered,Cash on Delivery
+4387,466,2025-09-29,Delivered,Cash on Delivery
+4388,60,2025-08-05,Cancelled,Card
+4389,483,2025-02-11,Delivered,Nagad
+4390,410,2025-11-08,Delivered,bKash
+4391,214,2025-12-05,Pending,bKash
+4392,301,2025-07-18,Returned,bKash
+4393,309,2025-05-04,Delivered,Cash on Delivery
+4394,394,2025-04-27,Delivered,bKash
+4395,402,2025-11-02,Delivered,bKash
+4396,52,2025-04-14,Returned,Card
+4397,1,2025-02-27,Delivered,bKash
+4398,124,2025-07-29,Delivered,Card
+4399,264,2025-12-29,Delivered,Cash on Delivery
+4400,425,2025-12-24,Delivered,bKash
+4401,327,2025-04-04,Delivered,Nagad
+4402,68,2025-06-21,Cancelled,Cash on Delivery
+4403,359,2025-03-14,Delivered,Cash on Delivery
+4404,235,2025-08-26,Delivered,Nagad
+4405,185,2025-04-03,Cancelled,Card
+4406,386,2025-11-13,Delivered,bKash
+4407,148,2025-12-23,Delivered,Card
+4408,310,2025-12-06,Delivered,Card
+4409,92,2025-12-08,Cancelled,bKash
+4410,191,2025-07-04,Delivered,Cash on Delivery
+4411,279,2025-05-27,Cancelled,Cash on Delivery
+4412,312,2025-10-27,Delivered,bKash
+4413,460,2025-03-12,Delivered,Cash on Delivery
+4414,146,2025-08-27,Delivered,Card
+4415,448,2025-11-02,Delivered,Card
+4416,409,2025-09-17,Delivered,Card
+4417,180,2025-03-21,Delivered,Cash on Delivery
+4418,71,2025-09-19,Delivered,bKash
+4419,129,2025-11-01,Delivered,bKash
+4420,329,2025-11-16,Pending,Card
+4421,395,2025-03-05,Delivered,bKash
+4422,307,2025-08-12,Delivered,Cash on Delivery
+4423,363,2025-10-30,Delivered,Card
+4424,51,2025-04-12,Delivered,Cash on Delivery
+4425,253,2025-09-29,Pending,Cash on Delivery
+4426,437,2025-02-06,Pending,bKash
+4427,195,2025-11-06,Delivered,Card
+4428,450,2025-08-10,Pending,Nagad
+4429,62,2025-03-12,Delivered,bKash
+4430,490,2025-01-25,Pending,bKash
+4431,393,2025-09-30,Cancelled,Cash on Delivery
+4432,314,2025-03-30,Delivered,Cash on Delivery
+4433,309,2025-12-03,Delivered,Cash on Delivery
+4434,469,2025-01-23,Cancelled,Cash on Delivery
+4435,189,2025-12-18,Delivered,Card
+4436,83,2025-07-20,Delivered,Cash on Delivery
+4437,460,2025-12-07,Delivered,bKash
+4438,52,2025-11-16,Delivered,Cash on Delivery
+4439,330,2025-12-06,Delivered,bKash
+4440,133,2025-08-11,Delivered,Card
+4441,465,2025-08-09,Delivered,bKash
+4442,487,2025-10-16,Delivered,Cash on Delivery
+4443,238,2025-12-05,Delivered,bKash
+4444,267,2025-10-27,Delivered,Cash on Delivery
+4445,228,2025-02-21,Delivered,Card
+4446,213,2025-12-20,Delivered,Card
+4447,469,2025-11-30,Delivered,bKash
+4448,144,2025-07-20,Delivered,bKash
+4449,480,2025-11-13,Delivered,Cash on Delivery
+4450,326,2025-07-25,Delivered,Nagad
+4451,481,2025-01-19,Delivered,Cash on Delivery
+4452,307,2025-06-22,Cancelled,bKash
+4453,410,2025-10-29,Delivered,bKash
+4454,245,2025-11-02,Returned,Nagad
+4455,232,2025-02-18,Delivered,Cash on Delivery
+4456,129,2025-12-02,Delivered,Cash on Delivery
+4457,106,2025-12-15,Delivered,bKash
+4458,19,2025-12-24,Delivered,Cash on Delivery
+4459,192,2025-10-02,Delivered,Card
+4460,494,2025-02-05,Cancelled,Cash on Delivery
+4461,470,2025-08-15,Cancelled,Nagad
+4462,346,2025-10-30,Delivered,Nagad
+4463,182,2025-08-22,Pending,Card
+4464,261,2025-08-05,Delivered,Cash on Delivery
+4465,379,2025-06-20,Delivered,Card
+4466,2,2025-03-31,Cancelled,bKash
+4467,462,2025-04-13,Delivered,Cash on Delivery
+4468,436,2025-09-30,Delivered,bKash
+4469,486,2025-01-26,Delivered,bKash
+4470,48,2025-01-31,Delivered,Cash on Delivery
+4471,474,2025-05-25,Delivered,Cash on Delivery
+4473,278,2025-08-28,Delivered,bKash
+4474,90,2025-08-04,Delivered,Cash on Delivery
+4475,246,2025-07-14,Pending,bKash
+4476,182,2025-02-10,Delivered,Card
+4477,494,2025-05-02,Delivered,bKash
+4478,170,2025-01-30,Delivered,Cash on Delivery
+4479,110,2025-10-04,Delivered,bKash
+4480,474,2025-10-02,Delivered,Card
+4481,94,2025-04-05,Delivered,Nagad
+4482,453,2025-04-17,Cancelled,Cash on Delivery
+4483,482,2025-04-26,Delivered,Cash on Delivery
+4484,154,2025-11-21,Delivered,Cash on Delivery
+4485,345,2025-06-28,Delivered,Nagad
+4486,399,2025-11-26,Cancelled,bKash
+4487,269,2025-06-13,Delivered,Card
+4488,349,2025-09-12,Delivered,Cash on Delivery
+4489,67,2025-07-12,Delivered,Nagad
+4490,259,2025-12-26,Delivered,Cash on Delivery
+4491,257,2025-11-16,Delivered,Card
+4492,284,2025-09-16,Delivered,Nagad
+4493,473,2025-10-08,Delivered,Cash on Delivery
+4494,413,2025-12-10,Delivered,bKash
+4495,302,2025-04-01,Delivered,Nagad
+4496,202,2025-11-03,Delivered,Cash on Delivery
+4497,203,2025-08-01,Delivered,Cash on Delivery
+4498,11,2025-04-30,Delivered,Nagad
+4499,276,2025-06-09,Delivered,Card
+4500,127,2025-03-27,Delivered,Cash on Delivery
+4501,444,2025-05-26,Delivered,bKash
+4502,387,2025-05-24,Delivered,Cash on Delivery
+4503,457,2025-12-03,Delivered,Nagad
+4504,498,2025-09-28,Delivered,Cash on Delivery
+4505,201,2025-08-05,Delivered,Cash on Delivery
+4506,215,2025-06-23,Delivered,Cash on Delivery
+4508,216,2025-07-28,Delivered,bKash
+4509,140,2025-03-05,Delivered,Card
+4510,354,2025-04-25,Returned,Cash on Delivery
+4511,226,2025-06-01,Delivered,Cash on Delivery
+4512,471,2025-11-24,Delivered,Cash on Delivery
+4513,110,2025-11-08,Delivered,Card
+4514,222,2025-12-28,Returned,Cash on Delivery
+4515,266,2025-11-07,Delivered,bKash
+4516,454,2025-11-10,Delivered,Nagad
+4517,290,2025-01-02,Delivered,Cash on Delivery
+4518,35,2025-11-14,Delivered,bKash
+4519,169,2025-08-22,Delivered,Cash on Delivery
+4520,444,2025-05-18,Cancelled,Card
+4521,137,2025-06-21,Delivered,Card
+4522,171,2025-10-16,Pending,Cash on Delivery
+4523,76,2025-05-18,Returned,Cash on Delivery
+4524,360,2025-11-06,Pending,Card
+4525,70,2025-05-16,Cancelled,Card
+4526,184,2025-04-03,Delivered,bKash
+4527,356,2025-05-20,Delivered,Card
+4528,448,2025-11-14,Delivered,bKash
+4529,111,2025-02-24,Delivered,bKash
+4530,167,2025-12-26,Delivered,Nagad
+4531,59,2025-02-17,Cancelled,bKash
+4532,219,2025-09-15,Delivered,Card
+4533,500,2025-09-19,Delivered,Card
+4534,153,2025-08-14,Delivered,Card
+4535,130,2025-11-29,Delivered,Cash on Delivery
+4536,200,2025-01-02,Delivered,bKash
+4537,449,2025-12-20,Delivered,Card
+4538,274,2025-03-09,Delivered,Nagad
+4539,305,2025-12-06,Delivered,Cash on Delivery
+4540,391,2025-08-20,Pending,Card
+4541,358,2025-11-24,Delivered,bKash
+4542,300,2025-05-19,Delivered,Cash on Delivery
+4543,281,2025-03-28,Delivered,Cash on Delivery
+4544,267,2025-12-04,Delivered,Nagad
+4545,91,2025-09-03,Delivered,Card
+4546,208,2025-12-20,Delivered,Cash on Delivery
+4547,424,2025-06-12,Delivered,Card
+4548,20,2025-06-13,Delivered,bKash
+4549,414,2025-05-23,Delivered,Cash on Delivery
+4550,283,2025-10-01,Delivered,Cash on Delivery
+4551,175,2025-11-28,Delivered,Card
+4552,58,2025-11-08,Delivered,Card
+4553,382,2025-03-06,Delivered,Cash on Delivery
+4554,1,2025-06-18,Returned,Card
+4555,272,2025-04-25,Delivered,bKash
+4556,82,2025-08-23,Cancelled,Card
+4557,455,2025-09-06,Cancelled,Card
+4558,92,2025-12-02,Pending,Cash on Delivery
+4559,402,2025-10-16,Cancelled,Card
+4560,288,2025-04-01,Delivered,bKash
+4561,21,2025-03-17,Pending,Cash on Delivery
+4562,361,2025-11-20,Cancelled,Card
+4563,440,2025-06-28,Delivered,Cash on Delivery
+4564,111,2025-02-05,Delivered,bKash
+4565,485,2025-10-29,Pending,Cash on Delivery
+4566,400,2025-08-25,Delivered,Cash on Delivery
+4567,372,2025-01-10,Delivered,Cash on Delivery
+4568,169,2025-10-13,Delivered,bKash
+4569,60,2025-11-24,Delivered,Cash on Delivery
+4570,215,2025-08-13,Delivered,Cash on Delivery
+4571,404,2025-11-12,Delivered,bKash
+4572,294,2025-06-30,Delivered,Card
+4573,324,2025-06-18,Returned,Card
+4574,391,2025-11-12,Delivered,bKash
+4575,170,2025-03-14,Delivered,bKash
+4576,19,2025-02-25,Delivered,Nagad
+4577,443,2025-11-04,Delivered,Nagad
+4578,307,2025-03-20,Pending,Card
+4579,283,2025-07-04,Delivered,Nagad
+4580,287,2025-12-04,Delivered,Cash on Delivery
+4581,427,2025-11-17,Cancelled,bKash
+4582,385,2025-12-29,Delivered,Nagad
+4583,336,2025-10-20,Delivered,Cash on Delivery
+4584,392,2025-06-11,Delivered,Cash on Delivery
+4585,145,2025-02-20,Delivered,Card
+4586,356,2025-03-31,Cancelled,Card
+4587,488,2025-03-02,Delivered,Nagad
+4588,118,2025-11-23,Delivered,Card
+4589,286,2025-04-27,Delivered,Card
+4590,341,2025-05-17,Cancelled,bKash
+4591,259,2025-01-26,Delivered,bKash
+4592,485,2025-06-12,Delivered,bKash
+4593,202,2025-11-30,Delivered,Nagad
+4594,109,2025-05-30,Delivered,bKash
+4595,69,2025-08-26,Delivered,Nagad
+4596,425,2025-11-19,Delivered,Cash on Delivery
+4597,344,2025-12-30,Delivered,bKash
+4598,289,2025-09-25,Delivered,Card
+4599,216,2025-01-24,Delivered,bKash
+4600,205,2025-06-13,Delivered,Cash on Delivery
+4601,468,2025-04-26,Delivered,Cash on Delivery
+4602,341,2025-01-06,Delivered,bKash
+4603,483,2025-07-13,Returned,Nagad
+4604,401,2025-12-18,Delivered,Cash on Delivery
+4605,384,2025-01-26,Delivered,Card
+4606,277,2025-12-02,Delivered,Cash on Delivery
+4607,122,2025-11-11,Delivered,Cash on Delivery
+4608,327,2025-09-22,Delivered,Cash on Delivery
+4609,358,2025-02-05,Cancelled,Card
+4610,261,2025-11-14,Delivered,Card
+4612,481,2025-11-27,Delivered,bKash
+4613,414,2025-08-29,Delivered,Card
+4614,177,2025-11-29,Delivered,Cash on Delivery
+4615,247,2025-11-16,Delivered,bKash
+4616,62,2025-08-11,Delivered,Card
+4617,469,2025-02-01,Returned,Cash on Delivery
+4618,116,2025-12-13,Delivered,Card
+4619,189,2025-12-05,Delivered,bKash
+4620,215,2025-04-08,Pending,Cash on Delivery
+4621,132,2025-03-29,Delivered,Nagad
+4622,318,2025-12-14,Delivered,Card
+4623,498,2025-03-24,Delivered,Cash on Delivery
+4624,428,2025-02-11,Pending,Nagad
+4625,266,2025-04-02,Delivered,Cash on Delivery
+4626,66,2025-08-29,Delivered,Nagad
+4627,432,2025-04-21,Delivered,Card
+4628,129,2025-10-13,Delivered,Card
+4629,456,2025-10-27,Delivered,Cash on Delivery
+4630,198,2025-10-05,Delivered,bKash
+4631,260,2025-07-16,Returned,bKash
+4632,219,2025-04-26,Delivered,Card
+4633,228,2025-12-06,Delivered,Card
+4634,83,2025-03-16,Delivered,Card
+4635,277,2025-06-19,Delivered,Card
+4636,202,2025-12-27,Delivered,Nagad
+4637,424,2025-09-30,Delivered,bKash
+4638,239,2025-07-19,Delivered,Cash on Delivery
+4640,149,2025-12-02,Delivered,bKash
+4641,165,2025-05-23,Delivered,Nagad
+4642,19,2025-11-16,Returned,Card
+4643,370,2025-12-14,Delivered,bKash
+4644,37,2025-12-01,Returned,Cash on Delivery
+4645,143,2025-03-06,Cancelled,Card
+4646,456,2025-11-07,Delivered,Card
+4647,306,2025-05-23,Delivered,Nagad
+4648,280,2025-12-19,Delivered,bKash
+4649,403,2025-02-17,Returned,Cash on Delivery
+4650,386,2025-11-21,Delivered,Card
+4651,444,2025-11-13,Pending,Card
+4652,333,2025-01-18,Delivered,bKash
+4653,225,2025-04-07,Delivered,Cash on Delivery
+4654,66,2025-01-31,Delivered,bKash
+4655,185,2025-04-28,Pending,Nagad
+4656,353,2025-05-23,Delivered,Cash on Delivery
+4657,127,2025-08-14,Delivered,bKash
+4658,336,2025-12-02,Cancelled,bKash
+4659,67,2025-02-27,Delivered,Cash on Delivery
+4661,183,2025-12-09,Returned,Card
+4663,436,2025-03-22,Delivered,bKash
+4664,190,2025-11-27,Delivered,Nagad
+4665,210,2025-11-19,Delivered,Nagad
+4666,202,2025-12-17,Delivered,Card
+4667,159,2025-12-19,Delivered,bKash
+4668,459,2025-10-05,Delivered,bKash
+4669,370,2025-04-17,Delivered,bKash
+4670,80,2025-08-22,Delivered,Cash on Delivery
+4671,108,2025-01-22,Cancelled,Card
+4672,41,2025-09-04,Delivered,Cash on Delivery
+4673,129,2025-07-31,Delivered,Nagad
+4674,329,2025-12-25,Returned,Nagad
+4675,468,2025-11-23,Cancelled,Card
+4676,241,2025-08-24,Delivered,Nagad
+4677,41,2025-06-10,Pending,Card
+4678,24,2025-03-10,Delivered,bKash
+4679,208,2025-01-09,Delivered,Card
+4680,133,2025-12-09,Delivered,Cash on Delivery
+4681,289,2025-04-13,Delivered,Card
+4682,60,2025-04-21,Delivered,Card
+4683,116,2025-09-06,Delivered,bKash
+4684,278,2025-04-04,Returned,Nagad
+4685,141,2025-05-18,Delivered,Cash on Delivery
+4686,183,2025-09-17,Delivered,Cash on Delivery
+4687,111,2025-08-06,Delivered,Cash on Delivery
+4688,26,2025-08-28,Delivered,bKash
+4689,173,2025-12-11,Pending,Card
+4690,165,2025-06-14,Delivered,Card
+4691,450,2025-06-23,Cancelled,bKash
+4692,447,2025-08-19,Delivered,Nagad
+4693,216,2025-12-30,Delivered,Card
+4694,144,2025-02-28,Delivered,Cash on Delivery
+4695,209,2025-10-06,Delivered,Cash on Delivery
+4696,304,2025-11-01,Cancelled,Nagad
+4697,194,2025-10-24,Delivered,bKash
+4698,379,2025-04-09,Delivered,Nagad
+4699,483,2025-12-31,Delivered,Cash on Delivery
+4700,202,2025-04-10,Delivered,bKash
+4701,59,2025-11-22,Delivered,Cash on Delivery
+4702,61,2025-03-01,Delivered,Card
+4703,436,2025-12-02,Delivered,Cash on Delivery
+4704,209,2025-05-02,Delivered,Cash on Delivery
+4705,164,2025-10-20,Returned,Cash on Delivery
+4706,310,2025-05-01,Delivered,Cash on Delivery
+4707,479,2025-10-16,Delivered,Cash on Delivery
+4708,213,2025-06-15,Cancelled,Card
+4709,158,2025-01-23,Cancelled,bKash
+4710,432,2025-03-11,Delivered,Nagad
+4711,42,2025-09-07,Returned,Cash on Delivery
+4712,423,2025-03-12,Cancelled,Nagad
+4713,261,2025-04-11,Delivered,bKash
+4714,11,2025-07-17,Delivered,bKash
+4715,114,2025-04-03,Delivered,Cash on Delivery
+4716,340,2025-02-17,Delivered,Cash on Delivery
+4717,377,2025-08-16,Pending,bKash
+4718,98,2025-12-15,Delivered,Card
+4719,329,2025-11-30,Delivered,Nagad
+4720,495,2025-12-18,Pending,Cash on Delivery
+4721,344,2025-02-15,Delivered,bKash
+4722,352,2025-06-05,Delivered,bKash
+4723,97,2025-03-27,Returned,Card
+4724,319,2025-11-29,Delivered,bKash
+4725,355,2025-07-17,Delivered,Card
+4726,56,2025-02-05,Delivered,Card
+4727,156,2025-09-10,Returned,Cash on Delivery
+4728,442,2025-01-16,Delivered,bKash
+4729,500,2025-04-11,Delivered,Cash on Delivery
+4730,87,2025-11-04,Delivered,bKash
+4731,366,2025-07-04,Returned,Card
+4732,251,2025-10-05,Delivered,bKash
+4733,296,2025-07-28,Delivered,Card
+4734,256,2025-11-04,Pending,Cash on Delivery
+4735,434,2025-07-25,Delivered,Nagad
+4736,223,2025-01-21,Delivered,Cash on Delivery
+4737,295,2025-01-27,Delivered,Cash on Delivery
+4738,335,2025-10-11,Delivered,Cash on Delivery
+4739,277,2025-01-15,Delivered,Cash on Delivery
+4740,440,2025-05-18,Delivered,bKash
+4741,119,2025-01-06,Delivered,Cash on Delivery
+4742,475,2025-04-21,Delivered,bKash
+4743,340,2025-11-27,Cancelled,Card
+4744,481,2025-03-05,Delivered,Cash on Delivery
+4745,188,2025-06-20,Returned,Cash on Delivery
+4746,240,2025-12-30,Delivered,Card
+4747,22,2025-01-26,Delivered,Nagad
+4748,462,2025-01-24,Delivered,Card
+4749,409,2025-04-10,Delivered,Cash on Delivery
+4750,149,2025-11-25,Delivered,Nagad
+4751,26,2025-12-21,Delivered,bKash
+4752,349,2025-08-22,Returned,Nagad
+4753,337,2025-01-13,Delivered,Cash on Delivery
+4754,264,2025-11-09,Delivered,Cash on Delivery
+4755,79,2025-01-25,Delivered,Nagad
+4756,460,2025-09-17,Cancelled,Cash on Delivery
+4757,217,2025-02-23,Delivered,bKash
+4758,363,2025-11-10,Delivered,Cash on Delivery
+4759,430,2025-04-19,Delivered,bKash
+4760,275,2025-11-10,Delivered,bKash
+4761,48,2025-11-09,Delivered,Card
+4762,444,2025-12-05,Delivered,bKash
+4763,334,2025-03-02,Delivered,Cash on Delivery
+4764,448,2025-12-30,Cancelled,Nagad
+4765,307,2025-04-20,Delivered,Nagad
+4766,454,2025-05-10,Delivered,Card
+4767,434,2025-10-22,Delivered,Cash on Delivery
+4768,108,2025-02-15,Returned,Cash on Delivery
+4769,87,2025-12-08,Delivered,Card
+4770,81,2025-03-09,Delivered,Cash on Delivery
+4771,400,2025-06-26,Returned,bKash
+4772,121,2025-05-02,Delivered,Nagad
+4773,226,2025-01-17,Delivered,bKash
+4774,394,2025-01-26,Delivered,Cash on Delivery
+4775,215,2025-11-08,Delivered,Nagad
+4776,31,2025-01-21,Delivered,Cash on Delivery
+4777,181,2025-10-13,Delivered,Card
+4778,48,2025-12-19,Delivered,bKash
+4779,193,2025-12-22,Delivered,Nagad
+4780,369,2025-12-07,Pending,Card
+4781,260,2025-10-11,Delivered,Card
+4782,338,2025-12-25,Pending,Nagad
+4783,54,2025-02-13,Delivered,Cash on Delivery
+4784,376,2025-12-18,Cancelled,Cash on Delivery
+4785,213,2025-12-11,Returned,Card
+4786,144,2025-02-22,Delivered,bKash
+4787,326,2025-01-20,Delivered,Cash on Delivery
+4788,68,2025-09-18,Delivered,bKash
+4789,250,2025-01-29,Delivered,Card
+4790,212,2025-08-08,Delivered,Card
+4791,83,2025-01-24,Pending,Cash on Delivery
+4792,477,2025-09-10,Delivered,bKash
+4793,182,2025-12-07,Delivered,Cash on Delivery
+4794,21,2025-02-05,Delivered,bKash
+4795,222,2025-01-25,Delivered,Card
+4796,484,2025-03-10,Delivered,Nagad
+4797,335,2025-11-15,Delivered,Nagad
+4799,451,2025-10-20,Delivered,Nagad
+4800,42,2025-08-09,Delivered,Card
+4801,276,2025-04-19,Delivered,bKash
+4802,161,2025-12-27,Delivered,Card
+4803,339,2025-12-28,Delivered,bKash
+4804,427,2025-09-03,Delivered,Cash on Delivery
+4805,39,2025-12-18,Delivered,Cash on Delivery
+4806,80,2025-09-17,Cancelled,Card
+4807,478,2025-07-24,Delivered,bKash
+4808,246,2025-12-23,Delivered,Nagad
+4809,158,2025-12-30,Pending,Cash on Delivery
+4810,77,2025-09-05,Pending,bKash
+4811,178,2025-05-05,Delivered,bKash
+4812,3,2025-01-15,Pending,bKash
+4813,112,2025-11-21,Delivered,bKash
+4814,92,2025-11-13,Delivered,bKash
+4815,43,2025-09-27,Delivered,bKash
+4816,485,2025-05-14,Delivered,bKash
+4817,396,2025-11-09,Delivered,bKash
+4818,471,2025-01-02,Pending,Card
+4819,121,2025-01-14,Delivered,Card
+4820,145,2025-07-05,Delivered,bKash
+4821,142,2025-08-17,Delivered,Nagad
+4822,280,2025-12-09,Delivered,Cash on Delivery
+4823,91,2025-10-05,Cancelled,Card
+4824,118,2025-04-04,Delivered,bKash
+4825,488,2025-10-25,Delivered,Cash on Delivery
+4826,177,2025-06-29,Delivered,bKash
+4827,391,2025-10-29,Delivered,Cash on Delivery
+4828,115,2025-03-05,Delivered,Nagad
+4829,465,2025-01-10,Delivered,Card
+4830,347,2025-01-22,Delivered,bKash
+4831,431,2025-12-28,Delivered,bKash
+4832,259,2025-01-30,Delivered,bKash
+4833,454,2025-12-09,Delivered,Card
+4834,182,2025-09-23,Delivered,Cash on Delivery
+4835,240,2025-02-23,Cancelled,Card
+4836,31,2025-11-12,Delivered,Cash on Delivery
+4837,86,2025-02-22,Delivered,Cash on Delivery
+4838,386,2025-12-22,Pending,bKash
+4839,164,2025-07-30,Delivered,Nagad
+4840,52,2025-04-16,Returned,Cash on Delivery
+4841,147,2025-04-17,Delivered,bKash
+4842,177,2025-03-13,Returned,Nagad
+4843,359,2025-08-10,Delivered,Cash on Delivery
+4844,46,2025-01-10,Cancelled,Card
+4845,13,2025-03-31,Delivered,Cash on Delivery
+4846,363,2025-07-22,Delivered,Cash on Delivery
+4847,72,2025-06-27,Delivered,Cash on Delivery
+4848,210,2025-09-13,Delivered,Nagad
+4849,342,2025-03-20,Delivered,bKash
+4850,258,2025-08-25,Pending,Card
+4851,62,2025-10-05,Delivered,bKash
+4852,362,2025-05-22,Delivered,Cash on Delivery
+4853,25,2025-11-29,Delivered,bKash
+4854,117,2025-12-28,Delivered,Card
+4855,55,2025-07-31,Pending,bKash
+4856,257,2025-12-12,Delivered,Cash on Delivery
+4857,346,2025-07-26,Delivered,Card
+4858,325,2025-02-26,Delivered,bKash
+4859,70,2025-11-16,Delivered,Card
+4860,172,2025-12-07,Delivered,bKash
+4861,74,2025-07-16,Delivered,Card
+4862,172,2025-10-05,Delivered,Card
+4863,116,2025-04-24,Cancelled,Cash on Delivery
+4864,371,2025-12-03,Delivered,Card
+4865,376,2025-11-22,Delivered,Card
+4866,410,2025-12-07,Delivered,Cash on Delivery
+4867,101,2025-09-28,Delivered,Card
+4868,7,2025-08-26,Cancelled,Card
+4869,18,2025-07-11,Delivered,bKash
+4870,422,2025-12-05,Delivered,bKash
+4871,453,2025-11-24,Delivered,bKash
+4872,106,2025-06-02,Delivered,Nagad
+4873,439,2025-02-01,Delivered,bKash
+4874,265,2025-01-02,Delivered,Cash on Delivery
+4875,93,2025-03-27,Delivered,Nagad
+4877,133,2025-11-17,Delivered,Cash on Delivery
+4878,382,2025-02-09,Delivered,bKash
+4880,92,2025-02-04,Delivered,Nagad
+4881,360,2025-08-17,Delivered,Card
+4882,152,2025-05-09,Delivered,Nagad
+4883,126,2025-03-05,Delivered,bKash
+4884,404,2025-11-13,Delivered,Cash on Delivery
+4885,466,2025-12-21,Delivered,bKash
+4886,278,2025-10-16,Delivered,bKash
+4887,414,2025-12-22,Delivered,Card
+4888,421,2025-08-04,Delivered,Nagad
+4889,295,2025-12-09,Delivered,Cash on Delivery
+4890,415,2025-02-23,Delivered,Nagad
+4891,5,2025-11-08,Delivered,bKash
+4892,18,2025-09-30,Delivered,bKash
+4893,442,2025-04-03,Delivered,bKash
+4894,71,2025-05-10,Delivered,Card
+4895,364,2025-11-03,Pending,bKash
+4896,211,2025-01-05,Delivered,Nagad
+4897,394,2025-10-26,Delivered,Nagad
+4898,333,2025-04-13,Delivered,bKash
+4899,36,2025-01-28,Returned,bKash
+4900,169,2025-05-01,Delivered,Cash on Delivery
+4901,355,2025-11-02,Delivered,Cash on Delivery
+4902,461,2025-11-06,Delivered,Cash on Delivery
+4903,403,2025-07-16,Delivered,bKash
+4904,446,2025-10-24,Delivered,Card
+4905,479,2025-01-13,Delivered,Card
+4906,448,2025-10-05,Delivered,Nagad
+4907,291,2025-04-16,Delivered,Cash on Delivery
+4908,169,2025-09-11,Delivered,Nagad
+4909,255,2025-03-10,Delivered,bKash
+4910,398,2025-02-20,Delivered,bKash
+4911,213,2025-10-15,Delivered,bKash
+4912,416,2025-10-22,Returned,Nagad
+4913,351,2025-12-25,Delivered,bKash
+4915,461,2025-11-03,Delivered,Card
+4916,424,2025-03-13,Delivered,Card
+4917,300,2025-04-18,Delivered,Card
+4918,98,2025-08-25,Delivered,bKash
+4919,114,2025-05-07,Delivered,Cash on Delivery
+4920,420,2025-06-26,Delivered,Nagad
+4921,9,2025-12-15,Delivered,Cash on Delivery
+4922,242,2025-06-10,Delivered,bKash
+4923,310,2025-03-28,Cancelled,Cash on Delivery
+4924,117,2025-02-10,Delivered,Card
+4925,433,2025-02-18,Delivered,Cash on Delivery
+4926,262,2025-07-09,Cancelled,Cash on Delivery
+4927,33,2025-05-14,Delivered,bKash
+4928,161,2025-02-06,Delivered,Card
+4929,199,2025-11-02,Delivered,Card
+4930,112,2025-03-01,Delivered,bKash
+4931,471,2025-11-26,Cancelled,Nagad
+4932,181,2025-02-18,Delivered,Cash on Delivery
+4933,251,2025-06-13,Delivered,bKash
+4934,268,2025-12-15,Delivered,bKash
+4935,111,2025-03-30,Delivered,Cash on Delivery
+4936,284,2025-04-14,Cancelled,bKash
+4937,177,2025-03-30,Delivered,Card
+4938,6,2025-05-10,Delivered,Cash on Delivery
+4939,205,2025-09-19,Pending,bKash
+4940,292,2025-04-28,Delivered,bKash
+4941,59,2025-08-29,Returned,bKash
+4942,390,2025-11-24,Delivered,Card
+4943,331,2025-12-12,Delivered,Nagad
+4944,155,2025-07-25,Cancelled,Cash on Delivery
+4945,297,2025-09-18,Delivered,Nagad
+4946,152,2025-11-08,Pending,Nagad
+4947,324,2025-10-15,Delivered,bKash
+4948,77,2025-04-20,Delivered,bKash
+4949,306,2025-02-18,Cancelled,Cash on Delivery
+4950,28,2025-02-11,Delivered,Card
+4951,9,2025-11-18,Delivered,Nagad
+4952,128,2025-07-23,Delivered,Card
+4953,88,2025-12-06,Delivered,bKash
+4954,246,2025-05-07,Delivered,Cash on Delivery
+4955,83,2025-04-13,Cancelled,Nagad
+4956,123,2025-10-20,Delivered,Cash on Delivery
+4957,49,2025-11-03,Delivered,Cash on Delivery
+4958,444,2025-11-17,Delivered,bKash
+4959,368,2025-04-21,Delivered,Cash on Delivery
+4960,109,2025-11-02,Delivered,Cash on Delivery
+4961,61,2025-02-14,Delivered,bKash
+4962,426,2025-12-21,Cancelled,Cash on Delivery
+4963,335,2025-07-06,Delivered,Card
+4964,443,2025-07-21,Delivered,bKash
+4965,90,2025-05-31,Pending,Nagad
+4966,180,2025-04-09,Delivered,bKash
+4967,60,2025-12-13,Delivered,Cash on Delivery
+4968,212,2025-06-28,Pending,bKash
+4969,82,2025-11-25,Delivered,Nagad
+4970,3,2025-01-14,Delivered,Card
+4971,255,2025-04-11,Delivered,bKash
+4972,490,2025-10-21,Cancelled,Cash on Delivery
+4973,323,2025-02-02,Returned,Cash on Delivery
+4974,379,2025-02-07,Delivered,bKash
+4975,406,2025-10-23,Pending,bKash
+4976,487,2025-04-23,Delivered,bKash
+4977,65,2025-04-10,Delivered,Nagad
+4978,126,2025-07-26,Delivered,Cash on Delivery
+4979,309,2025-03-13,Returned,Nagad
+4980,411,2025-01-16,Pending,Nagad
+4981,387,2025-01-02,Delivered,bKash
+4982,364,2025-01-29,Cancelled,Cash on Delivery
+4983,157,2025-02-27,Delivered,Cash on Delivery
+4984,183,2025-09-12,Delivered,Cash on Delivery
+4985,40,2025-04-19,Delivered,Cash on Delivery
+4986,157,2025-01-27,Pending,Card
+4987,78,2025-12-12,Delivered,Nagad
+4988,470,2025-11-07,Delivered,Cash on Delivery
+4989,46,2025-11-03,Pending,Cash on Delivery
+4990,182,2025-05-04,Delivered,bKash
+4991,444,2025-01-24,Delivered,bKash
+4992,478,2025-03-25,Delivered,Cash on Delivery
+4993,189,2025-07-02,Delivered,Cash on Delivery
+4994,233,2025-03-10,Delivered,Card
+4995,262,2025-12-24,Delivered,bKash
+4996,412,2025-11-30,Cancelled,Cash on Delivery
+4997,385,2025-05-06,Delivered,Nagad
+4998,263,2025-12-14,Delivered,Card
+4999,186,2025-04-29,Cancelled,bKash
+5000,187,2025-02-21,Delivered,bKash
+5001,325,2025-12-19,Cancelled,Card
+5002,418,2025-12-08,Delivered,Card
+5003,39,2025-12-16,Pending,bKash
+5004,385,2025-08-06,Delivered,Cash on Delivery
+5005,241,2025-03-05,Delivered,bKash
+5006,73,2025-08-23,Delivered,bKash
+5007,49,2025-09-09,Returned,Nagad
+5008,169,2025-09-17,Pending,bKash
+5009,125,2025-07-27,Delivered,Cash on Delivery
+5010,53,2025-09-15,Delivered,bKash
+5011,147,2025-07-22,Delivered,Cash on Delivery
+5012,417,2025-10-27,Delivered,Cash on Delivery
+5013,359,2025-03-07,Cancelled,bKash
+5014,105,2025-06-26,Cancelled,Cash on Delivery
+5015,338,2025-06-01,Delivered,Cash on Delivery
+5016,226,2025-07-14,Pending,bKash
+5017,374,2025-02-21,Delivered,Cash on Delivery
+5018,124,2025-04-29,Delivered,bKash
+5019,31,2025-12-15,Delivered,bKash
+5020,157,2025-02-08,Delivered,Nagad
+5021,497,2025-08-20,Delivered,Card
+5022,278,2025-08-31,Delivered,Card
+5023,28,2025-11-19,Delivered,Card
+5024,488,2025-01-13,Delivered,Nagad
+5025,413,2025-01-13,Delivered,Card
+5026,272,2025-04-11,Delivered,Card
+5027,371,2025-02-07,Delivered,Cash on Delivery
+5028,93,2025-02-04,Delivered,Cash on Delivery
+5029,296,2025-02-28,Delivered,bKash
+5030,457,2025-03-11,Cancelled,Nagad
+5031,220,2025-11-03,Delivered,Card
+5032,20,2025-08-22,Delivered,Cash on Delivery
+5033,379,2025-01-12,Delivered,Cash on Delivery
+5034,366,2025-08-18,Delivered,bKash
+5035,370,2025-02-19,Delivered,Nagad
+5036,325,2025-06-03,Delivered,bKash
+5037,69,2025-01-14,Delivered,Card
+5038,58,2025-02-02,Delivered,Card
+5039,397,2025-02-18,Delivered,Card
+5040,428,2025-12-27,Pending,Nagad
+5041,40,2025-11-09,Delivered,bKash
+5042,291,2025-05-09,Delivered,Nagad
+5043,251,2025-08-15,Delivered,Card
+5044,176,2025-09-20,Delivered,Nagad
+5045,323,2025-09-23,Delivered,Cash on Delivery
+5046,458,2025-07-31,Cancelled,Card
+5047,411,2025-07-19,Delivered,Card
+5048,77,2025-06-29,Delivered,Cash on Delivery
+5049,232,2025-03-28,Pending,Card
+5050,468,2025-06-27,Delivered,bKash
+5051,119,2025-01-04,Delivered,Cash on Delivery
+5052,428,2025-12-19,Delivered,Nagad
+5053,246,2025-05-16,Delivered,Cash on Delivery
+5054,261,2025-10-04,Cancelled,Nagad
+5055,126,2025-12-16,Delivered,bKash
+5056,460,2025-07-01,Pending,Cash on Delivery
+5057,265,2025-11-11,Delivered,bKash
+5058,288,2025-12-07,Delivered,Cash on Delivery
+5059,232,2025-02-18,Delivered,Cash on Delivery
+5060,45,2025-01-10,Delivered,Cash on Delivery
+5061,391,2025-02-19,Delivered,Nagad
+5062,165,2025-12-11,Delivered,bKash
+5063,121,2025-11-27,Delivered,Cash on Delivery
+5064,392,2025-04-27,Delivered,bKash
+5065,100,2025-06-12,Pending,bKash
+5067,238,2025-11-14,Delivered,Nagad
+5068,400,2025-12-31,Cancelled,bKash
+5069,26,2025-01-31,Delivered,Cash on Delivery
+5070,388,2025-09-20,Returned,bKash
+5071,115,2025-05-03,Pending,Nagad
+5072,436,2025-01-18,Delivered,Cash on Delivery
+5073,177,2025-11-02,Delivered,Card
+5074,4,2025-01-23,Delivered,bKash
+5075,244,2025-12-27,Delivered,Cash on Delivery
+5076,28,2025-01-10,Delivered,Card
+5077,135,2025-06-22,Delivered,bKash
+5078,359,2025-08-07,Returned,bKash
+5079,281,2025-04-28,Delivered,Card
+5080,355,2025-01-27,Delivered,Nagad
+5081,440,2025-02-12,Delivered,Nagad
+5082,235,2025-12-07,Pending,Cash on Delivery
+5083,272,2025-10-22,Delivered,Card
+5084,30,2025-12-08,Cancelled,Nagad
+5085,144,2025-07-13,Cancelled,Cash on Delivery
+5086,363,2025-07-19,Delivered,Nagad
+5087,31,2025-10-14,Delivered,Card
+5088,180,2025-08-14,Delivered,Card
+5089,69,2025-06-09,Delivered,Cash on Delivery
+5090,429,2025-04-17,Delivered,Nagad
+5091,281,2025-06-27,Delivered,Card
+5092,323,2025-12-13,Pending,bKash
+5093,342,2025-11-14,Delivered,Cash on Delivery
+5094,113,2025-09-27,Delivered,Nagad
+5095,25,2025-11-13,Delivered,Cash on Delivery
+5096,199,2025-02-07,Delivered,Nagad
+5097,93,2025-11-04,Delivered,Cash on Delivery
+5098,161,2025-02-01,Delivered,Nagad
+5099,160,2025-10-16,Delivered,bKash
+5100,392,2025-04-24,Delivered,Card
+5101,160,2025-12-11,Delivered,Cash on Delivery
+5102,76,2025-12-03,Delivered,Cash on Delivery
+5103,480,2025-12-21,Delivered,bKash
+5104,25,2025-11-03,Delivered,bKash
+5105,102,2025-10-19,Delivered,Cash on Delivery
+5106,174,2025-12-30,Returned,Cash on Delivery
+5107,32,2025-02-21,Delivered,bKash
+5108,450,2025-10-20,Delivered,Nagad
+5109,177,2025-07-20,Cancelled,bKash
+5110,392,2025-08-09,Delivered,Card
+5111,68,2025-03-15,Pending,Card
+5112,261,2025-12-14,Delivered,bKash
+5113,64,2025-12-07,Delivered,Card
+5114,116,2025-05-29,Delivered,Cash on Delivery
+5115,204,2025-11-28,Delivered,Cash on Delivery
+5116,432,2025-11-06,Returned,bKash
+5117,154,2025-11-20,Pending,Nagad
+5118,378,2025-07-04,Delivered,Nagad
+5119,46,2025-07-31,Delivered,bKash
+5120,126,2025-03-23,Delivered,Card
+5121,303,2025-01-25,Delivered,Card
+5122,235,2025-12-11,Delivered,Cash on Delivery
+5123,251,2025-11-15,Returned,bKash
+5124,340,2025-11-17,Delivered,Cash on Delivery
+5125,39,2025-09-11,Delivered,Cash on Delivery
+5126,348,2025-01-10,Delivered,Cash on Delivery
+5127,432,2025-01-30,Pending,Card
+5128,384,2025-11-28,Pending,bKash
+5129,143,2025-06-14,Delivered,bKash
+5130,176,2025-05-14,Delivered,Cash on Delivery
+5131,481,2025-03-10,Cancelled,Cash on Delivery
+5132,395,2025-05-09,Delivered,Cash on Delivery
+5133,466,2025-05-02,Pending,Cash on Delivery
+5134,457,2025-07-11,Returned,bKash
+5135,218,2025-07-25,Delivered,Card
+5136,65,2025-11-19,Delivered,Card
+5137,115,2025-10-22,Delivered,Card
+5138,148,2025-04-17,Pending,Card
+5139,418,2025-11-26,Delivered,bKash
+5140,139,2025-07-10,Returned,Cash on Delivery
+5141,181,2025-03-10,Delivered,Card
+5142,426,2025-11-04,Pending,Card
+5143,82,2025-09-28,Delivered,Card
+5144,332,2025-10-27,Delivered,bKash
+5145,276,2025-05-17,Delivered,Card
+5146,493,2025-02-27,Delivered,Card
+5147,245,2025-03-12,Delivered,bKash
+5148,261,2025-11-23,Returned,Nagad
+5149,426,2025-09-13,Delivered,bKash
+5150,496,2025-07-03,Pending,Card
+5151,365,2025-06-14,Delivered,bKash
+5152,350,2025-09-03,Delivered,Card
+5153,439,2025-10-30,Pending,bKash
+5154,490,2025-10-18,Delivered,bKash
+5155,368,2025-02-20,Returned,Nagad
+5156,147,2025-08-04,Pending,Nagad
+5157,322,2025-11-19,Delivered,Cash on Delivery
+5158,119,2025-10-10,Cancelled,Card
+5159,251,2025-11-14,Delivered,bKash
+5160,223,2025-05-24,Delivered,bKash
+5161,494,2025-11-21,Delivered,Cash on Delivery
+5162,278,2025-01-12,Cancelled,Card
+5163,480,2025-11-07,Delivered,Cash on Delivery
+5164,405,2025-11-08,Delivered,bKash
+5165,425,2025-11-23,Pending,bKash
+5166,85,2025-01-15,Delivered,bKash
+5167,388,2025-01-09,Pending,bKash
+5168,126,2025-05-01,Delivered,Cash on Delivery
+5169,289,2025-03-15,Delivered,Cash on Delivery
+5170,244,2025-06-30,Delivered,Card
+5171,130,2025-11-21,Delivered,Card
+5172,493,2025-05-11,Delivered,Cash on Delivery
+5173,438,2025-07-26,Delivered,bKash
+5174,288,2025-07-24,Cancelled,Cash on Delivery
+5175,6,2025-12-08,Delivered,bKash
+5176,92,2025-06-25,Delivered,Cash on Delivery
+5177,114,2025-07-25,Delivered,Cash on Delivery
+5178,486,2025-09-05,Delivered,Card
+5179,202,2025-03-05,Delivered,bKash
+5180,24,2025-09-01,Delivered,bKash
+5181,294,2025-11-11,Cancelled,Card
+5182,476,2025-04-27,Pending,Cash on Delivery
+5183,281,2025-03-07,Cancelled,Card
+5184,223,2025-11-23,Delivered,Card
+5185,88,2025-04-11,Delivered,Cash on Delivery
+5186,440,2025-08-02,Delivered,Cash on Delivery
+5187,53,2025-11-12,Delivered,Card
+5188,467,2025-08-06,Delivered,Cash on Delivery
+5189,112,2025-11-22,Pending,Card
+5190,70,2025-04-25,Delivered,Cash on Delivery
+5191,175,2025-12-12,Delivered,bKash
+5192,3,2025-05-01,Delivered,Cash on Delivery
+5193,8,2025-08-03,Pending,bKash
+5194,94,2025-09-11,Delivered,bKash
+5195,347,2025-12-02,Cancelled,Cash on Delivery
+5196,408,2025-08-25,Delivered,Card
+5197,124,2025-05-26,Delivered,Card
+5198,323,2025-02-19,Returned,bKash
+5199,176,2025-11-12,Delivered,Cash on Delivery
+5200,217,2025-12-29,Delivered,Card
+5201,168,2025-01-01,Delivered,Cash on Delivery
+5202,446,2025-12-14,Delivered,bKash
+5203,256,2025-07-12,Delivered,Cash on Delivery
+5204,254,2025-11-29,Cancelled,Nagad
+5205,430,2025-11-13,Cancelled,bKash
+5206,329,2025-11-09,Delivered,bKash
+5207,75,2025-01-05,Delivered,bKash
+5208,95,2025-03-01,Delivered,Card
+5209,171,2025-05-13,Delivered,Cash on Delivery
+5210,49,2025-07-05,Delivered,Nagad
+5211,347,2025-09-22,Delivered,Cash on Delivery
+5212,248,2025-06-04,Pending,Nagad
+5213,23,2025-08-12,Delivered,bKash
+5214,201,2025-01-04,Delivered,Cash on Delivery
+5215,415,2025-08-29,Returned,Card
+5216,454,2025-12-01,Delivered,Nagad
+5217,481,2025-07-12,Delivered,Cash on Delivery
+5218,462,2025-06-16,Delivered,bKash
+5219,304,2025-04-19,Delivered,Cash on Delivery
+5220,464,2025-12-15,Delivered,Cash on Delivery
+5221,479,2025-01-13,Delivered,Nagad
+5222,318,2025-04-15,Delivered,Cash on Delivery
+5223,207,2025-11-03,Delivered,Nagad
+5224,484,2025-11-13,Delivered,bKash
+5225,208,2025-12-25,Delivered,bKash
+5226,84,2025-12-03,Delivered,Cash on Delivery
+5227,54,2025-12-15,Delivered,Card
+5228,284,2025-07-23,Delivered,Card
+5229,18,2025-07-08,Delivered,Nagad
+5230,60,2025-03-15,Delivered,Nagad
+5231,123,2025-07-25,Delivered,Nagad
+5232,265,2025-09-08,Delivered,Card
+5233,240,2025-12-19,Delivered,bKash
+5234,256,2025-11-28,Returned,Nagad
+5235,254,2025-12-09,Delivered,Card
+5236,498,2025-12-11,Delivered,bKash
+5237,109,2025-07-10,Delivered,bKash
+5238,238,2025-06-10,Delivered,Nagad
+5239,307,2025-02-22,Delivered,bKash
+5240,137,2025-04-09,Delivered,bKash
+5241,91,2025-11-17,Delivered,bKash
+5242,24,2025-02-20,Pending,Card
+5243,164,2025-05-25,Delivered,Cash on Delivery
+5244,128,2025-09-13,Cancelled,Cash on Delivery
+5245,98,2025-11-10,Delivered,Cash on Delivery
+5246,136,2025-12-22,Delivered,bKash
+5247,349,2025-08-26,Delivered,bKash
+5248,414,2025-01-11,Delivered,Card
+5249,259,2025-04-01,Delivered,Nagad
+5250,34,2025-09-28,Delivered,bKash
+5251,369,2025-11-12,Delivered,bKash
+5252,76,2025-12-05,Delivered,bKash
+5253,29,2025-11-07,Delivered,Nagad
+5254,285,2025-01-28,Delivered,Cash on Delivery
+5255,213,2025-09-24,Delivered,Card
+5256,156,2025-02-10,Returned,Cash on Delivery
+5257,484,2025-01-28,Delivered,bKash
+5258,46,2025-09-10,Pending,Cash on Delivery
+5259,27,2025-06-24,Delivered,Nagad
+5260,294,2025-08-25,Delivered,Cash on Delivery
+5261,210,2025-11-07,Delivered,Cash on Delivery
+5262,401,2025-01-26,Delivered,bKash
+5263,21,2025-07-12,Delivered,bKash
+5264,210,2025-11-01,Delivered,Cash on Delivery
+5265,74,2025-11-07,Delivered,Cash on Delivery
+5266,21,2025-07-11,Delivered,Card
+5267,232,2025-07-01,Delivered,bKash
+5268,368,2025-11-28,Delivered,Card
+5269,79,2025-11-18,Delivered,Card
+5270,422,2025-11-17,Pending,Nagad
+5271,260,2025-11-14,Delivered,Card
+5272,241,2025-10-24,Delivered,Cash on Delivery
+5273,462,2025-05-31,Delivered,bKash
+5274,165,2025-07-08,Delivered,Cash on Delivery
+5275,101,2025-05-15,Pending,Nagad
+5276,394,2025-04-02,Delivered,Cash on Delivery
+5277,54,2025-11-16,Delivered,Cash on Delivery
+5278,437,2025-07-04,Delivered,bKash
+5279,413,2025-09-22,Delivered,bKash
+5280,489,2025-02-06,Delivered,Cash on Delivery
+5281,231,2025-10-15,Delivered,Cash on Delivery
+5282,312,2025-08-29,Delivered,Cash on Delivery
+5283,442,2025-12-31,Delivered,Cash on Delivery
+5284,66,2025-02-18,Pending,Card
+5285,154,2025-07-17,Cancelled,bKash
+5286,236,2025-07-06,Delivered,Nagad
+5287,314,2025-07-16,Delivered,bKash
+5288,340,2025-01-20,Delivered,Cash on Delivery
+5289,462,2025-06-22,Delivered,Cash on Delivery
+5290,245,2025-04-20,Delivered,Nagad
+5291,86,2025-08-14,Delivered,Cash on Delivery
+5292,95,2025-03-26,Delivered,bKash
+5293,401,2025-06-08,Delivered,Nagad
+5294,231,2025-08-15,Delivered,bKash
+5295,316,2025-01-24,Delivered,bKash
+5296,282,2025-11-13,Delivered,Cash on Delivery
+5297,407,2025-11-25,Delivered,bKash
+5298,110,2025-01-21,Pending,bKash
+5299,86,2025-11-03,Delivered,Cash on Delivery
+5300,367,2025-11-07,Delivered,Nagad
+5301,218,2025-04-14,Pending,Card
+5302,408,2025-11-11,Delivered,Cash on Delivery
+5303,65,2025-07-02,Pending,bKash
+5304,136,2025-05-05,Pending,bKash
+5305,481,2025-04-10,Cancelled,Cash on Delivery
+5306,422,2025-08-29,Pending,bKash
+5307,32,2025-11-20,Delivered,Cash on Delivery
+5308,409,2025-05-27,Delivered,Cash on Delivery
+5309,33,2025-05-07,Returned,Nagad
+5310,61,2025-02-26,Cancelled,Cash on Delivery
+5311,450,2025-05-09,Delivered,Card
+5312,64,2025-07-12,Delivered,Cash on Delivery
+5313,151,2025-12-23,Delivered,Cash on Delivery
+5314,68,2025-02-01,Cancelled,Card
+5315,299,2025-12-22,Delivered,Cash on Delivery
+5316,29,2025-11-17,Delivered,Cash on Delivery
+5317,144,2025-09-10,Delivered,Card
+5318,164,2025-11-01,Delivered,bKash
+5319,325,2025-06-06,Pending,bKash
+5320,249,2025-12-11,Delivered,bKash
+5321,97,2025-09-23,Delivered,Nagad
+5322,233,2025-12-30,Delivered,Card
+5323,230,2025-03-07,Cancelled,Cash on Delivery
+5324,177,2025-07-23,Delivered,Cash on Delivery
+5325,267,2025-12-05,Delivered,bKash
+5326,164,2025-12-26,Delivered,bKash
+5327,167,2025-11-24,Returned,Card
+5328,392,2025-04-01,Delivered,Card
+5329,126,2025-09-30,Delivered,bKash
+5330,165,2025-01-28,Delivered,Card
+5331,71,2025-02-25,Pending,Cash on Delivery
+5332,350,2025-11-30,Delivered,Cash on Delivery
+5333,354,2025-12-28,Delivered,Card
+5334,340,2025-05-01,Pending,bKash
+5335,85,2025-06-11,Returned,Cash on Delivery
+5336,226,2025-11-13,Delivered,bKash
+5337,147,2025-06-10,Delivered,Cash on Delivery
+5338,382,2025-01-03,Delivered,Card
+5339,169,2025-08-06,Delivered,Nagad
+5340,208,2025-08-06,Delivered,bKash
+5341,228,2025-04-26,Delivered,bKash
+5342,381,2025-04-07,Delivered,bKash
+5343,352,2025-10-05,Delivered,bKash
+5344,410,2025-03-10,Pending,Cash on Delivery
+5345,214,2025-11-24,Delivered,Card
+5346,410,2025-01-15,Cancelled,Card
+5347,436,2025-11-18,Delivered,Card
+5348,262,2025-05-13,Delivered,Cash on Delivery
+5349,340,2025-02-07,Delivered,Nagad
+5350,455,2025-11-17,Delivered,Card
+5351,420,2025-02-24,Delivered,Cash on Delivery
+5352,139,2025-05-03,Delivered,Cash on Delivery
+5353,359,2025-01-08,Delivered,Card
+5354,223,2025-09-05,Delivered,Card
+5355,75,2025-09-13,Delivered,bKash
+5356,186,2025-10-04,Delivered,Card
+5357,489,2025-04-07,Delivered,Cash on Delivery
+5358,479,2025-04-30,Delivered,bKash
+5359,394,2025-12-09,Delivered,bKash
+5360,496,2025-10-27,Delivered,Cash on Delivery
+5361,287,2025-01-14,Delivered,bKash
+5362,379,2025-09-10,Cancelled,Nagad
+5363,83,2025-10-24,Delivered,Cash on Delivery
+5364,150,2025-07-24,Delivered,bKash
+5365,87,2025-08-22,Delivered,bKash
+5366,469,2025-01-01,Delivered,bKash
+5367,308,2025-01-11,Delivered,Nagad
+5368,467,2025-12-27,Delivered,bKash
+5369,209,2025-02-28,Delivered,Nagad
+5370,202,2025-12-28,Pending,Nagad
+5371,338,2025-08-20,Delivered,bKash
+5372,284,2025-10-13,Delivered,Cash on Delivery
+5373,187,2025-04-18,Pending,Cash on Delivery
+5374,159,2025-12-09,Delivered,Card
+5375,257,2025-03-14,Delivered,Nagad
+5376,38,2025-11-26,Delivered,bKash
+5377,94,2025-01-12,Delivered,Nagad
+5378,22,2025-01-08,Pending,Cash on Delivery
+5379,78,2025-01-29,Delivered,Card
+5380,100,2025-12-07,Delivered,bKash
+5381,38,2025-04-04,Delivered,Card
+5382,28,2025-06-14,Delivered,Card
+5383,410,2025-06-22,Delivered,Cash on Delivery
+5384,92,2025-10-16,Delivered,Card
+5385,278,2025-05-08,Delivered,Nagad
+5386,50,2025-01-03,Delivered,bKash
+5387,474,2025-05-22,Cancelled,bKash
+5388,120,2025-04-16,Returned,bKash
+5389,375,2025-09-24,Cancelled,Card
+5390,321,2025-10-02,Delivered,Cash on Delivery
+5391,385,2025-02-03,Cancelled,bKash
+5392,315,2025-10-17,Returned,Cash on Delivery
+5393,255,2025-01-26,Delivered,bKash
+5394,387,2025-08-15,Delivered,Card
+5395,408,2025-05-23,Delivered,bKash
+5396,190,2025-04-20,Pending,bKash
+5397,472,2025-06-26,Returned,Card
+5398,494,2025-04-24,Cancelled,Cash on Delivery
+5399,361,2025-10-17,Delivered,Card
+5400,465,2025-12-19,Pending,bKash
+5401,53,2025-10-25,Delivered,bKash
+5402,271,2025-06-10,Delivered,bKash
+5403,326,2025-07-03,Delivered,Nagad
+5404,464,2025-06-13,Cancelled,Cash on Delivery
+5405,61,2025-11-26,Returned,Cash on Delivery
+5406,404,2025-07-21,Delivered,bKash
+5407,39,2025-06-20,Delivered,bKash
+5408,180,2025-05-30,Delivered,Card
+5409,347,2025-05-17,Delivered,Cash on Delivery
+5410,146,2025-07-21,Cancelled,bKash
+5411,418,2025-09-09,Delivered,bKash
+5412,466,2025-06-07,Delivered,Cash on Delivery
+5413,80,2025-10-22,Delivered,Cash on Delivery
+5414,130,2025-11-08,Delivered,bKash
+5415,38,2025-06-06,Returned,Card
+5416,356,2025-11-28,Delivered,Nagad
+5417,444,2025-03-05,Delivered,Card
+5418,301,2025-12-07,Pending,Nagad
+5419,67,2025-04-18,Delivered,bKash
+5420,87,2025-07-25,Delivered,Nagad
+5421,18,2025-04-14,Delivered,Nagad
+5422,245,2025-06-11,Pending,bKash
+5423,361,2025-12-25,Delivered,Cash on Delivery
+5424,76,2025-09-15,Delivered,Card
+5425,424,2025-01-30,Delivered,Card
+5426,127,2025-11-02,Delivered,bKash
+5427,258,2025-11-26,Delivered,Cash on Delivery
+5428,334,2025-07-25,Delivered,Card
+5429,270,2025-07-19,Delivered,bKash
+5430,239,2025-09-13,Delivered,Nagad
+5431,169,2025-11-10,Delivered,Cash on Delivery
+5432,216,2025-10-01,Delivered,Card
+5433,120,2025-03-21,Delivered,bKash
+5434,148,2025-09-04,Cancelled,Card
+5435,378,2025-04-22,Delivered,bKash
+5436,442,2025-09-30,Returned,Nagad
+5437,425,2025-10-16,Returned,Nagad
+5438,166,2025-03-18,Pending,Card
+5439,161,2025-08-14,Delivered,Card
+5440,30,2025-07-01,Delivered,bKash
+5441,137,2025-04-18,Delivered,bKash
+5442,293,2025-08-03,Delivered,Card
+5443,134,2025-12-29,Delivered,Card
+5444,367,2025-01-01,Delivered,bKash
+5445,26,2025-12-16,Delivered,Card
+5446,206,2025-12-14,Cancelled,Cash on Delivery
+5447,141,2025-07-13,Delivered,Cash on Delivery
+5448,248,2025-08-11,Pending,bKash
+5449,13,2025-05-15,Cancelled,bKash
+5450,210,2025-02-17,Delivered,Cash on Delivery
+5451,395,2025-07-28,Delivered,Card
+5452,429,2025-10-25,Delivered,Nagad
+5453,128,2025-03-26,Returned,Card
+5454,215,2025-09-19,Delivered,Nagad
+5455,346,2025-10-01,Delivered,Card
+5456,232,2025-11-19,Delivered,Cash on Delivery
+5457,272,2025-05-05,Delivered,Card
+5458,171,2025-11-17,Pending,Cash on Delivery
+5459,419,2025-06-01,Returned,Cash on Delivery
+5460,316,2025-11-08,Delivered,Card
+5461,481,2025-11-25,Delivered,Cash on Delivery
+5462,390,2025-06-01,Delivered,Card
+5463,184,2025-12-21,Delivered,bKash
+5464,164,2025-07-28,Delivered,bKash
+5465,45,2025-05-21,Delivered,Cash on Delivery
+5466,312,2025-11-11,Cancelled,Cash on Delivery
+5467,375,2025-08-12,Pending,bKash
+5468,178,2025-08-24,Delivered,Cash on Delivery
+5469,11,2025-12-20,Delivered,Nagad
+5470,413,2025-09-20,Delivered,Cash on Delivery
+5471,112,2025-11-23,Pending,bKash
+5472,292,2025-07-26,Cancelled,bKash
+5473,27,2025-09-29,Delivered,Card
+5474,32,2025-07-01,Delivered,bKash
+5475,450,2025-06-06,Delivered,Card
+5476,337,2025-12-11,Delivered,Cash on Delivery
+5477,3,2025-11-25,Delivered,Cash on Delivery
+5478,51,2025-11-02,Delivered,Cash on Delivery
+5479,247,2025-06-19,Delivered,Card
+5480,341,2025-11-16,Delivered,Card
+5481,212,2025-07-09,Delivered,Cash on Delivery
+5482,437,2025-11-10,Delivered,bKash
+5483,327,2025-08-08,Delivered,Nagad
+5484,308,2025-09-16,Delivered,bKash
+5485,145,2025-02-15,Pending,Card
+5486,341,2025-12-27,Delivered,Cash on Delivery
+5487,437,2025-03-31,Delivered,Cash on Delivery
+5488,25,2025-12-21,Delivered,Card
+5489,368,2025-06-12,Delivered,Cash on Delivery
+5490,440,2025-12-02,Delivered,Card
+5491,217,2025-11-22,Delivered,bKash
+5492,383,2025-11-25,Delivered,Card
+5493,180,2025-12-01,Delivered,Cash on Delivery
+5494,97,2025-08-11,Delivered,Cash on Delivery
+5495,408,2025-11-06,Delivered,Card
+5496,156,2025-03-04,Delivered,Cash on Delivery
+5497,379,2025-01-26,Delivered,Cash on Delivery
+5498,158,2025-07-18,Delivered,bKash
+5499,200,2025-10-23,Delivered,Card
+5500,343,2025-10-07,Delivered,bKash
+5501,171,2025-07-12,Delivered,Card
+5502,404,2025-12-25,Cancelled,Nagad
+5503,20,2025-08-11,Delivered,Cash on Delivery
+5504,6,2025-11-13,Delivered,Card
+5505,41,2025-11-04,Pending,bKash
+5506,129,2025-02-10,Returned,bKash
+5507,27,2025-08-06,Delivered,Card
+5508,191,2025-05-20,Returned,bKash
+5509,13,2025-10-19,Delivered,Card
+5510,379,2025-07-04,Cancelled,Card
+5511,77,2025-12-28,Delivered,bKash
+5512,487,2025-06-07,Delivered,bKash
+5513,429,2025-09-05,Pending,bKash
+5514,348,2025-02-09,Delivered,bKash
+5515,400,2025-12-28,Cancelled,bKash
+5516,388,2025-12-30,Delivered,bKash
+5517,423,2025-05-19,Delivered,bKash
+5518,278,2025-11-02,Pending,Nagad
+5519,312,2025-12-20,Delivered,Card
+5520,235,2025-06-26,Returned,Cash on Delivery
+5521,313,2025-06-26,Cancelled,Card
+5522,191,2025-01-18,Delivered,bKash
+5523,62,2025-12-24,Delivered,bKash
+5524,466,2025-11-07,Delivered,Cash on Delivery
+5525,350,2025-01-10,Delivered,Nagad
+5526,353,2025-06-22,Delivered,bKash
+5527,141,2025-01-02,Delivered,bKash
+5528,386,2025-03-01,Cancelled,Cash on Delivery
+5529,260,2025-11-30,Delivered,Card
+5530,39,2025-09-15,Delivered,bKash
+5531,478,2025-04-19,Delivered,Cash on Delivery
+5532,496,2025-10-18,Delivered,bKash
+5533,436,2025-08-10,Delivered,bKash
+5534,238,2025-03-25,Delivered,Card
+5535,117,2025-09-18,Delivered,Card
+5536,6,2025-11-03,Delivered,Nagad
+5537,369,2025-10-24,Cancelled,Card
+5538,446,2025-02-26,Cancelled,bKash
+5539,53,2025-03-26,Delivered,bKash
+5540,343,2025-04-21,Returned,bKash
+5541,14,2025-05-05,Pending,Card
+5542,389,2025-11-21,Delivered,Card
+5543,15,2025-11-30,Pending,bKash
+5544,488,2025-07-18,Delivered,bKash
+5545,86,2025-07-17,Delivered,Cash on Delivery
+5546,201,2025-11-20,Delivered,bKash
+5547,348,2025-06-13,Cancelled,Nagad
+5548,424,2025-03-24,Cancelled,bKash
+5549,182,2025-02-19,Pending,bKash
+5550,491,2025-05-01,Pending,Nagad
+5551,8,2025-12-05,Delivered,Cash on Delivery
+5552,236,2025-06-21,Delivered,bKash
+5553,495,2025-12-17,Delivered,bKash
+5554,138,2025-06-25,Delivered,Cash on Delivery
+5555,267,2025-12-22,Delivered,Card
+5556,223,2025-12-31,Pending,bKash
+5557,197,2025-02-28,Delivered,bKash
+5558,384,2025-02-11,Delivered,Cash on Delivery
+5559,260,2025-03-31,Pending,bKash
+5560,357,2025-11-07,Cancelled,bKash
+5561,260,2025-06-17,Delivered,Nagad
+5562,499,2025-11-12,Delivered,Card
+5563,236,2025-11-21,Delivered,Cash on Delivery
+5564,399,2025-07-21,Delivered,Card
+5565,307,2025-04-13,Delivered,Cash on Delivery
+5566,401,2025-05-06,Delivered,bKash
+5567,443,2025-02-23,Delivered,bKash
+5568,114,2025-11-03,Delivered,bKash
+5569,151,2025-04-13,Delivered,Nagad
+5570,151,2025-04-17,Delivered,bKash
+5571,244,2025-11-28,Delivered,Card
+5572,246,2025-10-19,Delivered,Card
+5573,2,2025-12-09,Delivered,Cash on Delivery
+5574,448,2025-07-01,Delivered,Cash on Delivery
+5575,430,2025-07-15,Delivered,bKash
+5576,301,2025-12-04,Pending,Card
+5577,153,2025-07-06,Delivered,Cash on Delivery
+5578,414,2025-11-26,Delivered,bKash
+5579,136,2025-12-08,Delivered,Card
+5580,153,2025-11-06,Delivered,bKash
+5581,499,2025-07-10,Delivered,bKash
+5582,462,2025-09-17,Delivered,Nagad
+5583,293,2025-08-09,Returned,Cash on Delivery
+5584,85,2025-07-03,Delivered,Card
+5585,62,2025-01-28,Delivered,Cash on Delivery
+5586,483,2025-11-27,Delivered,bKash
+5587,133,2025-11-21,Pending,Nagad
+5588,341,2025-12-07,Pending,bKash
+5589,177,2025-04-18,Delivered,Nagad
+5590,249,2025-11-25,Delivered,Nagad
+5591,494,2025-12-15,Returned,Cash on Delivery
+5592,297,2025-10-24,Pending,Card
+5593,216,2025-10-14,Delivered,Cash on Delivery
+5594,208,2025-11-11,Pending,Cash on Delivery
+5595,116,2025-01-06,Delivered,bKash
+5596,279,2025-06-26,Delivered,bKash
+5597,285,2025-12-30,Delivered,Cash on Delivery
+5598,48,2025-11-02,Delivered,Nagad
+5599,203,2025-03-23,Cancelled,Cash on Delivery
+5600,323,2025-11-14,Delivered,bKash
+5601,28,2025-03-07,Delivered,Cash on Delivery
+5602,489,2025-10-06,Delivered,Card
+5603,431,2025-12-31,Delivered,bKash
+5604,319,2025-02-21,Delivered,Cash on Delivery
+5605,8,2025-03-27,Delivered,Cash on Delivery
+5606,259,2025-04-23,Delivered,Cash on Delivery
+5607,450,2025-11-21,Delivered,bKash
+5608,12,2025-06-12,Delivered,bKash
+5609,396,2025-04-13,Delivered,Cash on Delivery
+5610,420,2025-04-28,Delivered,Card
+5611,38,2025-08-07,Pending,Nagad
+5612,116,2025-05-22,Delivered,Nagad
+5613,362,2025-12-16,Delivered,Nagad
+5614,456,2025-10-27,Delivered,Nagad
+5615,386,2025-11-08,Delivered,bKash
+5616,263,2025-04-04,Returned,bKash
+5617,302,2025-09-23,Delivered,Cash on Delivery
+5618,263,2025-09-30,Delivered,bKash
+5619,289,2025-02-26,Delivered,Cash on Delivery
+5620,386,2025-01-27,Delivered,Card
+5621,25,2025-01-17,Delivered,Nagad
+5622,105,2025-10-07,Delivered,bKash
+5623,30,2025-08-17,Delivered,Cash on Delivery
+5624,399,2025-10-17,Delivered,bKash
+5625,364,2025-12-30,Delivered,Cash on Delivery
+5626,27,2025-05-27,Cancelled,Nagad
+5627,53,2025-08-04,Pending,bKash
+5628,133,2025-09-21,Delivered,Card
+5629,121,2025-05-26,Delivered,Card
+5630,260,2025-12-01,Delivered,Cash on Delivery
+5631,250,2025-11-25,Delivered,Cash on Delivery
+5632,179,2025-11-29,Returned,Cash on Delivery
+5633,83,2025-12-29,Delivered,Card
+5634,325,2025-05-23,Delivered,Card
+5635,395,2025-02-11,Delivered,Nagad
+5636,321,2025-06-26,Delivered,Cash on Delivery
+5637,404,2025-09-30,Delivered,Card
+5638,457,2025-10-12,Returned,Card
+5639,422,2025-05-22,Delivered,Card
+5640,326,2025-04-17,Delivered,Cash on Delivery
+5641,25,2025-06-12,Returned,Cash on Delivery
+5642,168,2025-10-21,Delivered,Cash on Delivery
+5643,214,2025-01-23,Delivered,Cash on Delivery
+5644,357,2025-04-30,Delivered,Cash on Delivery
+5645,424,2025-12-15,Delivered,bKash
+5646,321,2025-10-22,Delivered,bKash
+5647,182,2025-06-21,Delivered,bKash
+5648,394,2025-02-01,Delivered,Nagad
+5649,348,2025-04-06,Delivered,bKash
+5650,400,2025-12-17,Delivered,bKash
+5651,295,2025-06-23,Returned,Cash on Delivery
+5652,324,2025-12-31,Delivered,Card
+5653,174,2025-07-27,Delivered,bKash
+5654,200,2025-11-14,Cancelled,Cash on Delivery
+5655,139,2025-09-29,Delivered,Nagad
+5656,129,2025-11-19,Delivered,Card
+5657,327,2025-04-24,Delivered,bKash
+5658,192,2025-12-14,Delivered,Nagad
+5659,67,2025-03-29,Pending,Cash on Delivery
+5660,18,2025-06-09,Delivered,Cash on Delivery
+5661,431,2025-12-07,Cancelled,bKash
+5662,218,2025-11-24,Delivered,Card
+5663,289,2025-04-07,Delivered,bKash
+5664,453,2025-02-17,Delivered,bKash
+5665,56,2025-01-02,Delivered,Cash on Delivery
+5666,469,2025-07-02,Delivered,Cash on Delivery
+5667,352,2025-12-27,Delivered,Cash on Delivery
+5668,321,2025-03-22,Delivered,Card
+5669,216,2025-06-10,Cancelled,bKash
+5670,354,2025-12-16,Returned,Cash on Delivery
+5671,103,2025-10-09,Delivered,Card
+5672,152,2025-01-02,Pending,Card
+5673,481,2025-07-02,Delivered,bKash
+5674,138,2025-02-22,Delivered,Card
+5675,360,2025-04-01,Delivered,Card
+5676,466,2025-11-29,Delivered,bKash
+5677,297,2025-08-12,Delivered,Nagad
+5678,149,2025-03-14,Delivered,Card
+5679,425,2025-12-10,Returned,bKash
+5680,414,2025-03-24,Delivered,bKash
+5681,272,2025-05-11,Cancelled,bKash
+5682,58,2025-12-07,Delivered,bKash
+5683,221,2025-11-28,Delivered,Card
+5684,216,2025-04-30,Delivered,Card
+5685,95,2025-07-08,Delivered,bKash
+5686,202,2025-11-08,Delivered,Nagad
+5687,77,2025-01-06,Delivered,bKash
+5688,347,2025-11-21,Delivered,bKash
+5689,216,2025-12-01,Delivered,Nagad
+5690,366,2025-08-08,Delivered,Cash on Delivery
+5691,228,2025-07-29,Delivered,Cash on Delivery
+5692,357,2025-09-11,Pending,bKash
+5693,367,2025-06-10,Delivered,Nagad
+5694,81,2025-05-14,Delivered,Cash on Delivery
+5695,222,2025-05-09,Delivered,Cash on Delivery
+5696,375,2025-02-28,Delivered,Cash on Delivery
+5697,297,2025-11-04,Delivered,bKash
+5698,111,2025-04-28,Delivered,Nagad
+5699,417,2025-04-14,Pending,Nagad
+5700,100,2025-12-18,Delivered,Cash on Delivery
+5701,497,2025-07-04,Delivered,Card
+5702,354,2025-08-15,Delivered,Cash on Delivery
+5703,162,2025-03-31,Delivered,bKash
+5704,98,2025-11-18,Delivered,Cash on Delivery
+5705,451,2025-09-23,Delivered,Card
+5706,262,2025-06-14,Delivered,Cash on Delivery
+5707,404,2025-02-23,Delivered,Nagad
+5708,416,2025-11-01,Delivered,Card
+5709,35,2025-05-28,Delivered,Cash on Delivery
+5710,342,2025-09-01,Delivered,Cash on Delivery
+5711,168,2025-12-27,Cancelled,Card
+5712,454,2025-12-02,Returned,Card
+5713,110,2025-10-11,Delivered,bKash
+5714,17,2025-11-20,Delivered,Cash on Delivery
+5715,333,2025-03-17,Delivered,bKash
+5716,277,2025-09-03,Returned,Card
+5717,278,2025-11-30,Delivered,bKash
+5718,132,2025-12-09,Delivered,bKash
+5719,248,2025-02-22,Delivered,Card
+5720,483,2025-03-11,Returned,Cash on Delivery
+5721,382,2025-03-16,Delivered,Card
+5722,493,2025-02-08,Cancelled,Cash on Delivery
+5723,167,2025-10-03,Delivered,Cash on Delivery
+5725,192,2025-07-08,Delivered,Card
+5726,468,2025-08-07,Delivered,Cash on Delivery
+5727,433,2025-11-16,Delivered,Cash on Delivery
+5728,83,2025-06-01,Delivered,bKash
+5729,487,2025-06-22,Delivered,Card
+5730,304,2025-12-13,Delivered,Card
+5731,389,2025-11-30,Delivered,Cash on Delivery
+5732,290,2025-01-23,Delivered,bKash
+5733,109,2025-11-14,Delivered,Nagad
+5734,493,2025-10-28,Delivered,Cash on Delivery
+5735,57,2025-01-27,Cancelled,Cash on Delivery
+5736,405,2025-03-21,Returned,Nagad
+5737,105,2025-04-06,Returned,Cash on Delivery
+5738,393,2025-10-21,Delivered,Card
+5739,212,2025-07-04,Delivered,Card
+5740,119,2025-07-15,Returned,Cash on Delivery
+5741,119,2025-08-24,Delivered,bKash
+5742,160,2025-04-11,Delivered,Nagad
+5743,451,2025-09-18,Delivered,Card
+5744,385,2025-01-12,Delivered,Card
+5745,336,2025-02-11,Delivered,Cash on Delivery
+5746,315,2025-10-25,Pending,Cash on Delivery
+5747,209,2025-08-29,Delivered,Cash on Delivery
+5748,451,2025-11-09,Delivered,Card
+5749,137,2025-06-10,Delivered,bKash
+5750,472,2025-11-24,Cancelled,Cash on Delivery
+5751,191,2025-09-03,Delivered,Nagad
+5752,171,2025-10-03,Pending,Card
+5753,239,2025-04-12,Delivered,Cash on Delivery
+5754,375,2025-05-08,Cancelled,Card
+5755,357,2025-12-04,Cancelled,Cash on Delivery
+5756,384,2025-05-23,Delivered,Card
+5757,45,2025-04-10,Delivered,Nagad
+5758,81,2025-04-01,Delivered,Card
+5759,425,2025-06-07,Cancelled,Cash on Delivery
+5760,491,2025-11-10,Cancelled,Cash on Delivery
+5761,64,2025-10-06,Delivered,bKash
+5762,453,2025-11-17,Delivered,bKash
+5763,132,2025-12-11,Pending,Cash on Delivery
+5764,490,2025-03-18,Pending,Cash on Delivery
+5765,497,2025-11-29,Delivered,Cash on Delivery
+5766,319,2025-04-23,Pending,Cash on Delivery
+5767,96,2025-11-15,Delivered,Card
+5768,395,2025-03-16,Delivered,Nagad
+5769,51,2025-11-17,Delivered,Card
+5770,168,2025-04-26,Delivered,bKash
+5771,320,2025-11-15,Delivered,Nagad
+5772,34,2025-11-18,Delivered,Nagad
+5773,197,2025-07-03,Delivered,Card
+5774,399,2025-02-27,Delivered,Card
+5775,46,2025-11-21,Delivered,Cash on Delivery
+5776,184,2025-06-02,Cancelled,bKash
+5777,2,2025-09-04,Pending,Cash on Delivery
+5778,330,2025-11-18,Delivered,bKash
+5779,40,2025-07-15,Cancelled,bKash
+5780,141,2025-01-21,Delivered,bKash
+5781,262,2025-03-22,Delivered,Cash on Delivery
+5782,108,2025-03-19,Delivered,Cash on Delivery
+5783,116,2025-11-30,Delivered,bKash
+5784,418,2025-11-28,Cancelled,Card
+5785,389,2025-06-24,Delivered,bKash
+5786,41,2025-12-15,Delivered,Cash on Delivery
+5787,429,2025-03-31,Delivered,Cash on Delivery
+5788,235,2025-09-05,Delivered,Nagad
+5789,73,2025-05-24,Delivered,Nagad
+5790,454,2025-03-29,Delivered,bKash
+5791,169,2025-04-02,Delivered,Nagad
+5792,163,2025-06-03,Delivered,bKash
+5793,74,2025-05-04,Delivered,bKash
+5794,444,2025-03-19,Delivered,bKash
+5795,144,2025-05-02,Delivered,Cash on Delivery
+5796,297,2025-02-16,Delivered,Cash on Delivery
+5797,120,2025-12-20,Delivered,bKash
+5798,448,2025-05-19,Delivered,Nagad
+5799,394,2025-02-09,Cancelled,Nagad
+5800,252,2025-07-30,Delivered,Nagad
+5801,173,2025-11-19,Cancelled,bKash
+5802,328,2025-05-12,Delivered,Nagad
+5803,248,2025-11-05,Delivered,Cash on Delivery
+5804,471,2025-08-11,Delivered,Cash on Delivery
+5805,337,2025-09-27,Delivered,bKash
+5806,14,2025-04-19,Delivered,Cash on Delivery
+5807,412,2025-11-30,Delivered,Cash on Delivery
+5808,97,2025-05-07,Delivered,Cash on Delivery
+5809,151,2025-12-04,Delivered,Nagad
+5810,219,2025-11-29,Delivered,Card
+5811,105,2025-10-14,Cancelled,Cash on Delivery
+5812,472,2025-11-17,Returned,bKash
+5813,490,2025-05-17,Delivered,bKash
+5814,78,2025-11-10,Delivered,bKash
+5815,161,2025-12-04,Delivered,bKash
+5816,186,2025-07-28,Returned,bKash
+5817,336,2025-12-03,Delivered,Card
+5818,299,2025-04-12,Delivered,Card
+5819,339,2025-11-17,Pending,Cash on Delivery
+5820,16,2025-01-20,Delivered,bKash
+5821,258,2025-01-23,Delivered,Card
+5822,106,2025-12-28,Returned,Card
+5823,115,2025-01-01,Returned,Card
+5825,71,2025-12-15,Delivered,Nagad
+5826,16,2025-06-05,Delivered,bKash
+5827,244,2025-09-23,Delivered,bKash
+5828,368,2025-06-27,Delivered,bKash
+5829,256,2025-02-03,Delivered,Card
+5830,81,2025-03-09,Delivered,Cash on Delivery
+5831,387,2025-10-05,Delivered,Nagad
+5832,191,2025-11-27,Pending,Card
+5833,355,2025-08-06,Cancelled,Card
+5834,102,2025-05-08,Delivered,Cash on Delivery
+5835,457,2025-05-16,Delivered,Card
+5836,142,2025-12-14,Delivered,Card
+5837,486,2025-08-10,Delivered,Cash on Delivery
+5838,189,2025-08-13,Delivered,Cash on Delivery
+5839,364,2025-05-08,Delivered,Card
+5840,252,2025-11-19,Delivered,Cash on Delivery
+5841,39,2025-11-22,Delivered,Card
+5842,50,2025-01-15,Delivered,bKash
+5843,203,2025-03-28,Pending,Cash on Delivery
+5844,97,2025-11-02,Delivered,Cash on Delivery
+5845,305,2025-11-02,Delivered,Cash on Delivery
+5847,296,2025-10-15,Returned,Cash on Delivery
+5848,103,2025-07-18,Delivered,Nagad
+5849,91,2025-12-17,Delivered,bKash
+5851,292,2025-12-28,Delivered,Cash on Delivery
+5852,200,2025-06-04,Delivered,bKash
+5853,175,2025-04-14,Returned,Cash on Delivery
+5854,171,2025-04-20,Delivered,bKash
+5855,170,2025-08-05,Delivered,bKash
+5856,202,2025-12-21,Delivered,Cash on Delivery
+5857,418,2025-06-26,Delivered,Cash on Delivery
+5858,289,2025-01-10,Delivered,Card
+5859,211,2025-01-15,Delivered,bKash
+5860,375,2025-06-06,Cancelled,Cash on Delivery
+5861,264,2025-09-30,Delivered,Nagad
+5862,475,2025-11-19,Cancelled,bKash
+5863,282,2025-12-29,Pending,Card
+5864,109,2025-03-31,Delivered,bKash
+5865,282,2025-12-08,Delivered,bKash
+5866,387,2025-07-29,Pending,Card
+5867,107,2025-12-27,Cancelled,Cash on Delivery
+5868,102,2025-09-07,Delivered,bKash
+5869,300,2025-07-16,Returned,bKash
+5870,443,2025-12-26,Delivered,bKash
+5871,168,2025-01-30,Delivered,Card
+5872,254,2025-02-25,Delivered,bKash
+5873,328,2025-11-25,Delivered,bKash
+5874,332,2025-05-01,Delivered,bKash
+5875,73,2025-03-29,Delivered,Cash on Delivery
+5876,198,2025-09-02,Delivered,bKash
+5877,498,2025-10-25,Cancelled,Cash on Delivery
+5878,445,2025-06-10,Delivered,Nagad
+5879,387,2025-11-18,Delivered,bKash
+5880,13,2025-09-25,Delivered,bKash
+5881,209,2025-09-19,Delivered,Cash on Delivery
+5882,26,2025-11-13,Delivered,bKash
+5883,151,2025-03-09,Delivered,bKash
+5884,433,2025-11-16,Delivered,Cash on Delivery
+5885,194,2025-12-16,Pending,Cash on Delivery
+5886,85,2025-12-29,Delivered,Nagad
+5887,361,2025-07-30,Delivered,bKash
+5888,380,2025-10-03,Cancelled,bKash
+5889,328,2025-11-21,Delivered,Card
+5890,405,2025-11-08,Delivered,Card
+5891,352,2025-11-24,Delivered,bKash
+5892,318,2025-10-31,Delivered,Card
+5893,445,2025-05-20,Delivered,bKash
+5894,163,2025-09-24,Cancelled,bKash
+5895,229,2025-11-15,Delivered,Card
+5896,282,2025-10-20,Returned,bKash
+5897,335,2025-10-23,Delivered,Cash on Delivery
+5898,239,2025-12-08,Delivered,bKash
+5899,221,2025-08-03,Delivered,Cash on Delivery
+5900,83,2025-06-23,Delivered,Card
+5901,320,2025-11-15,Delivered,Card
+5902,62,2025-08-21,Delivered,Nagad
+5903,238,2025-07-26,Delivered,Nagad
+5904,205,2025-07-07,Delivered,bKash
+5905,389,2025-12-15,Delivered,bKash
+5906,239,2025-11-07,Delivered,Cash on Delivery
+5907,3,2025-02-24,Delivered,bKash
+5908,254,2025-06-07,Delivered,Card
+5909,108,2025-09-21,Delivered,Card
+5910,191,2025-10-27,Delivered,Card
+5911,149,2025-11-01,Delivered,Cash on Delivery
+5912,84,2025-10-19,Delivered,Cash on Delivery
+5913,473,2025-11-09,Delivered,bKash
+5914,127,2025-12-18,Delivered,Card
+5915,254,2025-08-10,Pending,Card
+5916,415,2025-12-27,Cancelled,Cash on Delivery
+5917,183,2025-07-25,Delivered,Nagad
+5918,469,2025-09-17,Delivered,bKash
+5919,203,2025-12-17,Delivered,Cash on Delivery
+5920,474,2025-10-04,Delivered,bKash
+5921,226,2025-07-18,Delivered,Cash on Delivery
+5922,8,2025-12-08,Delivered,bKash
+5923,434,2025-11-23,Delivered,Card
+5924,433,2025-12-13,Delivered,bKash
+5925,482,2025-06-13,Delivered,Cash on Delivery
+5926,62,2025-07-29,Delivered,Card
+5927,423,2025-11-09,Cancelled,bKash
+5928,171,2025-07-31,Pending,Nagad
+5929,421,2025-11-26,Delivered,Cash on Delivery
+5930,482,2025-11-07,Cancelled,bKash
+5931,100,2025-09-24,Cancelled,Card
+5932,186,2025-12-22,Delivered,Cash on Delivery
+5933,135,2025-03-22,Delivered,Card
+5934,153,2025-04-04,Cancelled,bKash
+5935,299,2025-06-23,Delivered,Card
+5936,207,2025-09-22,Delivered,bKash
+5937,329,2025-11-07,Delivered,Cash on Delivery
+5938,338,2025-11-01,Delivered,Cash on Delivery
+5939,102,2025-12-18,Delivered,bKash
+5940,22,2025-06-11,Pending,Nagad
+5941,374,2025-08-24,Delivered,Cash on Delivery
+5942,91,2025-12-15,Delivered,Cash on Delivery
+5943,100,2025-06-19,Delivered,Card
+5944,301,2025-03-10,Delivered,Card
+5945,132,2025-12-24,Delivered,Cash on Delivery
+5946,95,2025-12-29,Delivered,Cash on Delivery
+5947,154,2025-10-21,Delivered,Card
+5948,262,2025-12-28,Delivered,bKash
+5949,423,2025-01-06,Pending,bKash
+5950,495,2025-12-30,Returned,bKash
+5951,367,2025-02-10,Delivered,Card
+5952,450,2025-09-19,Delivered,Card
+5953,266,2025-03-16,Delivered,bKash
+5954,205,2025-04-02,Returned,Cash on Delivery
+5955,410,2025-11-11,Cancelled,Cash on Delivery
+5956,152,2025-11-16,Delivered,Card
+5957,407,2025-10-06,Returned,Card
+5958,500,2025-04-23,Delivered,bKash
+5959,195,2025-11-01,Delivered,bKash
+5960,317,2025-03-15,Delivered,Cash on Delivery
+5961,391,2025-11-10,Delivered,bKash
+5962,392,2025-01-31,Delivered,Cash on Delivery
+5963,104,2025-09-29,Delivered,Card
+5964,482,2025-07-06,Cancelled,Nagad
+5965,252,2025-10-04,Pending,Cash on Delivery
+5966,21,2025-06-14,Delivered,Cash on Delivery
+5967,60,2025-02-27,Delivered,Nagad
+5968,364,2025-10-02,Delivered,bKash
+5969,214,2025-08-19,Delivered,Card
+5970,54,2025-06-19,Cancelled,bKash
+5971,261,2025-12-18,Delivered,Cash on Delivery
+5972,300,2025-05-06,Delivered,Cash on Delivery
+5973,40,2025-12-14,Cancelled,bKash
+5974,176,2025-04-06,Delivered,Cash on Delivery
+5975,232,2025-04-14,Delivered,Card
+5976,391,2025-04-12,Delivered,Card
+5977,326,2025-01-05,Cancelled,Cash on Delivery
+5978,44,2025-12-05,Pending,bKash
+5979,308,2025-03-28,Delivered,Card
+5980,452,2025-03-02,Delivered,Cash on Delivery
+5981,28,2025-02-25,Delivered,bKash
+5982,494,2025-12-27,Delivered,bKash
+5983,48,2025-06-24,Delivered,Card
+5984,312,2025-04-30,Delivered,Card
+5985,176,2025-11-10,Delivered,Cash on Delivery
+5986,366,2025-02-02,Delivered,Cash on Delivery
+5987,422,2025-04-25,Delivered,Card
+5988,426,2025-11-09,Delivered,Cash on Delivery
+5989,435,2025-10-21,Delivered,Cash on Delivery
+5990,409,2025-01-22,Delivered,Cash on Delivery
+5991,155,2025-06-05,Delivered,Cash on Delivery
+5992,233,2025-12-29,Delivered,bKash
+5993,360,2025-11-01,Delivered,Cash on Delivery
+5994,85,2025-07-07,Delivered,bKash
+5995,289,2025-03-23,Delivered,Card
+5996,266,2025-05-04,Delivered,bKash
+5997,492,2025-03-23,Delivered,bKash
+5998,25,2025-08-30,Delivered,bKash
+5999,48,2025-04-17,Delivered,Nagad
+6000,16,2025-12-23,Delivered,bKash

@@ -1,0 +1,9 @@
+table,issue,records_affected
+orders,duplicate order rows,40
+orders,missing customer_id,30
+orders,order_date in the future (after 2025-12-31),15
+order_items,negative quantity,30
+order_items,product_id not found in products (orphan),20
+customers,inconsistent city text (case or spaces),60
+customers,missing values (any column),0
+products,price <= 0,0

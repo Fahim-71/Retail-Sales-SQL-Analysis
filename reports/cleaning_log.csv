@@ -1,0 +1,7 @@
+,records
+duplicate orders removed,40
+orders without customer removed,30
+future-dated orders removed,15
+negative-quantity items removed,30
+orphan product items removed,20
+items of removed orders removed,110
