@@ -98,3 +98,4 @@ SELECT CASE WHEN n_orders <= 5  THEN '1-5 orders'
 FROM (SELECT customer_id, COUNT(*) AS n_orders FROM orders WHERE status = 'Delivered' GROUP BY customer_id)
 GROUP BY order_band
 ORDER BY MIN(n_orders);
+//done
